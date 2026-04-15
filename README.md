@@ -4,7 +4,6 @@
 Thank you for evaluating this artifact.
 
 To evaluate this artifact, a Linux machine with docker is needed.
-
 ## Benchmark Suites
 
 Under the root directory of the project, the benchmarks are located in:
@@ -21,6 +20,11 @@ Under the root directory of the project, the benchmarks are located in:
    ```shell
    docker container run --cap-add SYS_PTRACE --interactive --tty spreduce/spreduce:latest /bin/bash
    ```
+
+## Notes
+- All the experiments take very long time to finish, so it is recommended to use tools like screen and tmux to manage sessions if the experiments are run on remote server.
+
+- For all operations in docker, use 'sudo' when meeting permission denied issues, password is 123
 
 ## RQ1 (Performance)
 ```shell
