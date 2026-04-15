@@ -1,0 +1,11 @@
+{
+    "Subject": "spreduce_coarse/Java-18",
+    "Reducer": "vulcan",
+    "Environment": null,
+    "Origin token count": 1586,
+    "Iteration": 0,
+    "Query": 9220,
+    "Time": 6241,
+    "Token_remaining": 97,
+    "Ret_code": 0
+}

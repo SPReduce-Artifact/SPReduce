@@ -1,0 +1,11 @@
+{
+    "Subject": "c_benchmarks/gcc-70586",
+    "Reducer": "vulcan",
+    "Environment": null,
+    "Origin token count": 212259,
+    "Iteration": 0,
+    "Query": 21451,
+    "Time": 26583,
+    "Token_remaining": 94,
+    "Ret_code": 0
+}

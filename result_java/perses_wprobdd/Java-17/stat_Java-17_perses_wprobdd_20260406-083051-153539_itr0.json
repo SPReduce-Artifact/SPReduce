@@ -1,0 +1,11 @@
+{
+    "Subject": "java_benchmarks/Java-17",
+    "Reducer": "perses_wprobdd",
+    "Environment": null,
+    "Origin token count": 94540,
+    "Iteration": 0,
+    "Query": 1716,
+    "Time": 2499,
+    "Token_remaining": 165,
+    "Ret_code": 0
+}

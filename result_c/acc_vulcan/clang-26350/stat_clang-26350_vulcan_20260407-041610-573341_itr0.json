@@ -1,0 +1,11 @@
+{
+    "Subject": "spreduce_coarse/clang-26350",
+    "Reducer": "vulcan",
+    "Environment": null,
+    "Origin token count": 6058,
+    "Iteration": 0,
+    "Query": 36917,
+    "Time": 5439,
+    "Token_remaining": 94,
+    "Ret_code": 0
+}

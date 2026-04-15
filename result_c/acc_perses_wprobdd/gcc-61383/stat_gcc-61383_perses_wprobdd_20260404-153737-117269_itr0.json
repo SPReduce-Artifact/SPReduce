@@ -1,0 +1,11 @@
+{
+    "Subject": "spreduce_coarse/gcc-61383",
+    "Reducer": "perses_wprobdd",
+    "Environment": null,
+    "Origin token count": 9110,
+    "Iteration": 0,
+    "Query": 4705,
+    "Time": 2834,
+    "Token_remaining": 304,
+    "Ret_code": 0
+}

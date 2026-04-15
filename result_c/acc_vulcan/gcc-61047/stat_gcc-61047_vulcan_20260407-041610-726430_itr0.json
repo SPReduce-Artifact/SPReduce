@@ -1,0 +1,11 @@
+{
+    "Subject": "spreduce_coarse/gcc-61047",
+    "Reducer": "vulcan",
+    "Environment": null,
+    "Origin token count": 3571,
+    "Iteration": 0,
+    "Query": 9584,
+    "Time": 3833,
+    "Token_remaining": 80,
+    "Ret_code": 0
+}

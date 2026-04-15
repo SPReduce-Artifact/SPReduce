@@ -1,0 +1,11 @@
+{
+    "Subject": "c_benchmarks/clang-27137",
+    "Reducer": "creduce",
+    "Environment": null,
+    "Origin token count": 174538,
+    "Iteration": 0,
+    "Query": 25049,
+    "Time": 11969,
+    "Token_remaining": 50,
+    "Ret_code": 0
+}

@@ -1,0 +1,11 @@
+{
+    "Subject": "spreduce_coarse/clang-26350",
+    "Reducer": "creduce",
+    "Environment": null,
+    "Origin token count": 6058,
+    "Iteration": 0,
+    "Query": 25767,
+    "Time": 3782,
+    "Token_remaining": 98,
+    "Ret_code": 0
+}

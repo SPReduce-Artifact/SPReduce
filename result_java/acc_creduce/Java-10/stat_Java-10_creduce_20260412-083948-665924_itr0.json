@@ -1,0 +1,11 @@
+{
+    "Subject": "spreduce_coarse/Java-10",
+    "Reducer": "creduce",
+    "Environment": null,
+    "Origin token count": 151,
+    "Iteration": 0,
+    "Query": 5960,
+    "Time": 6205,
+    "Token_remaining": 97,
+    "Ret_code": 0
+}

@@ -1,0 +1,11 @@
+{
+    "Subject": "spreduce_coarse/clang-31259",
+    "Reducer": "perses_wprobdd",
+    "Environment": null,
+    "Origin token count": 4168,
+    "Iteration": 0,
+    "Query": 3153,
+    "Time": 2233,
+    "Token_remaining": 385,
+    "Ret_code": 0
+}

@@ -1,0 +1,11 @@
+{
+    "Subject": "spreduce_coarse/gcc-70586",
+    "Reducer": "creduce",
+    "Environment": null,
+    "Origin token count": 9448,
+    "Iteration": 0,
+    "Query": 46737,
+    "Time": 8152,
+    "Token_remaining": 121,
+    "Ret_code": 0
+}

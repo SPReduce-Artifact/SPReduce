@@ -1,0 +1,11 @@
+{
+    "Subject": "java_benchmarks/Java-03",
+    "Reducer": "spreduce_coarse",
+    "Environment": null,
+    "Origin token count": 631,
+    "Iteration": 0,
+    "Query": 30,
+    "Time": 122,
+    "Token_remaining": 129,
+    "Ret_code": 0
+}

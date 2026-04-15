@@ -1,0 +1,11 @@
+{
+    "Subject": "java_benchmarks/Java-02",
+    "Reducer": "vulcan",
+    "Environment": null,
+    "Origin token count": 1488,
+    "Iteration": 0,
+    "Query": 4450,
+    "Time": 7152,
+    "Token_remaining": 80,
+    "Ret_code": 0
+}
