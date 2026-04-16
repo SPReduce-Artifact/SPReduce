@@ -30,10 +30,7 @@ Under the root directory of the project, the benchmarks are located in:
 ```shell
 # For C Benchmarks:
 cd /tmp/cenv
-./run_stat_parallel_c.py -s c_benchmarks/* -r spreduce -o stat_result_c
-./run_stat_parallel_c.py -s c_benchmarks/* -r creduce -o stat_result_c
-./run_stat_parallel_c.py -s c_benchmarks/* -r perses_wprobdd -o stat_result_c
-./run_stat_parallel_c.py -s c_benchmarks/* -r vulcan -o stat_result_c
+./run_stat_parallel_c.py -s c_benchmarks/* -r spreduce creduce perses_wprobdd vulcan -o stat_result_c
 # Run convert_result_to_csv.py to export the results into csv files, use '-h' to see usage notes
 ./convert_result_to_csv.py -d stat_result_c/spreduce_0/* -o spreduce.csv
 ./convert_result_to_csv.py -d stat_result_c/creduce_0/* -o creduce.csv
@@ -43,10 +40,7 @@ cd /tmp/cenv
 ./parse_reduce_process.py -d stat_result_c/* -o process_c.csv 
 # For Java benchmarks:
 cd /tmp/javaenv
-./run_stat_parallel_java.py -s java_benchmarks/* -r spreduce -o stat_result_java
-./run_stat_parallel_java.py -s java_benchmarks/* -r creduce -o stat_result_java
-./run_stat_parallel_java.py -s java_benchmarks/* -r perses_wprobdd -o stat_result_java
-./run_stat_parallel_java.py -s java_benchmarks/* -r vulcan -o stat_result_java
+./run_stat_parallel_java.py -s java_benchmarks/* -r spreduce creduce perses_wprobdd vulcan -o stat_result_java
 # Run convert_result_to_csv.py to export the results into csv files, use '-h' to see usage notes
 ./convert_result_to_csv.py -d stat_result_java/spreduce_0/* -o spreduce.csv
 ./convert_result_to_csv.py -d stat_result_java/creduce_0/* -o creduce.csv
@@ -63,43 +57,33 @@ cd /tmp/javaenv
 cd /tmp/cenv
 ./run_stat_parallel_c.py -s c_benchmarks/* -r spreduce_coarse -o stat_result_c
 cp -rf stat_result_c/spreduce_coarse_0 spreduce_coarse
-./run_stat_parallel_c.py -s spreduce_coarse/* -r creduce -o stat_result_c
-./run_stat_parallel_c.py -s spreduce_coarse/* -r perses_wprobdd -o stat_result_c
-./run_stat_parallel_c.py -s spreduce_coarse/* -r vulcan -o stat_result_c
+./run_stat_parallel_c.py -s spreduce_coarse/* -r creduce perses_wprobdd vulcan -o acc_stat_result_c
 ./convert_result_to_csv.py -d stat_result_c/spreduce_coarse_0/* -o spreduce.csv
-./convert_result_to_csv.py -d stat_result_c/creduce_0/* -o creduce.csv
-./convert_result_to_csv.py -d stat_result_c/perses_wprobdd_0/* -o perses_wprobdd.csv
-./convert_result_to_csv.py -d stat_result_c/vulcan_0/* -o vulcan.csv
+./convert_result_to_csv.py -d acc_stat_result_c/creduce_0/* -o creduce.csv
+./convert_result_to_csv.py -d acc_stat_result_c/perses_wprobdd_0/* -o perses_wprobdd.csv
+./convert_result_to_csv.py -d acc_stat_result_c/vulcan_0/* -o vulcan.csv
 # For Java benchmarks:
 cd /tmp/javaenv
 ./run_stat_parallel_java.py -s java_benchmarks/* -r spreduce_coarse -o stat_result_java
 cp -rf stat_result_java/spreduce_coarse_0 spreduce_coarse
-./run_stat_parallel_java.py -s spreduce_coarse/* -r creduce -o stat_result_java
-./run_stat_parallel_java.py -s spreduce_coarse/* -r perses_wprobdd -o stat_result_java
-./run_stat_parallel_java.py -s spreduce_coarse/* -r vulcan -o stat_result_java
+./run_stat_parallel_java.py -s spreduce_coarse/* -r creduce perses_wprobdd vulcan -o acc_stat_result_java
 ./convert_result_to_csv.py -d stat_result_java/spreduce_coarse_0/* -o spreduce_coarse.csv
-./convert_result_to_csv.py -d stat_result_java/creduce_0/* -o creduce.csv
-./convert_result_to_csv.py -d stat_result_java/perses_wprobdd_0/* -o perses_wprobdd.csv
-./convert_result_to_csv.py -d stat_result_java/vulcan_0/* -o vulcan.csv
+./convert_result_to_csv.py -d acc_stat_result_java/creduce_0/* -o creduce.csv
+./convert_result_to_csv.py -d acc_stat_result_java/perses_wprobdd_0/* -o perses_wprobdd.csv
+./convert_result_to_csv.py -d acc_stat_result_java/vulcan_0/* -o vulcan.csv
 ```
 ## RQ3 (Ablation)
 ```shell
 # For C Benchmarks:
 cd /tmp/cenv
-./run_stat_parallel_c.py -s c_benchmarks/* -r spreduce -o stat_result_c
-./run_stat_parallel_c.py -s c_benchmarks/* -r spreduce_blank -o stat_result_c
-./run_stat_parallel_c.py -s c_benchmarks/* -r spreduce_s -o stat_result_c
-./run_stat_parallel_c.py -s c_benchmarks/* -r spreduce_sc -o stat_result_c
+./run_stat_parallel_c.py -s c_benchmarks/* -r spreduce spreduce_blank spreduce_s spreduce_sc -o stat_result_c
 ./convert_result_to_csv.py -d stat_result_c/spreduce_0/* -o spreduce.csv
 ./convert_result_to_csv.py -d stat_result_c/spreduce_blank_0/* -o spreduce_blank.csv
 ./convert_result_to_csv.py -d stat_result_c/spreduce_s_0/* -o spreduce_s.csv
 ./convert_result_to_csv.py -d stat_result_c/spreduce_sc_0/* -o spreduce_sc.csv
 # For Java benchmarks:
 cd /tmp/javaenv
-./run_stat_parallel_java.py -s java_benchmarks/* -r spreduce -o stat_result_java
-./run_stat_parallel_java.py -s java_benchmarks/* -r spreduce_blank -o stat_result_java
-./run_stat_parallel_java.py -s java_benchmarks/* -r spreduce_s -o stat_result_java
-./run_stat_parallel_java.py -s java_benchmarks/* -r spreduce_sc -o stat_result_java
+./run_stat_parallel_java.py -s java_benchmarks/* -r spreduce spreduce_blank spreduce_s spreduce_sc -o stat_result_java
 ./convert_result_to_csv.py -d stat_result_java/spreduce_0/* -o spreduce.csv
 ./convert_result_to_csv.py -d stat_result_java/spreduce_blank_0/* -o spreduce_blank.csv
 ./convert_result_to_csv.py -d stat_result_java/spreduce_s_0/* -o spreduce_s.csv
