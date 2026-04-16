@@ -39,6 +39,8 @@ cd /tmp/cenv
 ./convert_result_to_csv.py -d stat_result_c/creduce_0/* -o creduce.csv
 ./convert_result_to_csv.py -d stat_result_c/perses_wprobdd_0/* -o perses_wprobdd.csv
 ./convert_result_to_csv.py -d stat_result_c/vulcan_0/* -o vulcan.csv
+# Run parse_reduce_process.py to export the reduce process into csv files
+./parse_reduce_process.py -d stat_result_c/* -o process_c.csv 
 # For Java benchmarks:
 cd /tmp/javaenv
 ./run_stat_parallel_java.py -s java_benchmarks/* -r spreduce -o stat_result_java
@@ -50,6 +52,8 @@ cd /tmp/javaenv
 ./convert_result_to_csv.py -d stat_result_java/creduce_0/* -o creduce.csv
 ./convert_result_to_csv.py -d stat_result_java/perses_wprobdd_0/* -o perses_wprobdd.csv
 ./convert_result_to_csv.py -d stat_result_java/vulcan_0/* -o vulcan.csv
+# Run parse_reduce_process.py to export the reduce process into csv files, the output is in process_java_s.csv and process_java_l.csv
+./parse_reduce_process.py -d stat_result_java/* -o process_java.csv 
 ```
 
 ## RQ2 (Generalizability)
