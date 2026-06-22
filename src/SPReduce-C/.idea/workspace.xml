@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SPReduce-C:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fac609a0-9823-4094-86c8-cf3cfeeea313" name="更改" comment="v1.0">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/CDDSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/OneRoundDeltaSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/OriginOrderReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/ReducerType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SPReduce/tester/TimeoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SPReduce/utils/RecordType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/RuntimeReduce_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SPReduce_C_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/parser/DependencyGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/parser/DependencyGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/parser/DependencyRewriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/parser/DependencyRewriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/parser/ExpReduceUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/parser/ExpReduceUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/parser/ExpressionRewriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/parser/ExpressionRewriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/parser/FileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/parser/FileParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/parser/FileRewriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/parser/FileRewriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/parser/NodeUnwrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/parser/NodeUnwrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/parser/ReversedDependencyRewriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/parser/ReversedDependencyRewriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/parser/RewriterType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/parser/RewriterType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/parser/UniqueID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/parser/UniqueID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/parser/rewriter/InsertionWrapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/parser/rewriter/InsertionWrapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/parser/rewriter/Rewriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/parser/rewriter/Rewriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/CallTraceHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/CallTraceHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/CallTraceReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/CallTraceReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/CallUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/CallUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/CoverageHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/CoverageHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/CoverageReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/CoverageReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/DeclPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/DeclPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/DeltaSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/DeltaSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/ExpressionReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/ExpressionReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/GlobalReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/GlobalReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/HGlobalReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/HGlobalReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/InlineReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/InlineReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/LocalExpressionReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/LocalExpressionReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/MacroUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/MacroUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/RandomTraceReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/RandomTraceReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/Reducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/Reducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/ReducerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/reducer/ReducerRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/reducer/ReducerType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/tester/CallTraceResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/tester/CallTraceResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/tester/CallTraceTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/tester/CallTraceTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/tester/CoverageResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/tester/CoverageResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/tester/CoverageTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/tester/CoverageTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/tester/InitialChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/tester/InitialChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/tester/OutputTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/tester/OutputTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/tester/TestCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/tester/TestCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/tester/TestContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/tester/TestContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/tester/TestRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/tester/TestRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/tester/TestStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/tester/TestStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/utils/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/utils/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/utils/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPReduce/utils/Record.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runtimeReduce/utils/RecordType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CacheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CacheTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CovTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CovTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FunctionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FunctionalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ReducerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReducerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestFileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestFileParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test1/Test.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test1/exp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test1/foe.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test1/test.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2vWls3CU6QCM3f1xtP03BnGL24g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Acreation/SPReduce/src/SPReduce-Java",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="runtimeReduce.reducer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dynamicReduce.reducer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SPReduce.Main" />
+      <module name="RuntimeReduce" />
+      <option name="PROGRAM_PARAMETERS" value="-bd &quot;testcases\test1&quot; -f Test.c -b test.sh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SPReduce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fac609a0-9823-4094-86c8-cf3cfeeea313" name="更改" comment="" />
+      <created>1744268919953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744268919953</updated>
+    </task>
+    <task id="LOCAL-00001" summary="完成了基础的测试、修改、输出模块">
+      <created>1744645993731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744645993731</updated>
+    </task>
+    <task id="LOCAL-00002" summary="完成依赖图">
+      <created>1744707349745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744707349745</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完成覆盖率删除、方法删除">
+      <created>1745301406285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745301406285</updated>
+    </task>
+    <task id="LOCAL-00004" summary="完成表达式删除、函数内联">
+      <created>1745473973229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745473973229</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修复覆盖率、calltrace等">
+      <created>1746338012577</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746338012577</updated>
+    </task>
+    <task id="LOCAL-00006" summary="完成timeout">
+      <created>1746713577054</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746713577054</updated>
+    </task>
+    <task id="LOCAL-00007" summary="v1.0">
+      <created>1748159570765</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748159570765</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成了基础的测试、修改、输出模块" />
+    <MESSAGE value="完成依赖图" />
+    <MESSAGE value="完成覆盖率删除、方法删除" />
+    <MESSAGE value="完成表达式删除、函数内联" />
+    <MESSAGE value="修复覆盖率、calltrace等" />
+    <MESSAGE value="完成timeout" />
+    <MESSAGE value="v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0" />
+  </component>
+</project>
