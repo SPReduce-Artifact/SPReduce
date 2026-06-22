@@ -1,0 +1,11 @@
+{
+    "Subject": "spreduce_coarse/Java-13",
+    "Reducer": "perses_wprobdd",
+    "Environment": null,
+    "Origin token count": 1851,
+    "Iteration": 0,
+    "Query": 860,
+    "Time": 815,
+    "Token_remaining": 140,
+    "Ret_code": 0
+}

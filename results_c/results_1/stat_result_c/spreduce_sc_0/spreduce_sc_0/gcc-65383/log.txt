@@ -1,0 +1,2474 @@
+[2026-05-11 21:11:15] ---TOTAL start---
+[2026-05-11 21:11:16] ---COVERAGE_REDUCER start---
+[2026-05-11 21:11:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00002 failed
+[2026-05-11 21:11:18] initial coverage size is 1192
+[2026-05-11 21:11:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00004 failed
+[2026-05-11 21:11:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00005 failed
+[2026-05-11 21:11:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00006 failed
+[2026-05-11 21:11:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00007 failed
+[2026-05-11 21:11:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00008 failed
+[2026-05-11 21:11:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00009 succeed
+[2026-05-11 21:11:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00011 failed
+[2026-05-11 21:11:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00012 failed
+[2026-05-11 21:11:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00013 failed
+[2026-05-11 21:11:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00014 failed
+[2026-05-11 21:11:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00015 succeed
+[2026-05-11 21:11:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00017 failed
+[2026-05-11 21:11:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00018 failed
+[2026-05-11 21:11:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00019 failed
+[2026-05-11 21:11:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00020 failed
+[2026-05-11 21:11:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00021 succeed
+[2026-05-11 21:11:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00023 failed
+[2026-05-11 21:11:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00024 succeed
+[2026-05-11 21:11:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00026 failed
+[2026-05-11 21:11:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00027 failed
+[2026-05-11 21:11:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00028 failed
+[2026-05-11 21:11:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00029 failed
+[2026-05-11 21:11:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00030 failed
+[2026-05-11 21:11:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00031 succeed
+[2026-05-11 21:11:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00033 failed
+[2026-05-11 21:11:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00034 succeed
+[2026-05-11 21:11:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00036 failed
+[2026-05-11 21:11:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00037 failed
+[2026-05-11 21:11:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00038 succeed
+[2026-05-11 21:11:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00040 failed
+[2026-05-11 21:11:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00041 failed
+[2026-05-11 21:11:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00042 failed
+[2026-05-11 21:11:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00043 succeed
+[2026-05-11 21:11:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00045 succeed
+[2026-05-11 21:11:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00047 succeed
+[2026-05-11 21:11:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00049 failed
+[2026-05-11 21:11:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00050 succeed
+[2026-05-11 21:11:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00052 succeed
+[2026-05-11 21:11:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00054 failed
+[2026-05-11 21:12:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00055 failed
+[2026-05-11 21:12:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00056 failed
+[2026-05-11 21:12:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00057 failed
+[2026-05-11 21:12:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00058 failed
+[2026-05-11 21:12:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00059 succeed
+[2026-05-11 21:12:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00061 failed
+[2026-05-11 21:12:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00062 succeed
+[2026-05-11 21:12:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00064 failed
+[2026-05-11 21:12:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00065 succeed
+[2026-05-11 21:12:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00067 failed
+[2026-05-11 21:12:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00068 failed
+[2026-05-11 21:12:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00069 succeed
+[2026-05-11 21:12:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00071 succeed
+[2026-05-11 21:12:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00073 failed
+[2026-05-11 21:12:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00074 failed
+[2026-05-11 21:12:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00075 failed
+[2026-05-11 21:12:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00076 succeed
+[2026-05-11 21:12:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00078 failed
+[2026-05-11 21:12:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00079 failed
+[2026-05-11 21:12:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00080 failed
+[2026-05-11 21:12:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00081 failed
+[2026-05-11 21:12:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00082 failed
+[2026-05-11 21:12:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00083 failed
+[2026-05-11 21:12:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00084 failed
+[2026-05-11 21:12:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00085 failed
+[2026-05-11 21:12:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00086 failed
+[2026-05-11 21:12:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00087 failed
+[2026-05-11 21:12:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00088 failed
+[2026-05-11 21:12:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00089 succeed
+[2026-05-11 21:12:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00091 failed
+[2026-05-11 21:12:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00092 failed
+[2026-05-11 21:12:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00093 failed
+[2026-05-11 21:12:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00094 failed
+[2026-05-11 21:12:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00095 succeed
+[2026-05-11 21:12:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00097 failed
+[2026-05-11 21:12:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00098 failed
+[2026-05-11 21:12:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00099 failed
+[2026-05-11 21:12:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00100 failed
+[2026-05-11 21:12:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00101 succeed
+[2026-05-11 21:12:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00103 failed
+[2026-05-11 21:12:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00104 failed
+[2026-05-11 21:12:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00105 failed
+[2026-05-11 21:12:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00106 failed
+[2026-05-11 21:12:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00107 failed
+[2026-05-11 21:12:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00108 failed
+[2026-05-11 21:12:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00109 failed
+[2026-05-11 21:12:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00110 failed
+[2026-05-11 21:12:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00111 failed
+[2026-05-11 21:12:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00112 failed
+[2026-05-11 21:12:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00113 failed
+[2026-05-11 21:12:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00114 succeed
+[2026-05-11 21:12:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00116 failed
+[2026-05-11 21:12:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00117 failed
+[2026-05-11 21:12:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00118 failed
+[2026-05-11 21:12:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00119 failed
+[2026-05-11 21:12:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00120 succeed
+[2026-05-11 21:12:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00122 failed
+[2026-05-11 21:12:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00123 failed
+[2026-05-11 21:12:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00124 failed
+[2026-05-11 21:12:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00125 succeed
+[2026-05-11 21:12:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00127 failed
+[2026-05-11 21:12:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00128 failed
+[2026-05-11 21:12:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00129 failed
+[2026-05-11 21:12:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00130 failed
+[2026-05-11 21:12:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00131 failed
+[2026-05-11 21:12:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00132 failed
+[2026-05-11 21:12:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00133 failed
+[2026-05-11 21:12:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00134 failed
+[2026-05-11 21:12:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00135 failed
+[2026-05-11 21:12:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00136 failed
+[2026-05-11 21:12:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00137 failed
+[2026-05-11 21:12:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00138 succeed
+[2026-05-11 21:12:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00140 failed
+[2026-05-11 21:12:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00141 failed
+[2026-05-11 21:12:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00142 failed
+[2026-05-11 21:12:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00143 failed
+[2026-05-11 21:12:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00144 failed
+[2026-05-11 21:12:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00145 succeed
+[2026-05-11 21:12:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00147 failed
+[2026-05-11 21:12:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00148 failed
+[2026-05-11 21:12:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00149 failed
+[2026-05-11 21:12:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00150 succeed
+[2026-05-11 21:12:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00152 failed
+[2026-05-11 21:12:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00153 failed
+[2026-05-11 21:12:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00154 failed
+[2026-05-11 21:12:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00155 failed
+[2026-05-11 21:12:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00156 failed
+[2026-05-11 21:12:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00157 failed
+[2026-05-11 21:12:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00158 failed
+[2026-05-11 21:12:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00159 failed
+[2026-05-11 21:12:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00160 failed
+[2026-05-11 21:12:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00161 succeed
+[2026-05-11 21:12:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00163 failed
+[2026-05-11 21:12:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00164 failed
+[2026-05-11 21:12:55] ---CALL_TRACE_REDUCER start---
+[2026-05-11 21:12:55] Working in function main
+[2026-05-11 21:12:55] deleting 429: int main (void)
+539: }
+[2026-05-11 21:12:55] Actually deleting 429: int main (void)
+539: }
+[2026-05-11 21:12:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00166 failed
+[2026-05-11 21:12:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00167 failed
+[2026-05-11 21:12:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00168 failed
+[2026-05-11 21:12:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00169 succeed
+[2026-05-11 21:13:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00170 succeed
+[2026-05-11 21:13:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00171 failed
+[2026-05-11 21:13:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00172 failed
+[2026-05-11 21:13:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00173 failed
+[2026-05-11 21:13:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00174 succeed
+[2026-05-11 21:13:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00175 succeed
+[2026-05-11 21:13:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00176 failed
+[2026-05-11 21:13:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00177 failed
+[2026-05-11 21:13:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00178 succeed
+[2026-05-11 21:13:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00179 succeed
+[2026-05-11 21:13:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00180 failed
+[2026-05-11 21:13:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00181 failed
+[2026-05-11 21:13:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00182 succeed
+[2026-05-11 21:13:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00183 failed
+[2026-05-11 21:13:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00184 succeed
+[2026-05-11 21:13:16] deleting 432: {}
+[2026-05-11 21:13:16] Actually deleting 432: {}
+[2026-05-11 21:13:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00185 succeed
+[2026-05-11 21:13:18] deleting 431: func_1();
+[2026-05-11 21:13:18] Actually deleting 431: func_1();
+[2026-05-11 21:13:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00186 failed
+[2026-05-11 21:13:19] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:13:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00187 succeed
+[2026-05-11 21:13:21] Working in function crc32_gentab
+[2026-05-11 21:13:21] deleting 197: static void
+214: }
+[2026-05-11 21:13:21] Actually deleting 197: static void
+214: }
+[2026-05-11 21:13:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00188 succeed
+[2026-05-11 21:13:22] Working in function func_1
+[2026-05-11 21:13:22] deleting 272: static uint16_t func_1(void)
+286: }
+[2026-05-11 21:13:22] Actually deleting 272: static uint16_t func_1(void)
+286: }
+[2026-05-11 21:13:22] Actually deleting 413: func_1();
+[2026-05-11 21:13:22] Actually deleting 266: static uint16_t func_1(void);
+[2026-05-11 21:13:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00189 failed
+[2026-05-11 21:13:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00190 failed
+[2026-05-11 21:13:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00191 failed
+[2026-05-11 21:13:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00192 failed
+[2026-05-11 21:13:24] deleting 285: return g_2084;
+[2026-05-11 21:13:24] Actually deleting 285: return g_2084;
+[2026-05-11 21:13:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00193 failed
+[2026-05-11 21:13:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00194 failed
+[2026-05-11 21:13:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00195 failed
+[2026-05-11 21:13:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00196 succeed
+[2026-05-11 21:13:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00197 failed
+[2026-05-11 21:13:28] deleting 283: return g_2084;
+[2026-05-11 21:13:28] Actually deleting 283: return g_2084;
+[2026-05-11 21:13:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00198 failed
+[2026-05-11 21:13:28] deleting 274: int16_t l_2 = 0x8A1FL;
+[2026-05-11 21:13:28] Actually deleting 274: int16_t l_2 = 0x8A1FL;
+[2026-05-11 21:13:28] Actually deleting 281: g_2236[1] = ((l_2 , (safe_add_func_int32_t_s_s(g_5, l_2))) > (l_4311[0] = (l_4310 = (1L == (safe_lshift_func_uint16_t_u_u(9UL, (safe_mod_func_int32_t_s_s((((l_4309 = ((func_10((func_13(g_5, g_5, (((func_17((g_35 = (g_34[5] = (l_22 & (g_33 = (func_23(((((safe_lshift_func_uint16_t_u_u(((g_27[2][0] = g_5) <= l_2), 9)) & 0x9E17L) , g_27[2][0]) | g_5)) , g_32[1][0]))))), g_5, g_5, g_5) <= 1L) != g_5) <= l_2)) , g_247), l_2) , 0xB8L) != l_22)) , 255UL) >= g_3901), g_3045[2][3]))))))));
+[2026-05-11 21:13:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00199 failed
+[2026-05-11 21:13:29] deleting 275: int16_t l_22 = (-1L);
+[2026-05-11 21:13:29] Actually deleting 275: int16_t l_22 = (-1L);
+[2026-05-11 21:13:29] Actually deleting 281: g_2236[1] = ((l_2 , (safe_add_func_int32_t_s_s(g_5, l_2))) > (l_4311[0] = (l_4310 = (1L == (safe_lshift_func_uint16_t_u_u(9UL, (safe_mod_func_int32_t_s_s((((l_4309 = ((func_10((func_13(g_5, g_5, (((func_17((g_35 = (g_34[5] = (l_22 & (g_33 = (func_23(((((safe_lshift_func_uint16_t_u_u(((g_27[2][0] = g_5) <= l_2), 9)) & 0x9E17L) , g_27[2][0]) | g_5)) , g_32[1][0]))))), g_5, g_5, g_5) <= 1L) != g_5) <= l_2)) , g_247), l_2) , 0xB8L) != l_22)) , 255UL) >= g_3901), g_3045[2][3]))))))));
+[2026-05-11 21:13:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00200 failed
+[2026-05-11 21:13:29] deleting 276: int32_t l_4309 = 0xCC5AFC00L;
+[2026-05-11 21:13:29] Actually deleting 276: int32_t l_4309 = 0xCC5AFC00L;
+[2026-05-11 21:13:29] Actually deleting 281: g_2236[1] = ((l_2 , (safe_add_func_int32_t_s_s(g_5, l_2))) > (l_4311[0] = (l_4310 = (1L == (safe_lshift_func_uint16_t_u_u(9UL, (safe_mod_func_int32_t_s_s((((l_4309 = ((func_10((func_13(g_5, g_5, (((func_17((g_35 = (g_34[5] = (l_22 & (g_33 = (func_23(((((safe_lshift_func_uint16_t_u_u(((g_27[2][0] = g_5) <= l_2), 9)) & 0x9E17L) , g_27[2][0]) | g_5)) , g_32[1][0]))))), g_5, g_5, g_5) <= 1L) != g_5) <= l_2)) , g_247), l_2) , 0xB8L) != l_22)) , 255UL) >= g_3901), g_3045[2][3]))))))));
+[2026-05-11 21:13:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00201 failed
+[2026-05-11 21:13:30] deleting 277: int32_t l_4310 = 0xDB3F08D2L;
+[2026-05-11 21:13:30] Actually deleting 277: int32_t l_4310 = 0xDB3F08D2L;
+[2026-05-11 21:13:30] Actually deleting 281: g_2236[1] = ((l_2 , (safe_add_func_int32_t_s_s(g_5, l_2))) > (l_4311[0] = (l_4310 = (1L == (safe_lshift_func_uint16_t_u_u(9UL, (safe_mod_func_int32_t_s_s((((l_4309 = ((func_10((func_13(g_5, g_5, (((func_17((g_35 = (g_34[5] = (l_22 & (g_33 = (func_23(((((safe_lshift_func_uint16_t_u_u(((g_27[2][0] = g_5) <= l_2), 9)) & 0x9E17L) , g_27[2][0]) | g_5)) , g_32[1][0]))))), g_5, g_5, g_5) <= 1L) != g_5) <= l_2)) , g_247), l_2) , 0xB8L) != l_22)) , 255UL) >= g_3901), g_3045[2][3]))))))));
+[2026-05-11 21:13:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00202 failed
+[2026-05-11 21:13:31] deleting 278: int32_t l_4311[3];
+[2026-05-11 21:13:31] Actually deleting 278: int32_t l_4311[3];
+[2026-05-11 21:13:31] Actually deleting 281: g_2236[1] = ((l_2 , (safe_add_func_int32_t_s_s(g_5, l_2))) > (l_4311[0] = (l_4310 = (1L == (safe_lshift_func_uint16_t_u_u(9UL, (safe_mod_func_int32_t_s_s((((l_4309 = ((func_10((func_13(g_5, g_5, (((func_17((g_35 = (g_34[5] = (l_22 & (g_33 = (func_23(((((safe_lshift_func_uint16_t_u_u(((g_27[2][0] = g_5) <= l_2), 9)) & 0x9E17L) , g_27[2][0]) | g_5)) , g_32[1][0]))))), g_5, g_5, g_5) <= 1L) != g_5) <= l_2)) , g_247), l_2) , 0xB8L) != l_22)) , 255UL) >= g_3901), g_3045[2][3]))))))));
+[2026-05-11 21:13:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00203 failed
+[2026-05-11 21:13:31] deleting 279: uint32_t l_4312 = 4294967293UL;
+[2026-05-11 21:13:31] Actually deleting 279: uint32_t l_4312 = 4294967293UL;
+[2026-05-11 21:13:31] Actually deleting 282: g_5 = l_4312;
+[2026-05-11 21:13:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00204 succeed
+[2026-05-11 21:13:33] deleting 279: {}
+[2026-05-11 21:13:33] Actually deleting 279: {}
+[2026-05-11 21:13:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00205 succeed
+[2026-05-11 21:13:35] deleting 279: g_2236[1] = ((l_2 , (safe_add_func_int32_t_s_s(g_5, l_2))) > (l_4311[0] = (l_4310 = (1L == (safe_lshift_func_uint16_t_u_u(9UL, (safe_mod_func_int32_t_s_s((((l_4309 = ((func_10((func_13(g_5, g_5, (((func_17((g_35 = (g_34[5] = (l_22 & (g_33 = (func_23(((((safe_lshift_func_uint16_t_u_u(((g_27[2][0] = g_5) <= l_2), 9)) & 0x9E17L) , g_27[2][0]) | g_5)) , g_32[1][0]))))), g_5, g_5, g_5) <= 1L) != g_5) <= l_2)) , g_247), l_2) , 0xB8L) != l_22)) , 255UL) >= g_3901), g_3045[2][3]))))))));
+[2026-05-11 21:13:35] Actually deleting 279: g_2236[1] = ((l_2 , (safe_add_func_int32_t_s_s(g_5, l_2))) > (l_4311[0] = (l_4310 = (1L == (safe_lshift_func_uint16_t_u_u(9UL, (safe_mod_func_int32_t_s_s((((l_4309 = ((func_10((func_13(g_5, g_5, (((func_17((g_35 = (g_34[5] = (l_22 & (g_33 = (func_23(((((safe_lshift_func_uint16_t_u_u(((g_27[2][0] = g_5) <= l_2), 9)) & 0x9E17L) , g_27[2][0]) | g_5)) , g_32[1][0]))))), g_5, g_5, g_5) <= 1L) != g_5) <= l_2)) , g_247), l_2) , 0xB8L) != l_22)) , 255UL) >= g_3901), g_3045[2][3]))))))));
+[2026-05-11 21:13:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00206 failed
+[2026-05-11 21:13:36] deleting 280: return g_2084;
+[2026-05-11 21:13:36] Actually deleting 280: return g_2084;
+[2026-05-11 21:13:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00207 failed
+[2026-05-11 21:13:36] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:13:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00208 succeed
+[2026-05-11 21:13:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00209 succeed
+[2026-05-11 21:13:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00210 failed
+[2026-05-11 21:13:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00211 failed
+[2026-05-11 21:13:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00212 succeed
+[2026-05-11 21:13:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00213 succeed
+[2026-05-11 21:13:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00214 succeed
+[2026-05-11 21:13:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00215 succeed
+[2026-05-11 21:13:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00216 failed
+[2026-05-11 21:13:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00217 succeed
+[2026-05-11 21:13:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00218 failed
+[2026-05-11 21:13:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00219 succeed
+[2026-05-11 21:13:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00220 failed
+[2026-05-11 21:13:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00221 succeed
+[2026-05-11 21:13:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00222 failed
+[2026-05-11 21:13:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00223 succeed
+[2026-05-11 21:13:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00224 failed
+[2026-05-11 21:13:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00225 succeed
+[2026-05-11 21:13:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00226 failed
+[2026-05-11 21:13:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00227 failed
+[2026-05-11 21:13:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00228 failed
+[2026-05-11 21:13:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00229 failed
+[2026-05-11 21:14:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00230 succeed
+[2026-05-11 21:14:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00231 succeed
+[2026-05-11 21:14:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00232 succeed
+[2026-05-11 21:14:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00233 succeed
+[2026-05-11 21:14:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00234 failed
+[2026-05-11 21:14:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00235 succeed
+[2026-05-11 21:14:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00236 succeed
+[2026-05-11 21:14:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00237 succeed
+[2026-05-11 21:14:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00238 succeed
+[2026-05-11 21:14:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00239 failed
+[2026-05-11 21:14:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00240 failed
+[2026-05-11 21:14:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00241 failed
+[2026-05-11 21:14:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00242 failed
+[2026-05-11 21:14:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00243 failed
+[2026-05-11 21:14:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00244 failed
+[2026-05-11 21:14:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00245 succeed
+[2026-05-11 21:14:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00246 failed
+[2026-05-11 21:14:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00247 failed
+[2026-05-11 21:14:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00248 failed
+[2026-05-11 21:14:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00249 failed
+[2026-05-11 21:14:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00250 failed
+[2026-05-11 21:14:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00251 failed
+[2026-05-11 21:14:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00252 succeed
+[2026-05-11 21:14:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00253 succeed
+[2026-05-11 21:14:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00254 succeed
+[2026-05-11 21:14:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00255 failed
+[2026-05-11 21:14:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00256 failed
+[2026-05-11 21:14:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00257 failed
+[2026-05-11 21:14:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00258 failed
+[2026-05-11 21:14:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00259 failed
+[2026-05-11 21:14:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00260 failed
+[2026-05-11 21:14:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00261 failed
+[2026-05-11 21:14:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00262 failed
+[2026-05-11 21:14:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00263 failed
+[2026-05-11 21:14:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00264 succeed
+[2026-05-11 21:14:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00265 succeed
+[2026-05-11 21:14:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00266 succeed
+[2026-05-11 21:14:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00267 succeed
+[2026-05-11 21:14:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00268 succeed
+[2026-05-11 21:14:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00269 succeed
+[2026-05-11 21:14:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00270 succeed
+[2026-05-11 21:14:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00271 succeed
+[2026-05-11 21:14:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00272 succeed
+[2026-05-11 21:14:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00273 succeed
+[2026-05-11 21:14:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00274 succeed
+[2026-05-11 21:14:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00275 failed
+[2026-05-11 21:14:52] Working in function safe_add_func_int32_t_s_s
+[2026-05-11 21:14:52] deleting 97: static int32_t
+104: }
+[2026-05-11 21:14:52] Actually deleting 97: static int32_t
+104: }
+[2026-05-11 21:14:52] Actually deleting 100: return
+103:     (si1 + si2);
+[2026-05-11 21:14:52] Actually deleting 293: l_4253 = ((((safe_sub_func_int32_t_s_s((5UL ^ l_4256), ((((((safe_mod_func_uint8_t_u_u((((safe_lshift_func_uint16_t_u_s(1UL, 11)) && 0xD98578FCL) & 1L), (+(((safe_add_func_int32_t_s_s((l_4282 = (((safe_unary_minus_func_int32_t_s((g_897[0][2] = ((((safe_mod_func_int32_t_s_s((safe_add_func_int32_t_s_s((safe_rshift_func_int8_t_s_u((((safe_lshift_func_uint8_t_u_s(((safe_add_func_int16_t_s_s((safe_lshift_func_int8_t_s_u((((g_427[1] = (safe_sub_func_int16_t_s_s(((safe_lshift_func_uint8_t_u_s((l_4281[5] != (-2L)), 7)) <= (((((g_1472 >= g_2084) , g_317) | g_1044) < l_4281[5]) < g_203)), p_11))) , p_11) , l_4281[2]), 3)), g_504[1][1][2])) | l_4253), g_27[2][0])) , p_12) && l_4281[2]), 4)), (-10L))), 0x774942A1L)) , l_4281[3]) | 4294967295UL) || 0x3866562AL)))) != 0x91L) , p_12)), p_12)) || 1L) <= g_250[0][1])))) <= l_4256) >= 0x64BCL) != g_3003) , (-10L)) < p_12))) , 0xF0E3L) | g_1669) , p_11);
+[2026-05-11 21:14:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00276 failed
+[2026-05-11 21:14:53] deleting 100: return
+103:     (si1 + si2);
+[2026-05-11 21:14:53] Actually deleting 100: return
+103:     (si1 + si2);
+[2026-05-11 21:14:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00277 failed
+[2026-05-11 21:14:53] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:14:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00278 succeed
+[2026-05-11 21:14:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00279 failed
+[2026-05-11 21:14:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00280 failed
+[2026-05-11 21:14:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00281 failed
+[2026-05-11 21:14:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00282 succeed
+[2026-05-11 21:14:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00283 succeed
+[2026-05-11 21:15:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00284 succeed
+[2026-05-11 21:15:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00285 succeed
+[2026-05-11 21:15:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00286 succeed
+[2026-05-11 21:15:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00287 succeed
+[2026-05-11 21:15:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00288 succeed
+[2026-05-11 21:15:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00289 succeed
+[2026-05-11 21:15:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00290 succeed
+[2026-05-11 21:15:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00291 failed
+[2026-05-11 21:15:12] Working in function safe_lshift_func_uint16_t_u_u
+[2026-05-11 21:15:12] deleting 172: static uint16_t
+179: }
+[2026-05-11 21:15:12] Actually deleting 175: return
+178:     (left << ((unsigned int)right));
+[2026-05-11 21:15:12] Actually deleting 172: static uint16_t
+179: }
+[2026-05-11 21:15:12] Actually deleting 293: g_4123 = ((((p_12 & (g_315 > (g_127 = p_11))) , ((!p_12) , ((safe_rshift_func_int16_t_s_u(p_11, 7)) | (safe_lshift_func_uint16_t_u_u(((l_4253 = ((safe_mod_func_uint8_t_u_u(((((safe_rshift_func_int8_t_s_s(((((safe_lshift_func_uint16_t_u_u(((safe_sub_func_uint16_t_u_u(p_11, ((safe_sub_func_uint32_t_u_u(p_11, ((((safe_rshift_func_uint16_t_u_s(((safe_mod_func_uint8_t_u_u((+((safe_sub_func_uint32_t_u_u(4294967293UL, (safe_sub_func_int8_t_s_s(l_4281[1], l_4253)))) && 0x37L)), l_4253)) == p_12), g_427[1])) <= p_11) <= 1UL) < g_35))) > g_400))) == g_247), 6)) & l_4281[1]) && g_486) >= g_86), 4)) & 0xA7L) > (-5L)) , g_769), 5L)) < l_4282)) , l_4253), g_250[0][1]))))) & l_4281[5]) && l_4307);
+[2026-05-11 21:15:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00292 succeed
+[2026-05-11 21:15:14] Working in function func_23
+[2026-05-11 21:15:14] deleting 383: static uint16_t func_23(int32_t p_24)
+390: }
+[2026-05-11 21:15:14] Actually deleting 387: l_31 = (l_30 = (safe_lshift_func_int16_t_s_s((p_24 ^ g_27[2][0]), p_24)));
+[2026-05-11 21:15:14] Actually deleting 383: static uint16_t func_23(int32_t p_24)
+390: }
+[2026-05-11 21:15:14] Actually deleting 260: static uint16_t func_23(int32_t p_24);
+[2026-05-11 21:15:14] Actually deleting 324: if ((l_49[6] = ((func_23((safe_rshift_func_int8_t_s_u(0x3BL, l_38))) <= (safe_unary_minus_func_int8_t_s(0x8EL))) , (safe_lshift_func_int16_t_s_s(l_38, (safe_rshift_func_uint8_t_u_s(((g_44 == 0L) && (safe_rshift_func_int8_t_s_u(func_47(func_23(p_18)), l_38))), 6)))))))
+380:     }
+[2026-05-11 21:15:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00293 failed
+[2026-05-11 21:15:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00294 failed
+[2026-05-11 21:15:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00295 failed
+[2026-05-11 21:15:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00296 succeed
+[2026-05-11 21:15:16] deleting 387: return l_30;
+[2026-05-11 21:15:16] Actually deleting 387: return l_30;
+[2026-05-11 21:15:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00297 failed
+[2026-05-11 21:15:16] deleting 385: uint16_t l_30 = 0x8DACL;
+[2026-05-11 21:15:16] Actually deleting 387: return l_30;
+[2026-05-11 21:15:16] Actually deleting 385: uint16_t l_30 = 0x8DACL;
+[2026-05-11 21:15:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00298 failed
+[2026-05-11 21:15:16] deleting 386: int32_t l_31 = 7L;
+[2026-05-11 21:15:16] Actually deleting 386: int32_t l_31 = 7L;
+[2026-05-11 21:15:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00299 succeed
+[2026-05-11 21:15:18] deleting 386: return l_30;
+[2026-05-11 21:15:18] Actually deleting 386: return l_30;
+[2026-05-11 21:15:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00300 failed
+[2026-05-11 21:15:18] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:15:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00301 succeed
+[2026-05-11 21:15:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00302 failed
+[2026-05-11 21:15:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00303 failed
+[2026-05-11 21:15:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00304 succeed
+[2026-05-11 21:15:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00305 succeed
+[2026-05-11 21:15:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00306 failed
+[2026-05-11 21:15:24] Working in function safe_lshift_func_int16_t_s_s
+[2026-05-11 21:15:24] deleting 73: static int16_t
+80: }
+[2026-05-11 21:15:24] Actually deleting 76: return
+79:     (left << ((int)right));
+[2026-05-11 21:15:24] Actually deleting 324: if ((l_49[6] = ((func_23((safe_rshift_func_int8_t_s_u(0x3BL, l_38))) <= (safe_unary_minus_func_int8_t_s(0x8EL))) , (safe_lshift_func_int16_t_s_s(l_38, (safe_rshift_func_uint8_t_u_s(((g_44 == 0L) && (safe_rshift_func_int8_t_s_u(func_47(func_23(p_18)), l_38))), 6)))))))
+380:     }
+[2026-05-11 21:15:24] Actually deleting 73: static int16_t
+80: }
+[2026-05-11 21:15:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00307 failed
+[2026-05-11 21:15:24] deleting 76: return
+79:     (left << ((int)right));
+[2026-05-11 21:15:24] Actually deleting 76: return
+79:     (left << ((int)right));
+[2026-05-11 21:15:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00308 failed
+[2026-05-11 21:15:24] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:15:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00309 succeed
+[2026-05-11 21:15:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00310 failed
+[2026-05-11 21:15:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00311 failed
+[2026-05-11 21:15:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00312 failed
+[2026-05-11 21:15:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00313 failed
+[2026-05-11 21:15:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00314 succeed
+[2026-05-11 21:15:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00315 succeed
+[2026-05-11 21:15:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00316 failed
+[2026-05-11 21:15:31] Working in function func_17
+[2026-05-11 21:15:31] deleting 300: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+380: }
+[2026-05-11 21:15:31] Actually deleting 322: if ((l_49[6] = ((func_23((safe_rshift_func_int8_t_s_u(0x3BL, l_38))) <= (safe_unary_minus_func_int8_t_s(0x8EL))) , (safe_lshift_func_int16_t_s_s(l_38, (safe_rshift_func_uint8_t_u_s(((g_44 == 0L) && (safe_rshift_func_int8_t_s_u(func_47(func_23(p_18)), l_38))), 6)))))))
+378:     }
+[2026-05-11 21:15:31] Actually deleting 257: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:15:31] Actually deleting 347: p_21 = 0;
+[2026-05-11 21:15:31] Actually deleting 300: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+380: }
+[2026-05-11 21:15:31] Actually deleting 365: if (((((0xBEL > (p_19 = (((safe_rshift_func_uint16_t_u_s((((g_317 = (((((safe_rshift_func_uint8_t_u_u((safe_sub_func_int16_t_s_s(1L, (g_298 = (((((l_3367 && 1L) == 65529UL) & (safe_lshift_func_int8_t_s_s(0xF3L, p_18))) | (0xB00FL > ((g_639 = ((((((((safe_rshift_func_int16_t_s_u(((g_486 < g_504[0][7][1]) > 0xB2L), 3)) == g_400) & l_3187) < p_19) | l_3519) , l_49[6]) & 4294967295UL) != g_203)) || 0x21E34445L))) == l_49[5])))), 5)) ^ g_1138) <= g_247) != 0x8D8C20F0L) | p_21)) , 0UL) <= l_3367), l_3519)) ^ 0x475E0D25L) >= p_20))) >= g_427[2]) <= p_21) <= p_21))
+372:             }
+[2026-05-11 21:15:31] Actually deleting 267: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:15:31] Actually deleting 347: for (p_21 = 0; (p_21 <= (-24)); p_21 = safe_sub_func_int32_t_s_s(p_21, 4))
+351:         }
+[2026-05-11 21:15:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00317 failed
+[2026-05-11 21:15:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00318 failed
+[2026-05-11 21:15:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00319 failed
+[2026-05-11 21:15:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00320 failed
+[2026-05-11 21:15:33] deleting 379: return g_3903;
+[2026-05-11 21:15:33] Actually deleting 379: return g_3903;
+[2026-05-11 21:15:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00321 failed
+[2026-05-11 21:15:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00322 failed
+[2026-05-11 21:15:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00323 failed
+[2026-05-11 21:15:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00324 succeed
+[2026-05-11 21:15:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00325 failed
+[2026-05-11 21:15:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00326 failed
+[2026-05-11 21:15:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00327 failed
+[2026-05-11 21:15:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00328 failed
+[2026-05-11 21:15:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00329 failed
+[2026-05-11 21:15:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00330 failed
+[2026-05-11 21:15:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00331 failed
+[2026-05-11 21:15:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00332 failed
+[2026-05-11 21:15:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00333 failed
+[2026-05-11 21:15:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00334 failed
+[2026-05-11 21:15:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00335 succeed
+[2026-05-11 21:15:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00336 succeed
+[2026-05-11 21:15:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00337 failed
+[2026-05-11 21:15:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00338 failed
+[2026-05-11 21:15:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00339 succeed
+[2026-05-11 21:15:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00340 failed
+[2026-05-11 21:15:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00341 succeed
+[2026-05-11 21:15:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00342 failed
+[2026-05-11 21:15:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00343 failed
+[2026-05-11 21:15:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00344 succeed
+[2026-05-11 21:15:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00345 failed
+[2026-05-11 21:15:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00346 failed
+[2026-05-11 21:15:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00347 failed
+[2026-05-11 21:15:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00348 failed
+[2026-05-11 21:15:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00349 failed
+[2026-05-11 21:15:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00350 succeed
+[2026-05-11 21:15:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00351 failed
+[2026-05-11 21:15:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00352 failed
+[2026-05-11 21:15:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00353 failed
+[2026-05-11 21:15:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00354 failed
+[2026-05-11 21:15:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00355 failed
+[2026-05-11 21:15:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00356 succeed
+[2026-05-11 21:15:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00357 failed
+[2026-05-11 21:15:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00358 failed
+[2026-05-11 21:16:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00359 failed
+[2026-05-11 21:16:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00360 succeed
+[2026-05-11 21:16:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00361 failed
+[2026-05-11 21:16:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00362 failed
+[2026-05-11 21:16:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00363 failed
+[2026-05-11 21:16:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00364 failed
+[2026-05-11 21:16:04] deleting 333: return g_3903;
+[2026-05-11 21:16:04] Actually deleting 333: return g_3903;
+[2026-05-11 21:16:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00365 failed
+[2026-05-11 21:16:04] deleting 302: uint16_t l_38 = 5UL;
+[2026-05-11 21:16:04] Actually deleting 302: uint16_t l_38 = 5UL;
+[2026-05-11 21:16:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00366 succeed
+[2026-05-11 21:16:06] deleting 302: int32_t l_49[7];
+[2026-05-11 21:16:06] Actually deleting 302: int32_t l_49[7];
+[2026-05-11 21:16:06] Actually deleting 308: l_49[i] = (-1L);
+[2026-05-11 21:16:06] Actually deleting 322: if (((((0xBEL > (p_19 = (((safe_rshift_func_uint16_t_u_s((((g_317 = (((((safe_rshift_func_uint8_t_u_u((safe_sub_func_int16_t_s_s(1L, (g_298 = (((((l_3367 && 1L) == 65529UL) & (safe_lshift_func_int8_t_s_s(0xF3L, p_18))) | (0xB00FL > ((g_639 = ((((((((safe_rshift_func_int16_t_s_u(((g_486 < g_504[0][7][1]) > 0xB2L), 3)) == g_400) & l_3187) < p_19) | l_3519) , l_49[6]) & 4294967295UL) != g_203)) || 0x21E34445L))) == l_49[5])))), 5)) ^ g_1138) <= g_247) != 0x8D8C20F0L) | p_21)) , 0UL) <= l_3367), l_3519)) ^ 0x475E0D25L) >= p_20))) >= g_427[2]) <= p_21) <= p_21))
+329:             }
+[2026-05-11 21:16:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00367 failed
+[2026-05-11 21:16:06] deleting 303: uint32_t l_3367 = 7UL;
+[2026-05-11 21:16:06] Actually deleting 303: uint32_t l_3367 = 7UL;
+[2026-05-11 21:16:06] Actually deleting 322: if (((((0xBEL > (p_19 = (((safe_rshift_func_uint16_t_u_s((((g_317 = (((((safe_rshift_func_uint8_t_u_u((safe_sub_func_int16_t_s_s(1L, (g_298 = (((((l_3367 && 1L) == 65529UL) & (safe_lshift_func_int8_t_s_s(0xF3L, p_18))) | (0xB00FL > ((g_639 = ((((((((safe_rshift_func_int16_t_s_u(((g_486 < g_504[0][7][1]) > 0xB2L), 3)) == g_400) & l_3187) < p_19) | l_3519) , l_49[6]) & 4294967295UL) != g_203)) || 0x21E34445L))) == l_49[5])))), 5)) ^ g_1138) <= g_247) != 0x8D8C20F0L) | p_21)) , 0UL) <= l_3367), l_3519)) ^ 0x475E0D25L) >= p_20))) >= g_427[2]) <= p_21) <= p_21))
+329:             }
+[2026-05-11 21:16:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00368 failed
+[2026-05-11 21:16:07] deleting 304: int32_t l_3529 = 0xC57B773AL;
+[2026-05-11 21:16:07] Actually deleting 304: int32_t l_3529 = 0xC57B773AL;
+[2026-05-11 21:16:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00369 succeed
+[2026-05-11 21:16:09] deleting 304: int16_t l_4244 = 0L;
+[2026-05-11 21:16:09] Actually deleting 304: int16_t l_4244 = 0L;
+[2026-05-11 21:16:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00370 succeed
+[2026-05-11 21:16:11] deleting 304: int i, j;
+[2026-05-11 21:16:11] Actually deleting 306: l_49[i] = (-1L);
+[2026-05-11 21:16:11] Actually deleting 305: i = 0;
+[2026-05-11 21:16:11] Actually deleting 305: for (i = 0; i < 7; i++)
+306:         l_49[i] = (-1L);
+[2026-05-11 21:16:11] Actually deleting 307: for (; i < 4; i++)
+308:         {}
+[2026-05-11 21:16:11] Actually deleting 304: int i, j;
+[2026-05-11 21:16:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00371 failed
+[2026-05-11 21:16:12] deleting 305: for (i = 0; i < 7; i++)
+306:         l_49[i] = (-1L);
+[2026-05-11 21:16:12] Actually deleting 305: for (i = 0; i < 7; i++)
+306:         l_49[i] = (-1L);
+[2026-05-11 21:16:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00372 failed
+[2026-05-11 21:16:12] deleting 305: i = 0;
+[2026-05-11 21:16:12] Actually deleting 305: i = 0;
+[2026-05-11 21:16:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00373 failed
+[2026-05-11 21:16:12] deleting 306: l_49[i] = (-1L);
+[2026-05-11 21:16:12] Actually deleting 306: l_49[i] = (-1L);
+[2026-05-11 21:16:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00374 failed
+[2026-05-11 21:16:12] deleting 307: for (; i < 4; i++)
+308:         {}
+[2026-05-11 21:16:12] Actually deleting 307: for (; i < 4; i++)
+308:         {}
+[2026-05-11 21:16:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00375 succeed
+[2026-05-11 21:16:15] deleting 307: int32_t l_3184 = 0x492AE369L;
+[2026-05-11 21:16:15] Actually deleting 326: safe_mod_func_uint16_t_u_u((g_2729[2][0] = (g_108 = l_3593[(g_503 + 2)][(g_503 + 8)][(g_503 + 3)])), (((safe_sub_func_int8_t_s_s((l_3184 = g_183[(g_503 + 6)]), (5UL & g_183[g_692]))) , 3UL) , 1L));
+[2026-05-11 21:16:15] Actually deleting 307: int32_t l_3184 = 0x492AE369L;
+[2026-05-11 21:16:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00376 failed
+[2026-05-11 21:16:15] deleting 308: int32_t l_3187 = 0x18D23FFAL;
+[2026-05-11 21:16:15] Actually deleting 308: int32_t l_3187 = 0x18D23FFAL;
+[2026-05-11 21:16:15] Actually deleting 318: if (((((0xBEL > (p_19 = (((safe_rshift_func_uint16_t_u_s((((g_317 = (((((safe_rshift_func_uint8_t_u_u((safe_sub_func_int16_t_s_s(1L, (g_298 = (((((l_3367 && 1L) == 65529UL) & (safe_lshift_func_int8_t_s_s(0xF3L, p_18))) | (0xB00FL > ((g_639 = ((((((((safe_rshift_func_int16_t_s_u(((g_486 < g_504[0][7][1]) > 0xB2L), 3)) == g_400) & l_3187) < p_19) | l_3519) , l_49[6]) & 4294967295UL) != g_203)) || 0x21E34445L))) == l_49[5])))), 5)) ^ g_1138) <= g_247) != 0x8D8C20F0L) | p_21)) , 0UL) <= l_3367), l_3519)) ^ 0x475E0D25L) >= p_20))) >= g_427[2]) <= p_21) <= p_21))
+325:             }
+[2026-05-11 21:16:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00377 failed
+[2026-05-11 21:16:16] deleting 309: int32_t l_3313 = 0x0372B97CL;
+[2026-05-11 21:16:16] Actually deleting 309: int32_t l_3313 = 0x0372B97CL;
+[2026-05-11 21:16:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00378 succeed
+[2026-05-11 21:16:17] deleting 309: {}
+[2026-05-11 21:16:17] Actually deleting 309: {}
+[2026-05-11 21:16:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00379 succeed
+[2026-05-11 21:16:19] deleting 309: for (g_53 = 0; (g_53 != 13); ++g_53)
+325:         }
+[2026-05-11 21:16:19] Actually deleting 309: for (g_53 = 0; (g_53 != 13); ++g_53)
+325:         }
+[2026-05-11 21:16:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00380 failed
+[2026-05-11 21:16:19] deleting 309: g_53 = 0;
+[2026-05-11 21:16:19] Actually deleting 309: g_53 = 0;
+[2026-05-11 21:16:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00381 succeed
+[2026-05-11 21:16:21] deleting 309: ;
+[2026-05-11 21:16:21] Actually deleting 309: ;
+[2026-05-11 21:16:21] deleting 311: uint8_t l_3519 = 0xC3L;
+[2026-05-11 21:16:21] Actually deleting 318: return l_3519;
+[2026-05-11 21:16:21] Actually deleting 311: uint8_t l_3519 = 0xC3L;
+[2026-05-11 21:16:21] Actually deleting 316: if (((((0xBEL > (p_19 = (((safe_rshift_func_uint16_t_u_s((((g_317 = (((((safe_rshift_func_uint8_t_u_u((safe_sub_func_int16_t_s_s(1L, (g_298 = (((((l_3367 && 1L) == 65529UL) & (safe_lshift_func_int8_t_s_s(0xF3L, p_18))) | (0xB00FL > ((g_639 = ((((((((safe_rshift_func_int16_t_s_u(((g_486 < g_504[0][7][1]) > 0xB2L), 3)) == g_400) & l_3187) < p_19) | l_3519) , l_49[6]) & 4294967295UL) != g_203)) || 0x21E34445L))) == l_49[5])))), 5)) ^ g_1138) <= g_247) != 0x8D8C20F0L) | p_21)) , 0UL) <= l_3367), l_3519)) ^ 0x475E0D25L) >= p_20))) >= g_427[2]) <= p_21) <= p_21))
+323:             }
+[2026-05-11 21:16:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00383 failed
+[2026-05-11 21:16:21] deleting 312: int32_t l_3593[5][9][5] = {{{(-1L),5L,(-1L),0xEFF4038FL,0L},{(-10L),(-4L),0x3D12D6ACL,0x3D12D6ACL,0xF7B9C197L},{2L,0xEFF4038FL,5L,0xEFF4038FL,2L},{0xF7B9C197L,0x3D12D6ACL,0x946D202EL,0xF7B9C197L,(-4L)},{(-1L),0xC8EA268AL,5L,0xEFF4038FL,5L},{(-4L),(-4L),0x4D03646FL,0x3D12D6ACL,(-4L)},{(-9L),0xEFF4038FL,(-9L),0xC8EA268AL,2L},{(-4L),0x946D202EL,0x946D202EL,(-4L),0xF7B9C197L},{(-1L),0xEFF4038FL,0L,0xEFF4038FL,(-1L)}},{{0xF7B9C197L,(-4L),0x946D202EL,0x946D202EL,(-4L)},{2L,0xC8EA268AL,(-9L),0xEFF4038FL,(-9L)},{(-4L),0x3D12D6ACL,0x4D03646FL,(-4L),(-4L)},{5L,0xEFF4038FL,5L,0xC8EA268AL,(-1L)},{(-4L),0xF7B9C197L,0x946D202EL,0x3D12D6ACL,0xF7B9C197L},{2L,0xEFF4038FL,5L,0xEFF4038FL,2L},{0xF7B9C197L,0x3D12D6ACL,0x946D202EL,0xF7B9C197L,(-4L)},{(-1L),0xC8EA268AL,5L,0xEFF4038FL,5L},{(-4L),(-4L),0x4D03646FL,0x3D12D6ACL,(-4L)}},{{(-9L),0xEFF4038FL,(-9L),0xC8EA268AL,2L},{(-4L),0x946D202EL,0x946D202EL,(-4L),0xF7B9C197L},{(-1L),0xEFF4038FL,0L,0xEFF4038FL,(-1L)},{0xF7B9C197L,(-4L),0x946D202EL,0x946D202EL,(-4L)},{2L,0xC8EA268AL,(-9L),0xEFF4038FL,(-9L)},{(-4L),0x3D12D6ACL,0x4D03646FL,(-4L),(-4L)},{5L,0xEFF4038FL,5L,0xC8EA268AL,(-1L)},{(-4L),0xF7B9C197L,0x946D202EL,0x3D12D6ACL,0xF7B9C197L},{2L,0xEFF4038FL,5L,0xEFF4038FL,2L}},{{0xF7B9C197L,0x3D12D6ACL,0x946D202EL,0xF7B9C197L,(-4L)},{(-1L),0xC8EA268AL,5L,0xEFF4038FL,5L},{(-4L),(-4L),0x4D03646FL,0x3D12D6ACL,(-4L)},{(-9L),0xEFF4038FL,(-9L),0xC8EA268AL,2L},{(-4L),0x946D202EL,0x946D202EL,(-4L),0xF7B9C197L},{(-1L),0xEFF4038FL,0L,0xEFF4038FL,(-1L)},{0xF7B9C197L,(-4L),0x946D202EL,0x946D202EL,(-4L)},{2L,0xC8EA268AL,(-9L),0xEFF4038FL,(-9L)},{(-4L),0x3D12D6ACL,0x4D03646FL,(-4L),(-4L)}},{{5L,0xEFF4038FL,5L,0xC8EA268AL,(-1L)},{(-4L),0xF7B9C197L,0x946D202EL,0x3D12D6ACL,0xF7B9C197L},{2L,0xEFF4038FL,5L,0xEFF4038FL,2L},{0xF7B9C197L,0x3D12D6ACL,0x946D202EL,0xF7B9C197L,0xF7B9C197L},{5L,5L,0L,0xC8EA268AL,0L},{0xF7B9C197L,0xF7B9C197L,0x3D12D6ACL,0x946D202EL,0xF7B9C197L},{5L,0xC8EA268AL,5L,5L,(-9L)},{0xF7B9C197L,0x4D03646FL,0x4D03646FL,0xF7B9C197L,(-10L)},{5L,0xC8EA268AL,(-1L),0xC8EA268AL,5L}}};
+[2026-05-11 21:16:21] Actually deleting 312: int32_t l_3593[5][9][5] = {{{(-1L),5L,(-1L),0xEFF4038FL,0L},{(-10L),(-4L),0x3D12D6ACL,0x3D12D6ACL,0xF7B9C197L},{2L,0xEFF4038FL,5L,0xEFF4038FL,2L},{0xF7B9C197L,0x3D12D6ACL,0x946D202EL,0xF7B9C197L,(-4L)},{(-1L),0xC8EA268AL,5L,0xEFF4038FL,5L},{(-4L),(-4L),0x4D03646FL,0x3D12D6ACL,(-4L)},{(-9L),0xEFF4038FL,(-9L),0xC8EA268AL,2L},{(-4L),0x946D202EL,0x946D202EL,(-4L),0xF7B9C197L},{(-1L),0xEFF4038FL,0L,0xEFF4038FL,(-1L)}},{{0xF7B9C197L,(-4L),0x946D202EL,0x946D202EL,(-4L)},{2L,0xC8EA268AL,(-9L),0xEFF4038FL,(-9L)},{(-4L),0x3D12D6ACL,0x4D03646FL,(-4L),(-4L)},{5L,0xEFF4038FL,5L,0xC8EA268AL,(-1L)},{(-4L),0xF7B9C197L,0x946D202EL,0x3D12D6ACL,0xF7B9C197L},{2L,0xEFF4038FL,5L,0xEFF4038FL,2L},{0xF7B9C197L,0x3D12D6ACL,0x946D202EL,0xF7B9C197L,(-4L)},{(-1L),0xC8EA268AL,5L,0xEFF4038FL,5L},{(-4L),(-4L),0x4D03646FL,0x3D12D6ACL,(-4L)}},{{(-9L),0xEFF4038FL,(-9L),0xC8EA268AL,2L},{(-4L),0x946D202EL,0x946D202EL,(-4L),0xF7B9C197L},{(-1L),0xEFF4038FL,0L,0xEFF4038FL,(-1L)},{0xF7B9C197L,(-4L),0x946D202EL,0x946D202EL,(-4L)},{2L,0xC8EA268AL,(-9L),0xEFF4038FL,(-9L)},{(-4L),0x3D12D6ACL,0x4D03646FL,(-4L),(-4L)},{5L,0xEFF4038FL,5L,0xC8EA268AL,(-1L)},{(-4L),0xF7B9C197L,0x946D202EL,0x3D12D6ACL,0xF7B9C197L},{2L,0xEFF4038FL,5L,0xEFF4038FL,2L}},{{0xF7B9C197L,0x3D12D6ACL,0x946D202EL,0xF7B9C197L,(-4L)},{(-1L),0xC8EA268AL,5L,0xEFF4038FL,5L},{(-4L),(-4L),0x4D03646FL,0x3D12D6ACL,(-4L)},{(-9L),0xEFF4038FL,(-9L),0xC8EA268AL,2L},{(-4L),0x946D202EL,0x946D202EL,(-4L),0xF7B9C197L},{(-1L),0xEFF4038FL,0L,0xEFF4038FL,(-1L)},{0xF7B9C197L,(-4L),0x946D202EL,0x946D202EL,(-4L)},{2L,0xC8EA268AL,(-9L),0xEFF4038FL,(-9L)},{(-4L),0x3D12D6ACL,0x4D03646FL,(-4L),(-4L)}},{{5L,0xEFF4038FL,5L,0xC8EA268AL,(-1L)},{(-4L),0xF7B9C197L,0x946D202EL,0x3D12D6ACL,0xF7B9C197L},{2L,0xEFF4038FL,5L,0xEFF4038FL,2L},{0xF7B9C197L,0x3D12D6ACL,0x946D202EL,0xF7B9C197L,0xF7B9C197L},{5L,5L,0L,0xC8EA268AL,0L},{0xF7B9C197L,0xF7B9C197L,0x3D12D6ACL,0x946D202EL,0xF7B9C197L},{5L,0xC8EA268AL,5L,5L,(-9L)},{0xF7B9C197L,0x4D03646FL,0x4D03646FL,0xF7B9C197L,(-10L)},{5L,0xC8EA268AL,(-1L),0xC8EA268AL,5L}}};
+[2026-05-11 21:16:21] Actually deleting 324: safe_mod_func_uint16_t_u_u((g_2729[2][0] = (g_108 = l_3593[(g_503 + 2)][(g_503 + 8)][(g_503 + 3)])), (((safe_sub_func_int8_t_s_s((l_3184 = g_183[(g_503 + 6)]), (5UL & g_183[g_692]))) , 3UL) , 1L));
+[2026-05-11 21:16:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00384 failed
+[2026-05-11 21:16:22] deleting 313: int16_t l_3594 = 0L;
+[2026-05-11 21:16:22] Actually deleting 313: int16_t l_3594 = 0L;
+[2026-05-11 21:16:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00385 succeed
+[2026-05-11 21:16:23] deleting 313: uint8_t l_4140 = 0x38L;
+[2026-05-11 21:16:23] Actually deleting 313: uint8_t l_4140 = 0x38L;
+[2026-05-11 21:16:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00386 succeed
+[2026-05-11 21:16:25] deleting 313: int i, j, k;
+[2026-05-11 21:16:25] Actually deleting 313: int i, j, k;
+[2026-05-11 21:16:25] Actually deleting 320: printf("index = [%d]\n", i);
+[2026-05-11 21:16:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00387 succeed
+[2026-05-11 21:16:27] deleting 313: if (((((0xBEL > (p_19 = (((safe_rshift_func_uint16_t_u_s((((g_317 = (((((safe_rshift_func_uint8_t_u_u((safe_sub_func_int16_t_s_s(1L, (g_298 = (((((l_3367 && 1L) == 65529UL) & (safe_lshift_func_int8_t_s_s(0xF3L, p_18))) | (0xB00FL > ((g_639 = ((((((((safe_rshift_func_int16_t_s_u(((g_486 < g_504[0][7][1]) > 0xB2L), 3)) == g_400) & l_3187) < p_19) | l_3519) , l_49[6]) & 4294967295UL) != g_203)) || 0x21E34445L))) == l_49[5])))), 5)) ^ g_1138) <= g_247) != 0x8D8C20F0L) | p_21)) , 0UL) <= l_3367), l_3519)) ^ 0x475E0D25L) >= p_20))) >= g_427[2]) <= p_21) <= p_21))
+319:             }
+[2026-05-11 21:16:27] Actually deleting 313: if (((((0xBEL > (p_19 = (((safe_rshift_func_uint16_t_u_s((((g_317 = (((((safe_rshift_func_uint8_t_u_u((safe_sub_func_int16_t_s_s(1L, (g_298 = (((((l_3367 && 1L) == 65529UL) & (safe_lshift_func_int8_t_s_s(0xF3L, p_18))) | (0xB00FL > ((g_639 = ((((((((safe_rshift_func_int16_t_s_u(((g_486 < g_504[0][7][1]) > 0xB2L), 3)) == g_400) & l_3187) < p_19) | l_3519) , l_49[6]) & 4294967295UL) != g_203)) || 0x21E34445L))) == l_49[5])))), 5)) ^ g_1138) <= g_247) != 0x8D8C20F0L) | p_21)) , 0UL) <= l_3367), l_3519)) ^ 0x475E0D25L) >= p_20))) >= g_427[2]) <= p_21) <= p_21))
+319:             }
+[2026-05-11 21:16:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00388 failed
+[2026-05-11 21:16:28] deleting 314: {
+316:             }
+[2026-05-11 21:16:28] Actually deleting 314: {
+316:             }
+[2026-05-11 21:16:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00389 succeed
+[2026-05-11 21:16:30] deleting 314: return l_3519;
+[2026-05-11 21:16:30] Actually deleting 314: return l_3519;
+[2026-05-11 21:16:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00390 failed
+[2026-05-11 21:16:30] deleting 318: safe_mod_func_uint16_t_u_u((g_2729[2][0] = (g_108 = l_3593[(g_503 + 2)][(g_503 + 8)][(g_503 + 3)])), (((safe_sub_func_int8_t_s_s((l_3184 = g_183[(g_503 + 6)]), (5UL & g_183[g_692]))) , 3UL) , 1L));
+[2026-05-11 21:16:30] Actually deleting 318: safe_mod_func_uint16_t_u_u((g_2729[2][0] = (g_108 = l_3593[(g_503 + 2)][(g_503 + 8)][(g_503 + 3)])), (((safe_sub_func_int8_t_s_s((l_3184 = g_183[(g_503 + 6)]), (5UL & g_183[g_692]))) , 3UL) , 1L));
+[2026-05-11 21:16:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00391 failed
+[2026-05-11 21:16:31] deleting 320: return g_3903;
+[2026-05-11 21:16:31] Actually deleting 320: return g_3903;
+[2026-05-11 21:16:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00392 failed
+[2026-05-11 21:16:31] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:16:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00393 succeed
+[2026-05-11 21:16:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00394 failed
+[2026-05-11 21:16:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00395 failed
+[2026-05-11 21:16:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00396 failed
+[2026-05-11 21:16:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00397 failed
+[2026-05-11 21:16:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00398 failed
+[2026-05-11 21:16:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00399 failed
+[2026-05-11 21:16:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00400 failed
+[2026-05-11 21:16:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00401 failed
+[2026-05-11 21:16:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00402 succeed
+[2026-05-11 21:16:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00403 failed
+[2026-05-11 21:16:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00404 failed
+[2026-05-11 21:16:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00405 failed
+[2026-05-11 21:16:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00406 failed
+[2026-05-11 21:16:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00407 failed
+[2026-05-11 21:16:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00407 timeout
+[2026-05-11 21:16:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00408 failed
+[2026-05-11 21:16:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00409 failed
+[2026-05-11 21:16:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00410 failed
+[2026-05-11 21:16:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00411 failed
+[2026-05-11 21:16:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00412 failed
+[2026-05-11 21:16:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00412 timeout
+[2026-05-11 21:16:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00413 failed
+[2026-05-11 21:16:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00414 succeed
+[2026-05-11 21:16:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00415 succeed
+[2026-05-11 21:16:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00416 succeed
+[2026-05-11 21:16:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00417 failed
+[2026-05-11 21:16:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00418 succeed
+[2026-05-11 21:16:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00419 succeed
+[2026-05-11 21:16:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00420 failed
+[2026-05-11 21:16:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00421 succeed
+[2026-05-11 21:16:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00422 succeed
+[2026-05-11 21:16:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00423 failed
+[2026-05-11 21:16:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00424 succeed
+[2026-05-11 21:17:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00425 succeed
+[2026-05-11 21:17:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00426 succeed
+[2026-05-11 21:17:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00427 failed
+[2026-05-11 21:17:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00428 failed
+[2026-05-11 21:17:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00429 succeed
+[2026-05-11 21:17:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00430 failed
+[2026-05-11 21:17:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00431 failed
+[2026-05-11 21:17:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00432 succeed
+[2026-05-11 21:17:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00433 failed
+[2026-05-11 21:17:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00434 failed
+[2026-05-11 21:17:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00435 succeed
+[2026-05-11 21:17:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00436 succeed
+[2026-05-11 21:17:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00437 failed
+[2026-05-11 21:17:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00438 failed
+[2026-05-11 21:17:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00439 succeed
+[2026-05-11 21:17:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00440 succeed
+[2026-05-11 21:17:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00441 succeed
+[2026-05-11 21:17:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00442 failed
+[2026-05-11 21:17:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00443 failed
+[2026-05-11 21:17:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00444 failed
+[2026-05-11 21:17:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00445 succeed
+[2026-05-11 21:17:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00446 failed
+[2026-05-11 21:17:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00447 failed
+[2026-05-11 21:17:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00448 failed
+[2026-05-11 21:17:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00449 failed
+[2026-05-11 21:17:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00450 succeed
+[2026-05-11 21:17:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00451 failed
+[2026-05-11 21:17:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00452 succeed
+[2026-05-11 21:17:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00453 failed
+[2026-05-11 21:17:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00454 failed
+[2026-05-11 21:17:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00455 failed
+[2026-05-11 21:17:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00456 failed
+[2026-05-11 21:17:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00457 failed
+[2026-05-11 21:17:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00458 succeed
+[2026-05-11 21:17:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00459 succeed
+[2026-05-11 21:17:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00460 succeed
+[2026-05-11 21:17:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00461 succeed
+[2026-05-11 21:17:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00462 succeed
+[2026-05-11 21:17:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00463 succeed
+[2026-05-11 21:17:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00464 succeed
+[2026-05-11 21:17:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00465 succeed
+[2026-05-11 21:17:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00466 failed
+[2026-05-11 21:17:51] Working in function safe_rshift_func_int8_t_s_u
+[2026-05-11 21:17:51] deleting 53: static int8_t
+60: }
+[2026-05-11 21:17:51] Actually deleting 53: static int8_t
+60: }
+[2026-05-11 21:17:51] Actually deleting 56: return
+59:     (left >> ((unsigned int)right));
+[2026-05-11 21:17:51] Actually deleting 281: l_4253 = ((((safe_sub_func_int32_t_s_s((5UL ^ l_4256), ((((((safe_mod_func_uint8_t_u_u((((safe_lshift_func_uint16_t_u_s(1UL, 11)) && 0xD98578FCL) & 1L), (+(((safe_add_func_int32_t_s_s((l_4282 = (((safe_unary_minus_func_int32_t_s((g_897[0][2] = ((((safe_mod_func_int32_t_s_s((safe_add_func_int32_t_s_s((safe_rshift_func_int8_t_s_u((((safe_lshift_func_uint8_t_u_s(((safe_add_func_int16_t_s_s((safe_lshift_func_int8_t_s_u((((g_427[1] = (safe_sub_func_int16_t_s_s(((safe_lshift_func_uint8_t_u_s((l_4281[5] != (-2L)), 7)) <= (((((g_1472 >= g_2084) , g_317) | g_1044) < l_4281[5]) < g_203)), p_11))) , p_11) , l_4281[2]), 3)), g_504[1][1][2])) | l_4253), g_27[2][0])) , p_12) && l_4281[2]), 4)), (-10L))), 0x774942A1L)) , l_4281[3]) | 4294967295UL) || 0x3866562AL)))) != 0x91L) , p_12)), p_12)) || 1L) <= g_250[0][1])))) <= l_4256) >= 0x64BCL) != g_3003) , (-10L)) < p_12))) , 0xF0E3L) | g_1669) , p_11);
+[2026-05-11 21:17:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00467 failed
+[2026-05-11 21:17:52] deleting 56: return
+59:     (left >> ((unsigned int)right));
+[2026-05-11 21:17:52] Actually deleting 56: return
+59:     (left >> ((unsigned int)right));
+[2026-05-11 21:17:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00468 failed
+[2026-05-11 21:17:52] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:17:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00469 failed
+[2026-05-11 21:17:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00470 failed
+[2026-05-11 21:17:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00471 failed
+[2026-05-11 21:17:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00472 failed
+[2026-05-11 21:17:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00473 succeed
+[2026-05-11 21:17:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00474 succeed
+[2026-05-11 21:17:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00475 succeed
+[2026-05-11 21:17:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00476 succeed
+[2026-05-11 21:17:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00477 succeed
+[2026-05-11 21:18:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00478 succeed
+[2026-05-11 21:18:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00479 succeed
+[2026-05-11 21:18:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00480 failed
+[2026-05-11 21:18:01] Working in function safe_unary_minus_func_int8_t_s
+[2026-05-11 21:18:01] deleting 17: static int8_t
+22: }
+[2026-05-11 21:18:01] Actually deleting 17: static int8_t
+22: }
+[2026-05-11 21:18:01] Actually deleting 20: return
+21:     -si;
+[2026-05-11 21:18:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00481 succeed
+[2026-05-11 21:18:02] Working in function safe_rshift_func_uint8_t_u_s
+[2026-05-11 21:18:02] deleting 125: static uint8_t
+132: }
+[2026-05-11 21:18:02] Actually deleting 125: static uint8_t
+132: }
+[2026-05-11 21:18:02] Actually deleting 128: return
+131:     (left >> ((int)right));
+[2026-05-11 21:18:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00482 succeed
+[2026-05-11 21:18:03] Working in function safe_lshift_func_int8_t_s_s
+[2026-05-11 21:18:03] deleting 23: static int8_t
+30: }
+[2026-05-11 21:18:03] Actually deleting 26: return
+29:     (left << ((int)right));
+[2026-05-11 21:18:03] Actually deleting 23: static int8_t
+30: }
+[2026-05-11 21:18:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00483 succeed
+[2026-05-11 21:18:04] Working in function safe_rshift_func_int16_t_s_u
+[2026-05-11 21:18:04] deleting 63: static int16_t
+70: }
+[2026-05-11 21:18:04] Actually deleting 66: return
+69:     (left >> ((unsigned int)right));
+[2026-05-11 21:18:04] Actually deleting 63: static int16_t
+70: }
+[2026-05-11 21:18:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00484 succeed
+[2026-05-11 21:18:06] Working in function safe_sub_func_int16_t_s_s
+[2026-05-11 21:18:06] deleting 51: static int16_t
+56: }
+[2026-05-11 21:18:06] Actually deleting 51: static int16_t
+56: }
+[2026-05-11 21:18:06] Actually deleting 54: return
+55:     (si1 - si2);
+[2026-05-11 21:18:06] Actually deleting 249: l_4253 = ((((safe_sub_func_int32_t_s_s((5UL ^ l_4256), ((((((safe_mod_func_uint8_t_u_u((((safe_lshift_func_uint16_t_u_s(1UL, 11)) && 0xD98578FCL) & 1L), (+(((safe_add_func_int32_t_s_s((l_4282 = (((safe_unary_minus_func_int32_t_s((g_897[0][2] = ((((safe_mod_func_int32_t_s_s((safe_add_func_int32_t_s_s((safe_rshift_func_int8_t_s_u((((safe_lshift_func_uint8_t_u_s(((safe_add_func_int16_t_s_s((safe_lshift_func_int8_t_s_u((((g_427[1] = (safe_sub_func_int16_t_s_s(((safe_lshift_func_uint8_t_u_s((l_4281[5] != (-2L)), 7)) <= (((((g_1472 >= g_2084) , g_317) | g_1044) < l_4281[5]) < g_203)), p_11))) , p_11) , l_4281[2]), 3)), g_504[1][1][2])) | l_4253), g_27[2][0])) , p_12) && l_4281[2]), 4)), (-10L))), 0x774942A1L)) , l_4281[3]) | 4294967295UL) || 0x3866562AL)))) != 0x91L) , p_12)), p_12)) || 1L) <= g_250[0][1])))) <= l_4256) >= 0x64BCL) != g_3003) , (-10L)) < p_12))) , 0xF0E3L) | g_1669) , p_11);
+[2026-05-11 21:18:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00485 failed
+[2026-05-11 21:18:06] deleting 54: return
+55:     (si1 - si2);
+[2026-05-11 21:18:06] Actually deleting 54: return
+55:     (si1 - si2);
+[2026-05-11 21:18:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00486 failed
+[2026-05-11 21:18:06] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:18:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00487 succeed
+[2026-05-11 21:18:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00488 failed
+[2026-05-11 21:18:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00489 failed
+[2026-05-11 21:18:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00490 failed
+[2026-05-11 21:18:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00491 succeed
+[2026-05-11 21:18:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00492 failed
+[2026-05-11 21:18:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00493 succeed
+[2026-05-11 21:18:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00494 failed
+[2026-05-11 21:18:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00495 failed
+[2026-05-11 21:18:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00496 failed
+[2026-05-11 21:18:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00497 succeed
+[2026-05-11 21:18:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00498 failed
+[2026-05-11 21:18:11] Working in function safe_rshift_func_uint8_t_u_u
+[2026-05-11 21:18:11] deleting 109: static uint8_t
+116: }
+[2026-05-11 21:18:11] Actually deleting 112: return
+115:     (left >> ((unsigned int)right));
+[2026-05-11 21:18:11] Actually deleting 109: static uint8_t
+116: }
+[2026-05-11 21:18:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00499 succeed
+[2026-05-11 21:18:12] Working in function safe_rshift_func_uint16_t_u_s
+[2026-05-11 21:18:12] deleting 130: static uint16_t
+137: }
+[2026-05-11 21:18:12] Actually deleting 133: return
+136:     (left >> ((int)right));
+[2026-05-11 21:18:12] Actually deleting 130: static uint16_t
+137: }
+[2026-05-11 21:18:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00500 failed
+[2026-05-11 21:18:13] deleting 133: return
+136:     (left >> ((int)right));
+[2026-05-11 21:18:13] Actually deleting 133: return
+136:     (left >> ((int)right));
+[2026-05-11 21:18:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00501 failed
+[2026-05-11 21:18:13] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:18:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00502 succeed
+[2026-05-11 21:18:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00503 failed
+[2026-05-11 21:18:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00504 failed
+[2026-05-11 21:18:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00505 failed
+[2026-05-11 21:18:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00506 succeed
+[2026-05-11 21:18:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00507 succeed
+[2026-05-11 21:18:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00508 succeed
+[2026-05-11 21:18:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00509 succeed
+[2026-05-11 21:18:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00510 succeed
+[2026-05-11 21:18:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00511 succeed
+[2026-05-11 21:18:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00512 succeed
+[2026-05-11 21:18:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00513 succeed
+[2026-05-11 21:18:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00514 succeed
+[2026-05-11 21:18:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00515 succeed
+[2026-05-11 21:18:24] Working in function func_13
+[2026-05-11 21:18:24] deleting 247: static int8_t func_13(uint16_t p_14, int16_t p_15, int32_t p_16)
+257: }
+[2026-05-11 21:18:24] Actually deleting 214: static int8_t func_13(uint16_t p_14, int16_t p_15, int32_t p_16);
+[2026-05-11 21:18:24] Actually deleting 247: static int8_t func_13(uint16_t p_14, int16_t p_15, int32_t p_16)
+257: }
+[2026-05-11 21:18:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00516 succeed
+[2026-05-11 21:18:25] Working in function func_10
+[2026-05-11 21:18:25] deleting 227: static uint8_t func_10(int16_t p_11, int8_t p_12)
+245: }
+[2026-05-11 21:18:25] Actually deleting 237: l_4253 = (g_1472 = (p_11 > 0x7F83L));
+[2026-05-11 21:18:25] Actually deleting 213: static uint8_t func_10(int16_t p_11, int8_t p_12);
+[2026-05-11 21:18:25] Actually deleting 244: return p_12;
+[2026-05-11 21:18:25] Actually deleting 239: l_4282 = (p_12 , (p_11 & 0x9BAEL));
+[2026-05-11 21:18:25] Actually deleting 238: l_4253 = ((((safe_sub_func_int32_t_s_s((5UL ^ l_4256), ((((((safe_mod_func_uint8_t_u_u((((safe_lshift_func_uint16_t_u_s(1UL, 11)) && 0xD98578FCL) & 1L), (+(((safe_add_func_int32_t_s_s((l_4282 = (((safe_unary_minus_func_int32_t_s((g_897[0][2] = ((((safe_mod_func_int32_t_s_s((safe_add_func_int32_t_s_s((safe_rshift_func_int8_t_s_u((((safe_lshift_func_uint8_t_u_s(((safe_add_func_int16_t_s_s((safe_lshift_func_int8_t_s_u((((g_427[1] = (safe_sub_func_int16_t_s_s(((safe_lshift_func_uint8_t_u_s((l_4281[5] != (-2L)), 7)) <= (((((g_1472 >= g_2084) , g_317) | g_1044) < l_4281[5]) < g_203)), p_11))) , p_11) , l_4281[2]), 3)), g_504[1][1][2])) | l_4253), g_27[2][0])) , p_12) && l_4281[2]), 4)), (-10L))), 0x774942A1L)) , l_4281[3]) | 4294967295UL) || 0x3866562AL)))) != 0x91L) , p_12)), p_12)) || 1L) <= g_250[0][1])))) <= l_4256) >= 0x64BCL) != g_3003) , (-10L)) < p_12))) , 0xF0E3L) | g_1669) , p_11);
+[2026-05-11 21:18:25] Actually deleting 227: static uint8_t func_10(int16_t p_11, int8_t p_12)
+245: }
+[2026-05-11 21:18:25] Actually deleting 224: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:18:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00517 failed
+[2026-05-11 21:18:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00518 failed
+[2026-05-11 21:18:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00519 failed
+[2026-05-11 21:18:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00520 failed
+[2026-05-11 21:18:27] deleting 244: return p_12;
+[2026-05-11 21:18:27] Actually deleting 244: return p_12;
+[2026-05-11 21:18:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00521 failed
+[2026-05-11 21:18:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00522 failed
+[2026-05-11 21:18:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00523 succeed
+[2026-05-11 21:18:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00524 failed
+[2026-05-11 21:18:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00525 succeed
+[2026-05-11 21:18:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00526 failed
+[2026-05-11 21:18:31] deleting 235: return p_12;
+[2026-05-11 21:18:31] Actually deleting 235: return p_12;
+[2026-05-11 21:18:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00527 failed
+[2026-05-11 21:18:31] deleting 229: uint32_t l_4281[8] = {0x57F96573L,0x57F96573L,0x57F96573L,0x57F96573L,0x57F96573L,0x57F96573L,0x57F96573L,0x57F96573L};
+[2026-05-11 21:18:31] Actually deleting 233: l_4253 = ((((safe_sub_func_int32_t_s_s((5UL ^ l_4256), ((((((safe_mod_func_uint8_t_u_u((((safe_lshift_func_uint16_t_u_s(1UL, 11)) && 0xD98578FCL) & 1L), (+(((safe_add_func_int32_t_s_s((l_4282 = (((safe_unary_minus_func_int32_t_s((g_897[0][2] = ((((safe_mod_func_int32_t_s_s((safe_add_func_int32_t_s_s((safe_rshift_func_int8_t_s_u((((safe_lshift_func_uint8_t_u_s(((safe_add_func_int16_t_s_s((safe_lshift_func_int8_t_s_u((((g_427[1] = (safe_sub_func_int16_t_s_s(((safe_lshift_func_uint8_t_u_s((l_4281[5] != (-2L)), 7)) <= (((((g_1472 >= g_2084) , g_317) | g_1044) < l_4281[5]) < g_203)), p_11))) , p_11) , l_4281[2]), 3)), g_504[1][1][2])) | l_4253), g_27[2][0])) , p_12) && l_4281[2]), 4)), (-10L))), 0x774942A1L)) , l_4281[3]) | 4294967295UL) || 0x3866562AL)))) != 0x91L) , p_12)), p_12)) || 1L) <= g_250[0][1])))) <= l_4256) >= 0x64BCL) != g_3003) , (-10L)) < p_12))) , 0xF0E3L) | g_1669) , p_11);
+[2026-05-11 21:18:31] Actually deleting 229: uint32_t l_4281[8] = {0x57F96573L,0x57F96573L,0x57F96573L,0x57F96573L,0x57F96573L,0x57F96573L,0x57F96573L,0x57F96573L};
+[2026-05-11 21:18:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00528 failed
+[2026-05-11 21:18:32] deleting 230: int32_t l_4282 = 0x47CA2331L;
+[2026-05-11 21:18:32] Actually deleting 230: int32_t l_4282 = 0x47CA2331L;
+[2026-05-11 21:18:32] Actually deleting 234: l_4282 = (p_12 , (p_11 & 0x9BAEL));
+[2026-05-11 21:18:32] Actually deleting 233: l_4253 = ((((safe_sub_func_int32_t_s_s((5UL ^ l_4256), ((((((safe_mod_func_uint8_t_u_u((((safe_lshift_func_uint16_t_u_s(1UL, 11)) && 0xD98578FCL) & 1L), (+(((safe_add_func_int32_t_s_s((l_4282 = (((safe_unary_minus_func_int32_t_s((g_897[0][2] = ((((safe_mod_func_int32_t_s_s((safe_add_func_int32_t_s_s((safe_rshift_func_int8_t_s_u((((safe_lshift_func_uint8_t_u_s(((safe_add_func_int16_t_s_s((safe_lshift_func_int8_t_s_u((((g_427[1] = (safe_sub_func_int16_t_s_s(((safe_lshift_func_uint8_t_u_s((l_4281[5] != (-2L)), 7)) <= (((((g_1472 >= g_2084) , g_317) | g_1044) < l_4281[5]) < g_203)), p_11))) , p_11) , l_4281[2]), 3)), g_504[1][1][2])) | l_4253), g_27[2][0])) , p_12) && l_4281[2]), 4)), (-10L))), 0x774942A1L)) , l_4281[3]) | 4294967295UL) || 0x3866562AL)))) != 0x91L) , p_12)), p_12)) || 1L) <= g_250[0][1])))) <= l_4256) >= 0x64BCL) != g_3003) , (-10L)) < p_12))) , 0xF0E3L) | g_1669) , p_11);
+[2026-05-11 21:18:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00529 failed
+[2026-05-11 21:18:32] deleting 231: int32_t l_4253 = 0x298E0FB6L;
+[2026-05-11 21:18:32] Actually deleting 231: int32_t l_4253 = 0x298E0FB6L;
+[2026-05-11 21:18:32] Actually deleting 233: l_4253 = ((((safe_sub_func_int32_t_s_s((5UL ^ l_4256), ((((((safe_mod_func_uint8_t_u_u((((safe_lshift_func_uint16_t_u_s(1UL, 11)) && 0xD98578FCL) & 1L), (+(((safe_add_func_int32_t_s_s((l_4282 = (((safe_unary_minus_func_int32_t_s((g_897[0][2] = ((((safe_mod_func_int32_t_s_s((safe_add_func_int32_t_s_s((safe_rshift_func_int8_t_s_u((((safe_lshift_func_uint8_t_u_s(((safe_add_func_int16_t_s_s((safe_lshift_func_int8_t_s_u((((g_427[1] = (safe_sub_func_int16_t_s_s(((safe_lshift_func_uint8_t_u_s((l_4281[5] != (-2L)), 7)) <= (((((g_1472 >= g_2084) , g_317) | g_1044) < l_4281[5]) < g_203)), p_11))) , p_11) , l_4281[2]), 3)), g_504[1][1][2])) | l_4253), g_27[2][0])) , p_12) && l_4281[2]), 4)), (-10L))), 0x774942A1L)) , l_4281[3]) | 4294967295UL) || 0x3866562AL)))) != 0x91L) , p_12)), p_12)) || 1L) <= g_250[0][1])))) <= l_4256) >= 0x64BCL) != g_3003) , (-10L)) < p_12))) , 0xF0E3L) | g_1669) , p_11);
+[2026-05-11 21:18:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00530 failed
+[2026-05-11 21:18:33] deleting 232: int32_t l_4256 = 0xE99E48B2L;
+[2026-05-11 21:18:33] Actually deleting 232: int32_t l_4256 = 0xE99E48B2L;
+[2026-05-11 21:18:33] Actually deleting 233: l_4253 = ((((safe_sub_func_int32_t_s_s((5UL ^ l_4256), ((((((safe_mod_func_uint8_t_u_u((((safe_lshift_func_uint16_t_u_s(1UL, 11)) && 0xD98578FCL) & 1L), (+(((safe_add_func_int32_t_s_s((l_4282 = (((safe_unary_minus_func_int32_t_s((g_897[0][2] = ((((safe_mod_func_int32_t_s_s((safe_add_func_int32_t_s_s((safe_rshift_func_int8_t_s_u((((safe_lshift_func_uint8_t_u_s(((safe_add_func_int16_t_s_s((safe_lshift_func_int8_t_s_u((((g_427[1] = (safe_sub_func_int16_t_s_s(((safe_lshift_func_uint8_t_u_s((l_4281[5] != (-2L)), 7)) <= (((((g_1472 >= g_2084) , g_317) | g_1044) < l_4281[5]) < g_203)), p_11))) , p_11) , l_4281[2]), 3)), g_504[1][1][2])) | l_4253), g_27[2][0])) , p_12) && l_4281[2]), 4)), (-10L))), 0x774942A1L)) , l_4281[3]) | 4294967295UL) || 0x3866562AL)))) != 0x91L) , p_12)), p_12)) || 1L) <= g_250[0][1])))) <= l_4256) >= 0x64BCL) != g_3003) , (-10L)) < p_12))) , 0xF0E3L) | g_1669) , p_11);
+[2026-05-11 21:18:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00531 failed
+[2026-05-11 21:18:34] deleting 233: l_4253 = ((((safe_sub_func_int32_t_s_s((5UL ^ l_4256), ((((((safe_mod_func_uint8_t_u_u((((safe_lshift_func_uint16_t_u_s(1UL, 11)) && 0xD98578FCL) & 1L), (+(((safe_add_func_int32_t_s_s((l_4282 = (((safe_unary_minus_func_int32_t_s((g_897[0][2] = ((((safe_mod_func_int32_t_s_s((safe_add_func_int32_t_s_s((safe_rshift_func_int8_t_s_u((((safe_lshift_func_uint8_t_u_s(((safe_add_func_int16_t_s_s((safe_lshift_func_int8_t_s_u((((g_427[1] = (safe_sub_func_int16_t_s_s(((safe_lshift_func_uint8_t_u_s((l_4281[5] != (-2L)), 7)) <= (((((g_1472 >= g_2084) , g_317) | g_1044) < l_4281[5]) < g_203)), p_11))) , p_11) , l_4281[2]), 3)), g_504[1][1][2])) | l_4253), g_27[2][0])) , p_12) && l_4281[2]), 4)), (-10L))), 0x774942A1L)) , l_4281[3]) | 4294967295UL) || 0x3866562AL)))) != 0x91L) , p_12)), p_12)) || 1L) <= g_250[0][1])))) <= l_4256) >= 0x64BCL) != g_3003) , (-10L)) < p_12))) , 0xF0E3L) | g_1669) , p_11);
+[2026-05-11 21:18:34] Actually deleting 233: l_4253 = ((((safe_sub_func_int32_t_s_s((5UL ^ l_4256), ((((((safe_mod_func_uint8_t_u_u((((safe_lshift_func_uint16_t_u_s(1UL, 11)) && 0xD98578FCL) & 1L), (+(((safe_add_func_int32_t_s_s((l_4282 = (((safe_unary_minus_func_int32_t_s((g_897[0][2] = ((((safe_mod_func_int32_t_s_s((safe_add_func_int32_t_s_s((safe_rshift_func_int8_t_s_u((((safe_lshift_func_uint8_t_u_s(((safe_add_func_int16_t_s_s((safe_lshift_func_int8_t_s_u((((g_427[1] = (safe_sub_func_int16_t_s_s(((safe_lshift_func_uint8_t_u_s((l_4281[5] != (-2L)), 7)) <= (((((g_1472 >= g_2084) , g_317) | g_1044) < l_4281[5]) < g_203)), p_11))) , p_11) , l_4281[2]), 3)), g_504[1][1][2])) | l_4253), g_27[2][0])) , p_12) && l_4281[2]), 4)), (-10L))), 0x774942A1L)) , l_4281[3]) | 4294967295UL) || 0x3866562AL)))) != 0x91L) , p_12)), p_12)) || 1L) <= g_250[0][1])))) <= l_4256) >= 0x64BCL) != g_3003) , (-10L)) < p_12))) , 0xF0E3L) | g_1669) , p_11);
+[2026-05-11 21:18:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00532 failed
+[2026-05-11 21:18:34] deleting 234: l_4282 = (p_12 , (p_11 & 0x9BAEL));
+[2026-05-11 21:18:34] Actually deleting 234: l_4282 = (p_12 , (p_11 & 0x9BAEL));
+[2026-05-11 21:18:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00533 succeed
+[2026-05-11 21:18:36] deleting 234: return p_12;
+[2026-05-11 21:18:36] Actually deleting 234: return p_12;
+[2026-05-11 21:18:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00534 failed
+[2026-05-11 21:18:36] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:18:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00535 succeed
+[2026-05-11 21:18:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00536 failed
+[2026-05-11 21:18:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00537 failed
+[2026-05-11 21:18:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00538 failed
+[2026-05-11 21:18:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00539 failed
+[2026-05-11 21:18:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00540 failed
+[2026-05-11 21:18:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00541 failed
+[2026-05-11 21:18:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00542 succeed
+[2026-05-11 21:18:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00544 succeed
+[2026-05-11 21:18:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00545 failed
+[2026-05-11 21:18:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00546 failed
+[2026-05-11 21:18:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00547 failed
+[2026-05-11 21:18:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00548 succeed
+[2026-05-11 21:18:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00549 succeed
+[2026-05-11 21:18:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00550 succeed
+[2026-05-11 21:18:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00551 succeed
+[2026-05-11 21:18:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00552 succeed
+[2026-05-11 21:18:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00553 succeed
+[2026-05-11 21:18:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00554 succeed
+[2026-05-11 21:18:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00555 failed
+[2026-05-11 21:18:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00556 failed
+[2026-05-11 21:18:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00557 failed
+[2026-05-11 21:18:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00558 failed
+[2026-05-11 21:18:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00559 succeed
+[2026-05-11 21:18:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00560 succeed
+[2026-05-11 21:18:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00561 failed
+[2026-05-11 21:18:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00562 succeed
+[2026-05-11 21:18:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00563 succeed
+[2026-05-11 21:18:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00564 succeed
+[2026-05-11 21:18:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00565 succeed
+[2026-05-11 21:18:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00566 succeed
+[2026-05-11 21:18:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00567 succeed
+[2026-05-11 21:18:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00568 failed
+[2026-05-11 21:18:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00569 failed
+[2026-05-11 21:18:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00570 failed
+[2026-05-11 21:19:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00571 failed
+[2026-05-11 21:19:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00572 succeed
+[2026-05-11 21:19:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00573 failed
+[2026-05-11 21:19:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00574 succeed
+[2026-05-11 21:19:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00575 succeed
+[2026-05-11 21:19:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00576 failed
+[2026-05-11 21:19:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00577 failed
+[2026-05-11 21:19:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00578 failed
+[2026-05-11 21:19:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00579 succeed
+[2026-05-11 21:19:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00580 failed
+[2026-05-11 21:19:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00581 succeed
+[2026-05-11 21:19:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00582 succeed
+[2026-05-11 21:19:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00583 failed
+[2026-05-11 21:19:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00584 failed
+[2026-05-11 21:19:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00585 succeed
+[2026-05-11 21:19:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00586 failed
+[2026-05-11 21:19:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00587 succeed
+[2026-05-11 21:19:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00588 failed
+[2026-05-11 21:19:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00589 failed
+[2026-05-11 21:19:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00590 failed
+[2026-05-11 21:19:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00591 failed
+[2026-05-11 21:19:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00592 failed
+[2026-05-11 21:19:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00593 failed
+[2026-05-11 21:19:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00594 succeed
+[2026-05-11 21:19:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00595 failed
+[2026-05-11 21:19:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00596 failed
+[2026-05-11 21:19:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00597 succeed
+[2026-05-11 21:19:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00598 failed
+[2026-05-11 21:19:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00599 failed
+[2026-05-11 21:19:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00600 succeed
+[2026-05-11 21:19:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00601 failed
+[2026-05-11 21:19:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00602 failed
+[2026-05-11 21:19:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00603 succeed
+[2026-05-11 21:19:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00604 failed
+[2026-05-11 21:19:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00605 succeed
+[2026-05-11 21:19:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00606 failed
+[2026-05-11 21:19:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00607 succeed
+[2026-05-11 21:19:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00608 failed
+[2026-05-11 21:19:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00609 succeed
+[2026-05-11 21:19:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00610 succeed
+[2026-05-11 21:19:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00611 failed
+[2026-05-11 21:19:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00612 failed
+[2026-05-11 21:19:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00613 failed
+[2026-05-11 21:19:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00614 failed
+[2026-05-11 21:19:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00615 failed
+[2026-05-11 21:19:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00616 succeed
+[2026-05-11 21:19:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00617 succeed
+[2026-05-11 21:19:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00618 succeed
+[2026-05-11 21:19:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00619 failed
+[2026-05-11 21:19:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00620 failed
+[2026-05-11 21:19:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00621 failed
+[2026-05-11 21:19:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00622 succeed
+[2026-05-11 21:19:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00623 failed
+[2026-05-11 21:19:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00624 succeed
+[2026-05-11 21:19:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00625 succeed
+[2026-05-11 21:19:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00626 failed
+[2026-05-11 21:19:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00627 succeed
+[2026-05-11 21:19:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00628 failed
+[2026-05-11 21:19:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00629 failed
+[2026-05-11 21:19:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00630 failed
+[2026-05-11 21:19:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00631 failed
+[2026-05-11 21:19:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00632 succeed
+[2026-05-11 21:19:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00633 failed
+[2026-05-11 21:19:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00634 failed
+[2026-05-11 21:19:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00635 failed
+[2026-05-11 21:19:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00636 succeed
+[2026-05-11 21:19:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00637 succeed
+[2026-05-11 21:19:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00638 failed
+[2026-05-11 21:19:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00639 failed
+[2026-05-11 21:19:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00640 failed
+[2026-05-11 21:19:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00641 succeed
+[2026-05-11 21:19:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00642 failed
+[2026-05-11 21:19:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00643 succeed
+[2026-05-11 21:19:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00644 succeed
+[2026-05-11 21:19:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00645 succeed
+[2026-05-11 21:19:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00646 succeed
+[2026-05-11 21:19:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00647 succeed
+[2026-05-11 21:19:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00648 succeed
+[2026-05-11 21:19:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00649 succeed
+[2026-05-11 21:19:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00650 succeed
+[2026-05-11 21:19:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00651 succeed
+[2026-05-11 21:19:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00652 succeed
+[2026-05-11 21:19:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00653 succeed
+[2026-05-11 21:19:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00654 succeed
+[2026-05-11 21:19:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00655 succeed
+[2026-05-11 21:19:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00656 failed
+[2026-05-11 21:19:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00657 succeed
+[2026-05-11 21:19:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00658 succeed
+[2026-05-11 21:20:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00659 succeed
+[2026-05-11 21:20:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00660 succeed
+[2026-05-11 21:20:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00661 succeed
+[2026-05-11 21:20:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00662 succeed
+[2026-05-11 21:20:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00663 succeed
+[2026-05-11 21:20:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00664 succeed
+[2026-05-11 21:20:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00665 succeed
+[2026-05-11 21:20:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00666 succeed
+[2026-05-11 21:20:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00667 succeed
+[2026-05-11 21:20:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00668 succeed
+[2026-05-11 21:20:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00669 succeed
+[2026-05-11 21:20:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00670 failed
+[2026-05-11 21:20:11] Working in function safe_lshift_func_uint8_t_u_s
+[2026-05-11 21:20:11] deleting 101: static uint8_t
+108: }
+[2026-05-11 21:20:11] Actually deleting 101: static uint8_t
+108: }
+[2026-05-11 21:20:11] Actually deleting 104: return
+107:     (left << ((int)right));
+[2026-05-11 21:20:11] Actually deleting 233: (((((+((((g_897[0][2] = (((((safe_lshift_func_uint8_t_u_s(((g_427[1] = 0 , 0 , 2)), 0)) && 2)))) , 0x3866562AL) != 0x91L) , 0) || 1L)))) < 0));
+[2026-05-11 21:20:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00671 failed
+[2026-05-11 21:20:11] deleting 104: return
+107:     (left << ((int)right));
+[2026-05-11 21:20:11] Actually deleting 104: return
+107:     (left << ((int)right));
+[2026-05-11 21:20:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00672 failed
+[2026-05-11 21:20:12] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:20:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00673 succeed
+[2026-05-11 21:20:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00674 failed
+[2026-05-11 21:20:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00675 failed
+[2026-05-11 21:20:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00676 failed
+[2026-05-11 21:20:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00677 succeed
+[2026-05-11 21:20:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00678 succeed
+[2026-05-11 21:20:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00679 succeed
+[2026-05-11 21:20:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00680 succeed
+[2026-05-11 21:20:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00681 succeed
+[2026-05-11 21:20:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00682 succeed
+[2026-05-11 21:20:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00683 succeed
+[2026-05-11 21:20:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00684 succeed
+[2026-05-11 21:20:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00685 succeed
+[2026-05-11 21:20:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00686 failed
+[2026-05-11 21:20:21] Working in function safe_lshift_func_int8_t_s_u
+[2026-05-11 21:20:21] deleting 23: static int8_t
+30: }
+[2026-05-11 21:20:21] Actually deleting 26: return
+29:     (left << ((unsigned int)right));
+[2026-05-11 21:20:21] Actually deleting 23: static int8_t
+30: }
+[2026-05-11 21:20:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00687 failed
+[2026-05-11 21:20:21] deleting 26: return
+29:     (left << ((unsigned int)right));
+[2026-05-11 21:20:21] Actually deleting 26: return
+29:     (left << ((unsigned int)right));
+[2026-05-11 21:20:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00688 failed
+[2026-05-11 21:20:22] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:20:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00689 succeed
+[2026-05-11 21:20:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00690 failed
+[2026-05-11 21:20:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00691 failed
+[2026-05-11 21:20:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00692 failed
+[2026-05-11 21:20:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00693 succeed
+[2026-05-11 21:20:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00694 succeed
+[2026-05-11 21:20:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00695 failed
+[2026-05-11 21:20:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00696 succeed
+[2026-05-11 21:20:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00697 succeed
+[2026-05-11 21:20:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00698 failed
+[2026-05-11 21:20:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00699 succeed
+[2026-05-11 21:20:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00700 succeed
+[2026-05-11 21:20:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00701 succeed
+[2026-05-11 21:20:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00702 succeed
+[2026-05-11 21:20:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00703 succeed
+[2026-05-11 21:20:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00704 succeed
+[2026-05-11 21:20:34] Working in function safe_add_func_int16_t_s_s
+[2026-05-11 21:20:34] deleting 43: static int16_t
+48: }
+[2026-05-11 21:20:34] Actually deleting 46: return
+47:     (si1 + si2);
+[2026-05-11 21:20:34] Actually deleting 43: static int16_t
+48: }
+[2026-05-11 21:20:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00705 succeed
+[2026-05-11 21:20:35] Working in function safe_mod_func_int32_t_s_s
+[2026-05-11 21:20:35] deleting 77: static int32_t
+84: }
+[2026-05-11 21:20:35] Actually deleting 77: static int32_t
+84: }
+[2026-05-11 21:20:35] Actually deleting 80: return
+83:     (si1 % si2);
+[2026-05-11 21:20:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00706 succeed
+[2026-05-11 21:20:36] Working in function safe_unary_minus_func_int32_t_s
+[2026-05-11 21:20:36] deleting 55: static int32_t
+62: }
+[2026-05-11 21:20:36] Actually deleting 55: static int32_t
+62: }
+[2026-05-11 21:20:36] Actually deleting 58: return
+61:     -si;
+[2026-05-11 21:20:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00707 failed
+[2026-05-11 21:20:36] deleting 58: return
+61:     -si;
+[2026-05-11 21:20:36] Actually deleting 58: return
+61:     -si;
+[2026-05-11 21:20:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00708 failed
+[2026-05-11 21:20:36] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:20:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00709 succeed
+[2026-05-11 21:20:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00710 failed
+[2026-05-11 21:20:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00711 succeed
+[2026-05-11 21:20:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00712 succeed
+[2026-05-11 21:20:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00713 failed
+[2026-05-11 21:20:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00714 succeed
+[2026-05-11 21:20:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00715 succeed
+[2026-05-11 21:20:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00716 succeed
+[2026-05-11 21:20:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00717 failed
+[2026-05-11 21:20:44] Working in function safe_lshift_func_uint16_t_u_s
+[2026-05-11 21:20:44] deleting 102: static uint16_t
+109: }
+[2026-05-11 21:20:44] Actually deleting 102: static uint16_t
+109: }
+[2026-05-11 21:20:44] Actually deleting 105: return
+108:     (left << ((int)right));
+[2026-05-11 21:20:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00718 succeed
+[2026-05-11 21:20:45] Working in function safe_mod_func_uint8_t_u_u
+[2026-05-11 21:20:45] deleting 75: static uint8_t
+82: }
+[2026-05-11 21:20:45] Actually deleting 78: return
+81:     (ui1 % ui2);
+[2026-05-11 21:20:45] Actually deleting 75: static uint8_t
+82: }
+[2026-05-11 21:20:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00719 succeed
+[2026-05-11 21:20:46] Working in function safe_sub_func_int32_t_s_s
+[2026-05-11 21:20:46] deleting 67: static int32_t
+74: }
+[2026-05-11 21:20:46] Actually deleting 67: static int32_t
+74: }
+[2026-05-11 21:20:46] Actually deleting 70: return
+73:     (si1 - si2);
+[2026-05-11 21:20:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00720 succeed
+[2026-05-11 21:20:47] Working in function safe_sub_func_int8_t_s_s
+[2026-05-11 21:20:47] deleting 17: static int8_t
+22: }
+[2026-05-11 21:20:47] Actually deleting 17: static int8_t
+22: }
+[2026-05-11 21:20:47] Actually deleting 20: return
+21:     (si1 - si2);
+[2026-05-11 21:20:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00721 succeed
+[2026-05-11 21:20:48] Working in function safe_sub_func_uint32_t_u_u
+[2026-05-11 21:20:48] deleting 86: static uint32_t
+90: }
+[2026-05-11 21:20:48] Actually deleting 86: static uint32_t
+90: }
+[2026-05-11 21:20:48] Actually deleting 89: return ui1 - ui2;
+[2026-05-11 21:20:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00722 succeed
+[2026-05-11 21:20:48] Working in function safe_sub_func_uint16_t_u_u
+[2026-05-11 21:20:48] deleting 67: static uint16_t
+71: }
+[2026-05-11 21:20:48] Actually deleting 70: return ui1 - ui2;
+[2026-05-11 21:20:48] Actually deleting 67: static uint16_t
+71: }
+[2026-05-11 21:20:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00723 succeed
+[2026-05-11 21:20:49] Working in function safe_rshift_func_int8_t_s_s
+[2026-05-11 21:20:49] deleting 23: static int8_t
+30: }
+[2026-05-11 21:20:49] Actually deleting 26: return
+29:     (left >> ((int)right));
+[2026-05-11 21:20:49] Actually deleting 23: static int8_t
+30: }
+[2026-05-11 21:20:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00724 succeed
+[2026-05-11 21:20:50] Working in function platform_main_end
+[2026-05-11 21:20:50] deleting 12: static void
+16: }
+[2026-05-11 21:20:50] Actually deleting 15: printf ("checksum = %X\n", crc);
+[2026-05-11 21:20:50] Actually deleting 12: static void
+16: }
+[2026-05-11 21:20:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00725 succeed
+[2026-05-11 21:20:51] Working in function safe_mod_func_uint16_t_u_u
+[2026-05-11 21:20:51] deleting 54: static uint16_t
+61: }
+[2026-05-11 21:20:51] Actually deleting 54: static uint16_t
+61: }
+[2026-05-11 21:20:51] Actually deleting 57: return
+60:     (ui1 % ui2);
+[2026-05-11 21:20:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00726 succeed
+[2026-05-11 21:20:52] Working in function func_47
+[2026-05-11 21:20:52] deleting 179: static int8_t func_47(int16_t p_48)
+182: }
+[2026-05-11 21:20:52] Actually deleting 179: static int8_t func_47(int16_t p_48)
+182: }
+[2026-05-11 21:20:52] Actually deleting 181: return p_48;
+[2026-05-11 21:20:52] Actually deleting 135: static int8_t func_47(int16_t p_48);
+[2026-05-11 21:20:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00727 succeed
+[2026-05-11 21:20:53] ---H_GLOBAL_REDUCER start---
+[2026-05-11 21:20:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00728 failed
+[2026-05-11 21:20:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00729 failed
+[2026-05-11 21:20:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00730 failed
+[2026-05-11 21:20:53] deleting 119: static volatile int32_t g_2236[6] = {0x0E7B8307L,0x0E7B8307L,0x0E7B8307L,0x0E7B8307L,0x0E7B8307L,0x0E7B8307L};
+[2026-05-11 21:20:53] Actually deleting 119: static volatile int32_t g_2236[6] = {0x0E7B8307L,0x0E7B8307L,0x0E7B8307L,0x0E7B8307L,0x0E7B8307L,0x0E7B8307L};
+[2026-05-11 21:20:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00731 failed
+[2026-05-11 21:20:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00732 failed
+[2026-05-11 21:20:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00733 failed
+[2026-05-11 21:20:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00734 failed
+[2026-05-11 21:20:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00735 failed
+[2026-05-11 21:20:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00736 succeed
+[2026-05-11 21:20:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00737 failed
+[2026-05-11 21:20:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00738 failed
+[2026-05-11 21:20:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00739 failed
+[2026-05-11 21:20:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00740 failed
+[2026-05-11 21:20:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00741 failed
+[2026-05-11 21:20:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00742 failed
+[2026-05-11 21:20:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00743 failed
+[2026-05-11 21:20:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00744 failed
+[2026-05-11 21:20:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00745 failed
+[2026-05-11 21:21:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00746 failed
+[2026-05-11 21:21:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00747 succeed
+[2026-05-11 21:21:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00748 failed
+[2026-05-11 21:21:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00749 failed
+[2026-05-11 21:21:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00750 failed
+[2026-05-11 21:21:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00751 failed
+[2026-05-11 21:21:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00752 failed
+[2026-05-11 21:21:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00753 succeed
+[2026-05-11 21:21:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00754 failed
+[2026-05-11 21:21:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00755 failed
+[2026-05-11 21:21:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00756 failed
+[2026-05-11 21:21:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00757 succeed
+[2026-05-11 21:21:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00758 failed
+[2026-05-11 21:21:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00759 failed
+[2026-05-11 21:21:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00760 failed
+[2026-05-11 21:21:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00761 failed
+[2026-05-11 21:21:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00762 failed
+[2026-05-11 21:21:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00763 failed
+[2026-05-11 21:21:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00764 failed
+[2026-05-11 21:21:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00765 failed
+[2026-05-11 21:21:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00766 succeed
+[2026-05-11 21:21:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00767 succeed
+[2026-05-11 21:21:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00768 failed
+[2026-05-11 21:21:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00769 succeed
+[2026-05-11 21:21:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00770 failed
+[2026-05-11 21:21:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00771 failed
+[2026-05-11 21:21:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00772 succeed
+[2026-05-11 21:21:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00773 failed
+[2026-05-11 21:21:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00774 failed
+[2026-05-11 21:21:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00775 failed
+[2026-05-11 21:21:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00776 failed
+[2026-05-11 21:21:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00777 failed
+[2026-05-11 21:21:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00778 failed
+[2026-05-11 21:21:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00779 failed
+[2026-05-11 21:21:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00780 succeed
+[2026-05-11 21:21:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00781 failed
+[2026-05-11 21:21:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00782 failed
+[2026-05-11 21:21:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00783 succeed
+[2026-05-11 21:21:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00784 failed
+[2026-05-11 21:21:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00785 failed
+[2026-05-11 21:21:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00786 succeed
+[2026-05-11 21:21:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00787 succeed
+[2026-05-11 21:21:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00788 failed
+[2026-05-11 21:21:24] deleting 6: typedef unsigned short int uint16_t;
+[2026-05-11 21:21:24] Actually deleting 77: static uint16_t func_1(void);
+[2026-05-11 21:21:24] Actually deleting 120: uint16_t l_30 ;
+[2026-05-11 21:21:24] Actually deleting 87: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:21:24] Actually deleting 6: typedef unsigned short int uint16_t;
+[2026-05-11 21:21:24] Actually deleting 38: uint16_t
+43: }
+[2026-05-11 21:21:24] Actually deleting 62: static uint16_t g_504[10][8][3] = {{{1UL,0x4B63L,0x3008L},{65535UL,1UL,0x3008L},{0xEF53L,6UL,0xAA53L},{0xA4E2L,65535UL,0x3008L},{0x4B63L,6UL,0x3008L},{6UL,0xEF53L,0xAA53L},{6UL,5UL,0x3008L},{5UL,0xA4E2L,0x3008L}},{{0xFFB4L,0xFFB4L,0xAA53L},{1UL,0x4B63L,0x3008L},{65535UL,1UL,0x3008L},{0xEF53L,6UL,0xAA53L},{0xA4E2L,65535UL,0x3008L},{0x4B63L,6UL,0x3008L},{6UL,0xEF53L,0xAA53L},{6UL,5UL,0x3008L}},{{5UL,0xA4E2L,0x3008L},{0xFFB4L,0xFFB4L,0xAA53L},{1UL,0x4B63L,0x3008L},{65535UL,1UL,0x3008L},{0xEF53L,6UL,0xAA53L},{0xA4E2L,65535UL,0x3008L},{0x4B63L,6UL,0x3008L},{6UL,0xEF53L,0xAA53L}},{{6UL,5UL,0x3008L},{5UL,0xA4E2L,0x3008L},{0xFFB4L,0xFFB4L,0xAA53L},{1UL,0x4B63L,0x3008L},{65535UL,1UL,0x3008L},{0xEF53L,6UL,0xAA53L},{0xA4E2L,65535UL,0x3008L},{0x4B63L,6UL,0x3008L}},{{6UL,0xEF53L,0xAA53L},{6UL,5UL,0x3008L},{5UL,0xA4E2L,0x3008L},{0xFFB4L,0xFFB4L,0xAA53L},{1UL,0x4B63L,0x3008L},{65535UL,1UL,0x3008L},{0xEF53L,6UL,0xAA53L},{0xA4E2L,65535UL,0x3008L}},{{0x4B63L,6UL,0x3008L},{6UL,0xEF53L,0xAA53L},{6UL,5UL,0x3008L},{5UL,0xA4E2L,0x3008L},{0xFFB4L,0xFFB4L,6UL},{0xF860L,0x316FL,0xEF53L},{0UL,0xF860L,0xEF53L},{65530UL,0xE9B3L,6UL}},{{0x2DF2L,0UL,0xEF53L},{0x316FL,0UL,0xEF53L},{0xE9B3L,65530UL,6UL},{0UL,0x90F2L,0xEF53L},{0x90F2L,0x2DF2L,0xEF53L},{6UL,6UL,6UL},{0xF860L,0x316FL,0xEF53L},{0UL,0xF860L,0xEF53L}},{{65530UL,0xE9B3L,6UL},{0x2DF2L,0UL,0xEF53L},{0x316FL,0UL,0xEF53L},{0xE9B3L,65530UL,6UL},{0UL,0x90F2L,0xEF53L},{0x90F2L,0x2DF2L,0xEF53L},{6UL,6UL,6UL},{0xF860L,0x316FL,0xEF53L}},{{0UL,0xF860L,0xEF53L},{65530UL,0xE9B3L,6UL},{0x2DF2L,0UL,0xEF53L},{0x316FL,0UL,0xEF53L},{0xE9B3L,65530UL,6UL},{0UL,0x90F2L,0xEF53L},{0x90F2L,0x2DF2L,0xEF53L},{6UL,6UL,6UL}},{{0xF860L,0x316FL,0xEF53L},{0UL,0xF860L,0xEF53L},{65530UL,0xE9B3L,6UL},{0x2DF2L,0UL,0xEF53L},{0x316FL,0UL,0xEF53L},{0xE9B3L,65530UL,6UL},{0UL,0x90F2L,0xEF53L},{0x90F2L,0x2DF2L,0xEF53L}}};
+[2026-05-11 21:21:24] Actually deleting 125: func_1();
+[2026-05-11 21:21:24] Actually deleting 72: static uint16_t g_2729[3][7] = {{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL}};
+[2026-05-11 21:21:24] Actually deleting 79: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:24] Actually deleting 68: static uint16_t g_1328 = 0x2078L;
+[2026-05-11 21:21:24] Actually deleting 80: uint16_t func_1()
+89: }
+[2026-05-11 21:21:24] Actually deleting 114: (g_2729[2][0] = l_3593[0][0][g_503]);
+[2026-05-11 21:21:24] Actually deleting 99: int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+117: }
+[2026-05-11 21:21:24] Actually deleting 61: static uint16_t g_503 = 0x06D7L;
+[2026-05-11 21:21:24] Actually deleting 118: uint16_t func_23(int32_t p_24)
+122: }
+[2026-05-11 21:21:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00789 failed
+[2026-05-11 21:21:24] deleting 7: typedef unsigned int uint32_t;
+[2026-05-11 21:21:24] Actually deleting 92: uint32_t l_4281[8] = {0x57F96573L};
+[2026-05-11 21:21:24] Actually deleting 64: static uint32_t g_639 = 0x5BF4443DL;
+[2026-05-11 21:21:24] Actually deleting 53: static uint32_t g_127 = 1UL;
+[2026-05-11 21:21:24] Actually deleting 54: static uint32_t g_183[10] = {0x3F7E2340L,0x3F7E2340L,0x3F7E2340L,0x3F7E2340L,0x3F7E2340L,0x3F7E2340L,0x3F7E2340L,0x3F7E2340L,0x3F7E2340L,0x3F7E2340L};
+[2026-05-11 21:21:24] Actually deleting 67: static uint32_t g_972 = 0x3AAFA27AL;
+[2026-05-11 21:21:24] Actually deleting 47: static uint32_t g_32[9][2] = {{4294967290UL,0x520F3038L},{6UL,0x520F3038L},{4294967290UL,6UL},{0xD06F6293L,0xD06F6293L},{0xD06F6293L,6UL},{4294967290UL,0x520F3038L},{6UL,0x520F3038L},{4294967290UL,6UL},{0xD06F6293L,0xD06F6293L}};
+[2026-05-11 21:21:24] Actually deleting 51: static volatile uint32_t g_44 = 4294967289UL;
+[2026-05-11 21:21:24] Actually deleting 57: static uint32_t g_318 = 0UL;
+[2026-05-11 21:21:24] Actually deleting 102: uint32_t l_3367 = 7UL;
+[2026-05-11 21:21:24] Actually deleting 60: static volatile uint32_t g_499 = 0xCCA17D6DL;
+[2026-05-11 21:21:24] Actually deleting 7: typedef unsigned int uint32_t;
+[2026-05-11 21:21:24] Actually deleting 48: static uint32_t g_33 = 0x2CD8491FL;
+[2026-05-11 21:21:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00790 succeed
+[2026-05-11 21:21:25] deleting 65: static volatile int8_t g_3903 = 0x93L;
+[2026-05-11 21:21:25] Actually deleting 65: static volatile int8_t g_3903 = 0x93L;
+[2026-05-11 21:21:25] Actually deleting 104: return g_3903;
+[2026-05-11 21:21:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00791 failed
+[2026-05-11 21:21:25] deleting 68: static uint8_t func_10(int16_t p_11, int8_t p_12);
+[2026-05-11 21:21:25] Actually deleting 68: static uint8_t func_10(int16_t p_11, int8_t p_12);
+[2026-05-11 21:21:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00792 failed
+[2026-05-11 21:21:25] deleting 1: typedef unsigned int size_t;
+[2026-05-11 21:21:25] Actually deleting 1: typedef unsigned int size_t;
+[2026-05-11 21:21:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00793 failed
+[2026-05-11 21:21:26] deleting 106: uint16_t func_23(int32_t p_24)
+110: }
+[2026-05-11 21:21:26] Actually deleting 106: uint16_t func_23(int32_t p_24)
+110: }
+[2026-05-11 21:21:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00794 succeed
+[2026-05-11 21:21:27] deleting 5: typedef unsigned char uint8_t;
+[2026-05-11 21:21:27] Actually deleting 80: uint8_t func_10(int16_t p_11, int8_t p_12)
+87: }
+[2026-05-11 21:21:27] Actually deleting 64: static volatile uint8_t g_3159[3][4][2] = {{{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL}},{{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL}},{{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL}}};
+[2026-05-11 21:21:27] Actually deleting 68: static uint8_t func_10(int16_t p_11, int8_t p_12);
+[2026-05-11 21:21:27] Actually deleting 88: int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+105: }
+[2026-05-11 21:21:27] Actually deleting 69: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:27] Actually deleting 5: typedef unsigned char uint8_t;
+[2026-05-11 21:21:27] Actually deleting 47: static uint8_t g_35 = 0x2EL;
+[2026-05-11 21:21:27] Actually deleting 49: static uint8_t g_185[2][9][3] = {{{0xBEL,0x9FL,0x9FL},{0xBEL,0x9FL,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L}},{{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L}}};
+[2026-05-11 21:21:27] Actually deleting 31: uint8_t
+36: }
+[2026-05-11 21:21:27] Actually deleting 98: uint8_t l_3519 = 0xC3L;
+[2026-05-11 21:21:27] Actually deleting 85: (((((+((((g_897[0][2] = (((((safe_lshift_func_uint8_t_u_s(((g_427[1] = 0 , 0 , 2)), 0)) && 2)))) , 0x3866562AL) != 0x91L) , 0) || 1L)))) < 0));
+[2026-05-11 21:21:27] Actually deleting 77: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:21:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00795 failed
+[2026-05-11 21:21:28] deleting 61: static volatile int8_t g_2610 = 0xB6L;
+[2026-05-11 21:21:28] Actually deleting 61: static volatile int8_t g_2610 = 0xB6L;
+[2026-05-11 21:21:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00796 succeed
+[2026-05-11 21:21:29] deleting 69: uint16_t func_1()
+78: }
+[2026-05-11 21:21:29] Actually deleting 69: uint16_t func_1()
+78: }
+[2026-05-11 21:21:29] Actually deleting 107: func_1();
+[2026-05-11 21:21:29] Actually deleting 66: static uint16_t func_1(void);
+[2026-05-11 21:21:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00797 failed
+[2026-05-11 21:21:29] deleting 13: int16_t
+18: }
+[2026-05-11 21:21:29] Actually deleting 13: int16_t
+18: }
+[2026-05-11 21:21:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00798 succeed
+[2026-05-11 21:21:30] deleting 57: static volatile uint8_t g_3159[3][4][2] = {{{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL}},{{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL}},{{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL}}};
+[2026-05-11 21:21:30] Actually deleting 57: static volatile uint8_t g_3159[3][4][2] = {{{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL}},{{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL}},{{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL},{0x8AL,0x8AL}}};
+[2026-05-11 21:21:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00799 succeed
+[2026-05-11 21:21:32] deleting 55: static uint16_t g_2729[3][7] = {{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL}};
+[2026-05-11 21:21:32] Actually deleting 55: static uint16_t g_2729[3][7] = {{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL}};
+[2026-05-11 21:21:32] Actually deleting 94: (g_2729[2][0] = l_3593[0][0][g_503]);
+[2026-05-11 21:21:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00800 failed
+[2026-05-11 21:21:32] deleting 58: static int32_t g_4123 = 4L;
+[2026-05-11 21:21:32] Actually deleting 58: static int32_t g_4123 = 4L;
+[2026-05-11 21:21:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00801 succeed
+[2026-05-11 21:21:33] deleting 49: static volatile int16_t g_577 = 2L;
+[2026-05-11 21:21:33] Actually deleting 49: static volatile int16_t g_577 = 2L;
+[2026-05-11 21:21:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00802 succeed
+[2026-05-11 21:21:35] deleting 4: typedef int int32_t;
+[2026-05-11 21:21:35] Actually deleting 64: int32_t l_4309 ;
+[2026-05-11 21:21:35] Actually deleting 72: int32_t l_4282 ;
+[2026-05-11 21:21:35] Actually deleting 90: if (0xBEL >= g_427[2] <= 0 <= 0)
+91:             return 0;
+[2026-05-11 21:21:35] Actually deleting 74: int32_t l_4256 = 0xE99E48B2L;
+[2026-05-11 21:21:35] Actually deleting 46: static int32_t g_427[3] = {0x92A1D2CDL,0x92A1D2CDL,0x92A1D2CDL};
+[2026-05-11 21:21:35] Actually deleting 67: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:21:35] Actually deleting 4: typedef int int32_t;
+[2026-05-11 21:21:35] Actually deleting 13: int32_t
+18: }
+[2026-05-11 21:21:35] Actually deleting 78: int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+95: }
+[2026-05-11 21:21:35] Actually deleting 66: int32_t l_4311[3];
+[2026-05-11 21:21:35] Actually deleting 80: int32_t l_49[7];
+[2026-05-11 21:21:35] Actually deleting 19: int32_t
+24: }
+[2026-05-11 21:21:35] Actually deleting 38: static int32_t g_5 = (-10L);
+[2026-05-11 21:21:35] Actually deleting 73: int32_t l_4253 = 0x298E0FB6L;
+[2026-05-11 21:21:35] Actually deleting 55: static int32_t g_2942 = 0L;
+[2026-05-11 21:21:35] Actually deleting 75: (((((+((((g_897[0][2] = (((((safe_lshift_func_uint8_t_u_s(((g_427[1] = 0 , 0 , 2)), 0)) && 2)))) , 0x3866562AL) != 0x91L) , 0) || 1L)))) < 0));
+[2026-05-11 21:21:35] Actually deleting 92: (g_2729[2][0] = l_3593[0][0][g_503]);
+[2026-05-11 21:21:35] Actually deleting 84: int32_t l_3184 ;
+[2026-05-11 21:21:35] Actually deleting 65: int32_t l_4310 ;
+[2026-05-11 21:21:35] Actually deleting 83: l_49[i] = 1L;
+[2026-05-11 21:21:35] Actually deleting 59: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:35] Actually deleting 89: int32_t l_3593[5][9][5] ;
+[2026-05-11 21:21:35] Actually deleting 52: static int32_t g_1472 = (-1L);
+[2026-05-11 21:21:35] Actually deleting 50: static int32_t g_897[2][3] = {{0xD7D9BB05L,0xD7D9BB05L,0xD7D9BB05L},{(-1L),(-1L),(-1L)}};
+[2026-05-11 21:21:35] Actually deleting 85: int32_t l_3187 = 0x18D23FFAL;
+[2026-05-11 21:21:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00803 failed
+[2026-05-11 21:21:35] deleting 54: static uint16_t g_2729[3][7] = {{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL}};
+[2026-05-11 21:21:35] Actually deleting 92: (g_2729[2][0] = l_3593[0][0][g_503]);
+[2026-05-11 21:21:35] Actually deleting 54: static uint16_t g_2729[3][7] = {{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL}};
+[2026-05-11 21:21:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00804 failed
+[2026-05-11 21:21:36] deleting 44: static int16_t g_203 = (-9L);
+[2026-05-11 21:21:36] Actually deleting 44: static int16_t g_203 = (-9L);
+[2026-05-11 21:21:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00805 succeed
+[2026-05-11 21:21:36] deleting 48: static volatile int8_t g_769 = 0x1EL;
+[2026-05-11 21:21:36] Actually deleting 48: static volatile int8_t g_769 = 0x1EL;
+[2026-05-11 21:21:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00806 succeed
+[2026-05-11 21:21:38] deleting 42: static int16_t g_53 = 0x702BL;
+[2026-05-11 21:21:38] Actually deleting 84: for (; g_53; 0)
+91:         }
+[2026-05-11 21:21:38] Actually deleting 42: static int16_t g_53 = 0x702BL;
+[2026-05-11 21:21:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00807 failed
+[2026-05-11 21:21:39] deleting 6: typedef unsigned short int uint16_t;
+[2026-05-11 21:21:39] Actually deleting 65: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:21:39] Actually deleting 31: uint16_t
+36: }
+[2026-05-11 21:21:39] Actually deleting 90: (g_2729[2][0] = l_3593[0][0][g_503]);
+[2026-05-11 21:21:39] Actually deleting 96: func_1();
+[2026-05-11 21:21:39] Actually deleting 58: uint16_t func_1()
+67: }
+[2026-05-11 21:21:39] Actually deleting 6: typedef unsigned short int uint16_t;
+[2026-05-11 21:21:39] Actually deleting 47: static uint16_t g_504[10][8][3] = {{{1UL,0x4B63L,0x3008L},{65535UL,1UL,0x3008L},{0xEF53L,6UL,0xAA53L},{0xA4E2L,65535UL,0x3008L},{0x4B63L,6UL,0x3008L},{6UL,0xEF53L,0xAA53L},{6UL,5UL,0x3008L},{5UL,0xA4E2L,0x3008L}},{{0xFFB4L,0xFFB4L,0xAA53L},{1UL,0x4B63L,0x3008L},{65535UL,1UL,0x3008L},{0xEF53L,6UL,0xAA53L},{0xA4E2L,65535UL,0x3008L},{0x4B63L,6UL,0x3008L},{6UL,0xEF53L,0xAA53L},{6UL,5UL,0x3008L}},{{5UL,0xA4E2L,0x3008L},{0xFFB4L,0xFFB4L,0xAA53L},{1UL,0x4B63L,0x3008L},{65535UL,1UL,0x3008L},{0xEF53L,6UL,0xAA53L},{0xA4E2L,65535UL,0x3008L},{0x4B63L,6UL,0x3008L},{6UL,0xEF53L,0xAA53L}},{{6UL,5UL,0x3008L},{5UL,0xA4E2L,0x3008L},{0xFFB4L,0xFFB4L,0xAA53L},{1UL,0x4B63L,0x3008L},{65535UL,1UL,0x3008L},{0xEF53L,6UL,0xAA53L},{0xA4E2L,65535UL,0x3008L},{0x4B63L,6UL,0x3008L}},{{6UL,0xEF53L,0xAA53L},{6UL,5UL,0x3008L},{5UL,0xA4E2L,0x3008L},{0xFFB4L,0xFFB4L,0xAA53L},{1UL,0x4B63L,0x3008L},{65535UL,1UL,0x3008L},{0xEF53L,6UL,0xAA53L},{0xA4E2L,65535UL,0x3008L}},{{0x4B63L,6UL,0x3008L},{6UL,0xEF53L,0xAA53L},{6UL,5UL,0x3008L},{5UL,0xA4E2L,0x3008L},{0xFFB4L,0xFFB4L,6UL},{0xF860L,0x316FL,0xEF53L},{0UL,0xF860L,0xEF53L},{65530UL,0xE9B3L,6UL}},{{0x2DF2L,0UL,0xEF53L},{0x316FL,0UL,0xEF53L},{0xE9B3L,65530UL,6UL},{0UL,0x90F2L,0xEF53L},{0x90F2L,0x2DF2L,0xEF53L},{6UL,6UL,6UL},{0xF860L,0x316FL,0xEF53L},{0UL,0xF860L,0xEF53L}},{{65530UL,0xE9B3L,6UL},{0x2DF2L,0UL,0xEF53L},{0x316FL,0UL,0xEF53L},{0xE9B3L,65530UL,6UL},{0UL,0x90F2L,0xEF53L},{0x90F2L,0x2DF2L,0xEF53L},{6UL,6UL,6UL},{0xF860L,0x316FL,0xEF53L}},{{0UL,0xF860L,0xEF53L},{65530UL,0xE9B3L,6UL},{0x2DF2L,0UL,0xEF53L},{0x316FL,0UL,0xEF53L},{0xE9B3L,65530UL,6UL},{0UL,0x90F2L,0xEF53L},{0x90F2L,0x2DF2L,0xEF53L},{6UL,6UL,6UL}},{{0xF860L,0x316FL,0xEF53L},{0UL,0xF860L,0xEF53L},{65530UL,0xE9B3L,6UL},{0x2DF2L,0UL,0xEF53L},{0x316FL,0UL,0xEF53L},{0xE9B3L,65530UL,6UL},{0UL,0x90F2L,0xEF53L},{0x90F2L,0x2DF2L,0xEF53L}}};
+[2026-05-11 21:21:39] Actually deleting 57: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:39] Actually deleting 52: static uint16_t g_2729[3][7] = {{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL}};
+[2026-05-11 21:21:39] Actually deleting 55: static uint16_t func_1(void);
+[2026-05-11 21:21:39] Actually deleting 76: int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+93: }
+[2026-05-11 21:21:39] Actually deleting 46: static uint16_t g_503 = 0x06D7L;
+[2026-05-11 21:21:39] Actually deleting 49: static uint16_t g_1328 = 0x2078L;
+[2026-05-11 21:21:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00808 failed
+[2026-05-11 21:21:39] deleting 56: static uint8_t func_10(int16_t p_11, int8_t p_12);
+[2026-05-11 21:21:39] Actually deleting 56: static uint8_t func_10(int16_t p_11, int8_t p_12);
+[2026-05-11 21:21:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00809 failed
+[2026-05-11 21:21:39] deleting 57: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:39] Actually deleting 57: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00810 failed
+[2026-05-11 21:21:39] deleting 54: static volatile int8_t g_3903 = 0x93L;
+[2026-05-11 21:21:39] Actually deleting 54: static volatile int8_t g_3903 = 0x93L;
+[2026-05-11 21:21:39] Actually deleting 92: return g_3903;
+[2026-05-11 21:21:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00811 failed
+[2026-05-11 21:21:40] deleting 2: typedef signed char int8_t;
+[2026-05-11 21:21:40] Actually deleting 40: static int8_t g_34[10] = {0xF9L,0xF9L,0xF9L,0xF9L,0xF9L,0xF9L,0xF9L,0xF9L,0xF9L,0xF9L};
+[2026-05-11 21:21:40] Actually deleting 65: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:21:40] Actually deleting 56: static uint8_t func_10(int16_t p_11, int8_t p_12);
+[2026-05-11 21:21:40] Actually deleting 57: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:40] Actually deleting 54: static volatile int8_t g_3903 = 0x93L;
+[2026-05-11 21:21:40] Actually deleting 51: static int8_t g_1669 = 8L;
+[2026-05-11 21:21:40] Actually deleting 2: typedef signed char int8_t;
+[2026-05-11 21:21:40] Actually deleting 7: int8_t
+12: }
+[2026-05-11 21:21:40] Actually deleting 44: static int8_t g_419 = 0xF8L;
+[2026-05-11 21:21:40] Actually deleting 68: uint8_t func_10(int16_t p_11, int8_t p_12)
+75: }
+[2026-05-11 21:21:40] Actually deleting 76: int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+93: }
+[2026-05-11 21:21:40] Actually deleting 92: return g_3903;
+[2026-05-11 21:21:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00812 failed
+[2026-05-11 21:21:40] deleting 52: static uint16_t g_2729[3][7] = {{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL}};
+[2026-05-11 21:21:40] Actually deleting 52: static uint16_t g_2729[3][7] = {{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL},{65528UL,0xB42CL,1UL,0xB42CL,65528UL,1UL,1UL}};
+[2026-05-11 21:21:40] Actually deleting 90: (g_2729[2][0] = l_3593[0][0][g_503]);
+[2026-05-11 21:21:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00813 failed
+[2026-05-11 21:21:41] deleting 55: static uint16_t func_1(void);
+[2026-05-11 21:21:41] Actually deleting 55: static uint16_t func_1(void);
+[2026-05-11 21:21:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00814 succeed
+[2026-05-11 21:21:42] deleting 53: static int32_t g_2942 = 0L;
+[2026-05-11 21:21:42] Actually deleting 53: static int32_t g_2942 = 0L;
+[2026-05-11 21:21:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00815 succeed
+[2026-05-11 21:21:43] deleting 74: int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+91: }
+[2026-05-11 21:21:43] Actually deleting 74: int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+91: }
+[2026-05-11 21:21:43] Actually deleting 63: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:21:43] Actually deleting 55: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00816 failed
+[2026-05-11 21:21:44] deleting 25: uint8_t
+30: }
+[2026-05-11 21:21:44] Actually deleting 25: uint8_t
+30: }
+[2026-05-11 21:21:44] Actually deleting 71: (((((+((((g_897[0][2] = (((((safe_lshift_func_uint8_t_u_s(((g_427[1] = 0 , 0 , 2)), 0)) && 2)))) , 0x3866562AL) != 0x91L) , 0) || 1L)))) < 0));
+[2026-05-11 21:21:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00817 failed
+[2026-05-11 21:21:45] deleting 41: static uint8_t g_35 = 0x2EL;
+[2026-05-11 21:21:45] Actually deleting 41: static uint8_t g_35 = 0x2EL;
+[2026-05-11 21:21:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00818 failed
+[2026-05-11 21:21:45] deleting 66: uint8_t func_10(int16_t p_11, int8_t p_12)
+73: }
+[2026-05-11 21:21:45] Actually deleting 54: static uint8_t func_10(int16_t p_11, int8_t p_12);
+[2026-05-11 21:21:45] Actually deleting 63: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:21:45] Actually deleting 66: uint8_t func_10(int16_t p_11, int8_t p_12)
+73: }
+[2026-05-11 21:21:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00819 failed
+[2026-05-11 21:21:46] deleting 42: static int16_t g_53 = 0x702BL;
+[2026-05-11 21:21:46] Actually deleting 82: for (; g_53; 0)
+89:         }
+[2026-05-11 21:21:46] Actually deleting 42: static int16_t g_53 = 0x702BL;
+[2026-05-11 21:21:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00820 failed
+[2026-05-11 21:21:47] deleting 48: static int32_t g_897[2][3] = {{0xD7D9BB05L,0xD7D9BB05L,0xD7D9BB05L},{(-1L),(-1L),(-1L)}};
+[2026-05-11 21:21:47] Actually deleting 48: static int32_t g_897[2][3] = {{0xD7D9BB05L,0xD7D9BB05L,0xD7D9BB05L},{(-1L),(-1L),(-1L)}};
+[2026-05-11 21:21:47] Actually deleting 71: (((((+((((g_897[0][2] = (((((safe_lshift_func_uint8_t_u_s(((g_427[1] = 0 , 0 , 2)), 0)) && 2)))) , 0x3866562AL) != 0x91L) , 0) || 1L)))) < 0));
+[2026-05-11 21:21:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00821 failed
+[2026-05-11 21:21:47] deleting 50: static int32_t g_1472 = (-1L);
+[2026-05-11 21:21:47] Actually deleting 50: static int32_t g_1472 = (-1L);
+[2026-05-11 21:21:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00822 succeed
+[2026-05-11 21:21:48] deleting 54: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:48] Actually deleting 54: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00823 failed
+[2026-05-11 21:21:48] deleting 65: uint8_t func_10(int16_t p_11, int8_t p_12)
+72: }
+[2026-05-11 21:21:48] Actually deleting 62: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:21:48] Actually deleting 53: static uint8_t func_10(int16_t p_11, int8_t p_12);
+[2026-05-11 21:21:48] Actually deleting 65: uint8_t func_10(int16_t p_11, int8_t p_12)
+72: }
+[2026-05-11 21:21:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00824 failed
+[2026-05-11 21:21:49] deleting 5: typedef unsigned char uint8_t;
+[2026-05-11 21:21:49] Actually deleting 83: uint8_t l_3519 = 0xC3L;
+[2026-05-11 21:21:49] Actually deleting 5: typedef unsigned char uint8_t;
+[2026-05-11 21:21:49] Actually deleting 41: static uint8_t g_35 = 0x2EL;
+[2026-05-11 21:21:49] Actually deleting 25: uint8_t
+30: }
+[2026-05-11 21:21:49] Actually deleting 43: static uint8_t g_185[2][9][3] = {{{0xBEL,0x9FL,0x9FL},{0xBEL,0x9FL,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L}},{{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L}}};
+[2026-05-11 21:21:49] Actually deleting 70: (((((+((((g_897[0][2] = (((((safe_lshift_func_uint8_t_u_s(((g_427[1] = 0 , 0 , 2)), 0)) && 2)))) , 0x3866562AL) != 0x91L) , 0) || 1L)))) < 0));
+[2026-05-11 21:21:49] Actually deleting 62: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:21:49] Actually deleting 73: int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+90: }
+[2026-05-11 21:21:49] Actually deleting 53: static uint8_t func_10(int16_t p_11, int8_t p_12);
+[2026-05-11 21:21:49] Actually deleting 54: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:49] Actually deleting 65: uint8_t func_10(int16_t p_11, int8_t p_12)
+72: }
+[2026-05-11 21:21:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00825 failed
+[2026-05-11 21:21:49] deleting 42: static int16_t g_53 = 0x702BL;
+[2026-05-11 21:21:49] Actually deleting 42: static int16_t g_53 = 0x702BL;
+[2026-05-11 21:21:49] Actually deleting 81: for (; g_53; 0)
+88:         }
+[2026-05-11 21:21:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00826 failed
+[2026-05-11 21:21:50] deleting 4: typedef int int32_t;
+[2026-05-11 21:21:50] Actually deleting 79: int32_t l_3184 ;
+[2026-05-11 21:21:50] Actually deleting 68: int32_t l_4253 = 0x298E0FB6L;
+[2026-05-11 21:21:50] Actually deleting 69: int32_t l_4256 = 0xE99E48B2L;
+[2026-05-11 21:21:50] Actually deleting 70: (((((+((((g_897[0][2] = (((((safe_lshift_func_uint8_t_u_s(((g_427[1] = 0 , 0 , 2)), 0)) && 2)))) , 0x3866562AL) != 0x91L) , 0) || 1L)))) < 0));
+[2026-05-11 21:21:50] Actually deleting 78: l_49[i] = 1L;
+[2026-05-11 21:21:50] Actually deleting 87: (g_2729[2][0] = l_3593[0][0][g_503]);
+[2026-05-11 21:21:50] Actually deleting 48: static int32_t g_897[2][3] = {{0xD7D9BB05L,0xD7D9BB05L,0xD7D9BB05L},{(-1L),(-1L),(-1L)}};
+[2026-05-11 21:21:50] Actually deleting 13: int32_t
+18: }
+[2026-05-11 21:21:50] Actually deleting 54: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:50] Actually deleting 75: int32_t l_49[7];
+[2026-05-11 21:21:50] Actually deleting 67: int32_t l_4282 ;
+[2026-05-11 21:21:50] Actually deleting 4: typedef int int32_t;
+[2026-05-11 21:21:50] Actually deleting 59: int32_t l_4309 ;
+[2026-05-11 21:21:50] Actually deleting 60: int32_t l_4310 ;
+[2026-05-11 21:21:50] Actually deleting 80: int32_t l_3187 = 0x18D23FFAL;
+[2026-05-11 21:21:50] Actually deleting 19: int32_t
+24: }
+[2026-05-11 21:21:50] Actually deleting 61: int32_t l_4311[3];
+[2026-05-11 21:21:50] Actually deleting 85: if (0xBEL >= g_427[2] <= 0 <= 0)
+86:             return 0;
+[2026-05-11 21:21:50] Actually deleting 62: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:21:50] Actually deleting 38: static int32_t g_5 = (-10L);
+[2026-05-11 21:21:50] Actually deleting 45: static int32_t g_427[3] = {0x92A1D2CDL,0x92A1D2CDL,0x92A1D2CDL};
+[2026-05-11 21:21:50] Actually deleting 73: int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+90: }
+[2026-05-11 21:21:50] Actually deleting 84: int32_t l_3593[5][9][5] ;
+[2026-05-11 21:21:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00827 failed
+[2026-05-11 21:21:50] deleting 43: static uint8_t g_185[2][9][3] = {{{0xBEL,0x9FL,0x9FL},{0xBEL,0x9FL,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L}},{{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L}}};
+[2026-05-11 21:21:50] Actually deleting 43: static uint8_t g_185[2][9][3] = {{{0xBEL,0x9FL,0x9FL},{0xBEL,0x9FL,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L}},{{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L},{0x9FL,0x44L,0x44L}}};
+[2026-05-11 21:21:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00828 succeed
+[2026-05-11 21:21:51] deleting 4: typedef int int32_t;
+[2026-05-11 21:21:51] Actually deleting 72: int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+89: }
+[2026-05-11 21:21:51] Actually deleting 74: int32_t l_49[7];
+[2026-05-11 21:21:51] Actually deleting 61: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:21:51] Actually deleting 83: int32_t l_3593[5][9][5] ;
+[2026-05-11 21:21:51] Actually deleting 67: int32_t l_4253 = 0x298E0FB6L;
+[2026-05-11 21:21:51] Actually deleting 84: if (0xBEL >= g_427[2] <= 0 <= 0)
+85:             return 0;
+[2026-05-11 21:21:51] Actually deleting 60: int32_t l_4311[3];
+[2026-05-11 21:21:51] Actually deleting 4: typedef int int32_t;
+[2026-05-11 21:21:51] Actually deleting 58: int32_t l_4309 ;
+[2026-05-11 21:21:51] Actually deleting 66: int32_t l_4282 ;
+[2026-05-11 21:21:51] Actually deleting 69: (((((+((((g_897[0][2] = (((((safe_lshift_func_uint8_t_u_s(((g_427[1] = 0 , 0 , 2)), 0)) && 2)))) , 0x3866562AL) != 0x91L) , 0) || 1L)))) < 0));
+[2026-05-11 21:21:51] Actually deleting 53: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:51] Actually deleting 78: int32_t l_3184 ;
+[2026-05-11 21:21:51] Actually deleting 47: static int32_t g_897[2][3] = {{0xD7D9BB05L,0xD7D9BB05L,0xD7D9BB05L},{(-1L),(-1L),(-1L)}};
+[2026-05-11 21:21:51] Actually deleting 13: int32_t
+18: }
+[2026-05-11 21:21:51] Actually deleting 44: static int32_t g_427[3] = {0x92A1D2CDL,0x92A1D2CDL,0x92A1D2CDL};
+[2026-05-11 21:21:51] Actually deleting 77: l_49[i] = 1L;
+[2026-05-11 21:21:51] Actually deleting 59: int32_t l_4310 ;
+[2026-05-11 21:21:51] Actually deleting 86: (g_2729[2][0] = l_3593[0][0][g_503]);
+[2026-05-11 21:21:51] Actually deleting 38: static int32_t g_5 = (-10L);
+[2026-05-11 21:21:51] Actually deleting 68: int32_t l_4256 = 0xE99E48B2L;
+[2026-05-11 21:21:51] Actually deleting 19: int32_t
+24: }
+[2026-05-11 21:21:51] Actually deleting 79: int32_t l_3187 = 0x18D23FFAL;
+[2026-05-11 21:21:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00829 failed
+[2026-05-11 21:21:51] deleting 45: static uint16_t g_503 = 0x06D7L;
+[2026-05-11 21:21:51] Actually deleting 86: (g_2729[2][0] = l_3593[0][0][g_503]);
+[2026-05-11 21:21:51] Actually deleting 45: static uint16_t g_503 = 0x06D7L;
+[2026-05-11 21:21:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00830 failed
+[2026-05-11 21:21:51] deleting 13: int32_t
+18: }
+[2026-05-11 21:21:51] Actually deleting 13: int32_t
+18: }
+[2026-05-11 21:21:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00831 succeed
+[2026-05-11 21:21:52] deleting 2: typedef signed char int8_t;
+[2026-05-11 21:21:52] Actually deleting 46: static uint8_t func_10(int16_t p_11, int8_t p_12);
+[2026-05-11 21:21:52] Actually deleting 45: static volatile int8_t g_3903 = 0x93L;
+[2026-05-11 21:21:52] Actually deleting 58: uint8_t func_10(int16_t p_11, int8_t p_12)
+65: }
+[2026-05-11 21:21:52] Actually deleting 82: return g_3903;
+[2026-05-11 21:21:52] Actually deleting 47: static int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21);
+[2026-05-11 21:21:52] Actually deleting 2: typedef signed char int8_t;
+[2026-05-11 21:21:52] Actually deleting 37: static int8_t g_419 = 0xF8L;
+[2026-05-11 21:21:52] Actually deleting 7: int8_t
+12: }
+[2026-05-11 21:21:52] Actually deleting 34: static int8_t g_34[10] = {0xF9L,0xF9L,0xF9L,0xF9L,0xF9L,0xF9L,0xF9L,0xF9L,0xF9L,0xF9L};
+[2026-05-11 21:21:52] Actually deleting 43: static int8_t g_1669 = 8L;
+[2026-05-11 21:21:52] Actually deleting 55: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:21:52] Actually deleting 66: int8_t func_17(int32_t p_18, uint8_t p_19, uint16_t p_20, int8_t p_21)
+83: }
+[2026-05-11 21:21:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00832 failed
+[2026-05-11 21:21:52] deleting 43: static int8_t g_1669 = 8L;
+[2026-05-11 21:21:52] Actually deleting 43: static int8_t g_1669 = 8L;
+[2026-05-11 21:21:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00833 failed
+[2026-05-11 21:21:53] ---EXPRESSION_REDUCER start---
+[2026-05-11 21:21:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00834 failed
+[2026-05-11 21:21:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00835 succeed
+[2026-05-11 21:21:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00836 failed
+[2026-05-11 21:21:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00837 succeed
+[2026-05-11 21:21:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00838 failed
+[2026-05-11 21:21:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00839 succeed
+[2026-05-11 21:21:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00840 failed
+[2026-05-11 21:21:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00841 failed
+[2026-05-11 21:21:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00842 succeed
+[2026-05-11 21:21:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00843 failed
+[2026-05-11 21:21:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00844 succeed
+[2026-05-11 21:21:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00845 succeed
+[2026-05-11 21:22:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00846 succeed
+[2026-05-11 21:22:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00847 failed
+[2026-05-11 21:22:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00848 succeed
+[2026-05-11 21:22:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00849 succeed
+[2026-05-11 21:22:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00850 succeed
+[2026-05-11 21:22:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00851 succeed
+[2026-05-11 21:22:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00852 succeed
+[2026-05-11 21:22:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00853 succeed
+[2026-05-11 21:22:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00854 succeed
+[2026-05-11 21:22:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00855 succeed
+[2026-05-11 21:22:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00856 failed
+[2026-05-11 21:22:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00857 succeed
+[2026-05-11 21:22:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00858 succeed
+[2026-05-11 21:22:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00859 succeed
+[2026-05-11 21:22:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00860 succeed
+[2026-05-11 21:22:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00861 failed
+[2026-05-11 21:22:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00862 failed
+[2026-05-11 21:22:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00863 succeed
+[2026-05-11 21:22:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00864 failed
+[2026-05-11 21:22:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00865 failed
+[2026-05-11 21:22:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00866 succeed
+[2026-05-11 21:22:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00867 succeed
+[2026-05-11 21:22:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00868 failed
+[2026-05-11 21:22:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00869 failed
+[2026-05-11 21:22:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00870 succeed
+[2026-05-11 21:22:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00871 succeed
+[2026-05-11 21:22:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00872 succeed
+[2026-05-11 21:22:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00873 succeed
+[2026-05-11 21:22:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00874 succeed
+[2026-05-11 21:22:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00875 succeed
+[2026-05-11 21:22:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00876 succeed
+[2026-05-11 21:22:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00877 succeed
+[2026-05-11 21:22:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00878 succeed
+[2026-05-11 21:22:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00879 succeed
+[2026-05-11 21:22:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00880 succeed
+[2026-05-11 21:22:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00881 succeed
+[2026-05-11 21:22:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00882 succeed
+[2026-05-11 21:22:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00883 succeed
+[2026-05-11 21:22:31] ---INLINE_REDUCER start---
+[2026-05-11 21:22:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00885 succeed
+[2026-05-11 21:22:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00886 succeed
+[2026-05-11 21:22:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00887 failed
+[2026-05-11 21:22:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00888 failed
+[2026-05-11 21:22:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00889 succeed
+[2026-05-11 21:22:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00890 succeed
+[2026-05-11 21:22:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00891 succeed
+[2026-05-11 21:22:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00892 succeed
+[2026-05-11 21:22:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00893 succeed
+[2026-05-11 21:22:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00894 succeed
+[2026-05-11 21:22:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00895 succeed
+[2026-05-11 21:22:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00896 succeed
+[2026-05-11 21:22:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00897 succeed
+[2026-05-11 21:22:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00898 succeed
+[2026-05-11 21:22:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00899 succeed
+[2026-05-11 21:22:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00900 succeed
+[2026-05-11 21:22:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00901 succeed
+[2026-05-11 21:22:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00902 succeed
+[2026-05-11 21:22:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00903 succeed
+[2026-05-11 21:22:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00904 succeed
+[2026-05-11 21:22:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00905 succeed
+[2026-05-11 21:22:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00906 failed
+[2026-05-11 21:22:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00907 succeed
+[2026-05-11 21:22:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00908 failed
+[2026-05-11 21:22:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00909 succeed
+[2026-05-11 21:22:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00910 succeed
+[2026-05-11 21:22:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00911 succeed
+[2026-05-11 21:22:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00912 succeed
+[2026-05-11 21:22:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00913 failed
+[2026-05-11 21:22:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00914 failed
+[2026-05-11 21:22:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00915 failed
+[2026-05-11 21:22:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00916 succeed
+[2026-05-11 21:22:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00917 succeed
+[2026-05-11 21:23:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00918 succeed
+[2026-05-11 21:23:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00919 succeed
+[2026-05-11 21:23:01] ---COVERAGE_REDUCER start---
+[2026-05-11 21:23:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00921 failed
+[2026-05-11 21:23:01] initial coverage size is 15
+[2026-05-11 21:23:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00923 failed
+[2026-05-11 21:23:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00924 succeed
+[2026-05-11 21:23:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00926 failed
+[2026-05-11 21:23:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00927 failed
+[2026-05-11 21:23:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00928 failed
+[2026-05-11 21:23:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00929 failed
+[2026-05-11 21:23:04] ---CALL_TRACE_REDUCER start---
+[2026-05-11 21:23:04] Working in function main
+[2026-05-11 21:23:04] deleting 28: int main ()
+33: }
+[2026-05-11 21:23:04] Actually deleting 28: int main ()
+33: }
+[2026-05-11 21:23:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00931 failed
+[2026-05-11 21:23:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00932 failed
+[2026-05-11 21:23:04] deleting 30: int l_2__func_1 = 0x8A1FL, l_22__func_1 = 1L, l_4309__func_1, l_4310__func_1, l_4311__func_1[3];
+[2026-05-11 21:23:04] Actually deleting 30: int l_2__func_1 = 0x8A1FL, l_22__func_1 = 1L, l_4309__func_1, l_4310__func_1, l_4311__func_1[3];
+[2026-05-11 21:23:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00933 failed
+[2026-05-11 21:23:05] deleting 31: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:23:05] Actually deleting 31: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:23:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00934 failed
+[2026-05-11 21:23:06] deleting 32: 0;
+[2026-05-11 21:23:06] Actually deleting 32: 0;
+[2026-05-11 21:23:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00935 succeed
+[2026-05-11 21:23:07] deleting 31: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:23:07] Actually deleting 31: ((((((((func_10((((func_17(0, 0, 0, 0) != 0) <= 0)), 0)) , 255UL)))))));
+[2026-05-11 21:23:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00936 failed
+[2026-05-11 21:23:08] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:23:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00937 failed
+[2026-05-11 21:23:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00938 succeed
+[2026-05-11 21:23:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00939 succeed
+[2026-05-11 21:23:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00940 succeed
+[2026-05-11 21:23:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00941 failed
+[2026-05-11 21:23:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00942 succeed
+[2026-05-11 21:23:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00943 succeed
+[2026-05-11 21:23:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00944 succeed
+[2026-05-11 21:23:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00945 succeed
+[2026-05-11 21:23:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00946 failed
+[2026-05-11 21:23:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00947 succeed
+[2026-05-11 21:23:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00948 failed
+[2026-05-11 21:23:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00949 failed
+[2026-05-11 21:23:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00950 succeed
+[2026-05-11 21:23:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00951 failed
+[2026-05-11 21:23:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00952 failed
+[2026-05-11 21:23:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00953 failed
+[2026-05-11 21:23:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00954 failed
+[2026-05-11 21:23:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00955 failed
+[2026-05-11 21:23:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00956 succeed
+[2026-05-11 21:23:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00957 succeed
+[2026-05-11 21:23:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00958 succeed
+[2026-05-11 21:23:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00959 succeed
+[2026-05-11 21:23:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00960 failed
+[2026-05-11 21:23:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00961 failed
+[2026-05-11 21:23:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00962 failed
+[2026-05-11 21:23:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00963 failed
+[2026-05-11 21:23:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00964 failed
+[2026-05-11 21:23:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00965 failed
+[2026-05-11 21:23:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00966 failed
+[2026-05-11 21:23:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00967 failed
+[2026-05-11 21:23:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00968 failed
+[2026-05-11 21:23:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00969 failed
+[2026-05-11 21:23:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00970 failed
+[2026-05-11 21:23:38] Working in function func_17
+[2026-05-11 21:23:38] deleting 12: char func_17(int p_18, char p_19, int p_20, char p_21)
+27: }
+[2026-05-11 21:23:38] Actually deleting 31: (((func_10(func_17(0, 0, 0, 0) != 0, 0) , 255UL)));
+[2026-05-11 21:23:38] Actually deleting 5: char func_10(int p_11, char p_12), func_17(int p_18, char p_19, int p_20, char p_21);
+[2026-05-11 21:23:38] Actually deleting 12: char func_17(int p_18, char p_19, int p_20, char p_21)
+27: }
+[2026-05-11 21:23:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00971 failed
+[2026-05-11 21:23:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00972 failed
+[2026-05-11 21:23:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00973 failed
+[2026-05-11 21:23:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00974 failed
+[2026-05-11 21:23:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00974 timeout
+[2026-05-11 21:23:42] deleting 26: return g_3903;
+[2026-05-11 21:23:42] Actually deleting 26: return g_3903;
+[2026-05-11 21:23:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00975 failed
+[2026-05-11 21:23:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00976 succeed
+[2026-05-11 21:23:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00977 failed
+[2026-05-11 21:23:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00978 failed
+[2026-05-11 21:23:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00979 failed
+[2026-05-11 21:23:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00979 timeout
+[2026-05-11 21:23:46] deleting 24: return g_3903;
+[2026-05-11 21:23:46] Actually deleting 24: return g_3903;
+[2026-05-11 21:23:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00980 failed
+[2026-05-11 21:23:46] deleting 14: {}
+[2026-05-11 21:23:46] Actually deleting 14: {}
+[2026-05-11 21:23:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00981 succeed
+[2026-05-11 21:23:48] deleting 14: int l_3187 = 0x18D23FFAL;
+[2026-05-11 21:23:48] Actually deleting 14: int l_3187 = 0x18D23FFAL;
+[2026-05-11 21:23:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00982 failed
+[2026-05-11 21:23:48] deleting 15: for (; g_53; 0)
+22:         }
+[2026-05-11 21:23:48] Actually deleting 15: for (; g_53; 0)
+22:         }
+[2026-05-11 21:23:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00983 failed
+[2026-05-11 21:23:49] deleting 15: ;
+[2026-05-11 21:23:49] Actually deleting 15: ;
+[2026-05-11 21:23:49] deleting 17: char l_3519 = 0xC3L;
+[2026-05-11 21:23:49] Actually deleting 17: char l_3519 = 0xC3L;
+[2026-05-11 21:23:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00985 succeed
+[2026-05-11 21:23:50] deleting 17: int l_3593[5][9][5] ;
+[2026-05-11 21:23:50] Actually deleting 20: (g_2729[2][0] = l_3593[0][0][g_503]);
+[2026-05-11 21:23:50] Actually deleting 17: int l_3593[5][9][5] ;
+[2026-05-11 21:23:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00986 failed
+[2026-05-11 21:23:50] deleting 18: if (0xBEL >= g_427[2] <= 0 <= 0)
+19:             return 0;
+[2026-05-11 21:23:50] Actually deleting 18: if (0xBEL >= g_427[2] <= 0 <= 0)
+19:             return 0;
+[2026-05-11 21:23:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00987 failed
+[2026-05-11 21:23:51] deleting 19: return 0;
+[2026-05-11 21:23:51] Actually deleting 19: return 0;
+[2026-05-11 21:23:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00988 failed
+[2026-05-11 21:23:51] deleting 20: (g_2729[2][0] = l_3593[0][0][g_503]);
+[2026-05-11 21:23:51] Actually deleting 20: (g_2729[2][0] = l_3593[0][0][g_503]);
+[2026-05-11 21:23:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00989 failed
+[2026-05-11 21:23:52] deleting 22: return g_3903;
+[2026-05-11 21:23:52] Actually deleting 22: return g_3903;
+[2026-05-11 21:23:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00990 failed
+[2026-05-11 21:23:52] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:23:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00991 failed
+[2026-05-11 21:23:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00992 failed
+[2026-05-11 21:23:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00993 failed
+[2026-05-11 21:23:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00994 failed
+[2026-05-11 21:23:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00995 failed
+[2026-05-11 21:23:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00996 succeed
+[2026-05-11 21:23:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00997 failed
+[2026-05-11 21:23:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00998 failed
+[2026-05-11 21:23:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp00999 failed
+[2026-05-11 21:23:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01000 failed
+[2026-05-11 21:23:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01001 failed
+[2026-05-11 21:23:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01002 failed
+[2026-05-11 21:23:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01003 failed
+[2026-05-11 21:23:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01004 failed
+[2026-05-11 21:23:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01005 failed
+[2026-05-11 21:23:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01006 succeed
+[2026-05-11 21:23:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01007 failed
+[2026-05-11 21:23:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01008 failed
+[2026-05-11 21:23:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01009 failed
+[2026-05-11 21:23:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01010 failed
+[2026-05-11 21:23:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01011 failed
+[2026-05-11 21:23:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01012 failed
+[2026-05-11 21:23:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01013 failed
+[2026-05-11 21:23:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01014 failed
+[2026-05-11 21:23:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01015 failed
+[2026-05-11 21:23:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01016 failed
+[2026-05-11 21:23:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01017 failed
+[2026-05-11 21:23:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01018 failed
+[2026-05-11 21:23:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01019 failed
+[2026-05-11 21:24:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01020 succeed
+[2026-05-11 21:24:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01021 failed
+[2026-05-11 21:24:01] Working in function func_10
+[2026-05-11 21:24:01] deleting 6: char func_10(int p_11, char p_12)
+11: }
+[2026-05-11 21:24:01] Actually deleting 5: char func_10(int p_11, char p_12), func_17(int p_18, char p_19, int p_20, char p_21);
+[2026-05-11 21:24:01] Actually deleting 27: (((func_10(func_17(0, 0, 0, 0) != 0, 0) , 255UL)));
+[2026-05-11 21:24:01] Actually deleting 6: char func_10(int p_11, char p_12)
+11: }
+[2026-05-11 21:24:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01022 failed
+[2026-05-11 21:24:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01023 failed
+[2026-05-11 21:24:01] deleting 8: int l_4282, l_4253 = 0x298E0FB6L, l_4256 = 0xE99E48B2L ;
+[2026-05-11 21:24:01] Actually deleting 8: int l_4282, l_4253 = 0x298E0FB6L, l_4256 = 0xE99E48B2L ;
+[2026-05-11 21:24:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01024 succeed
+[2026-05-11 21:24:02] deleting 8: (((((+((((g_897[0][2] = (((((0) && 2)))) , 0x3866562AL) != 0x91L) , 0) || 1L)))) < 0));
+[2026-05-11 21:24:02] Actually deleting 8: (((((+((((g_897[0][2] = (((((0) && 2)))) , 0x3866562AL) != 0x91L) , 0) || 1L)))) < 0));
+[2026-05-11 21:24:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01025 succeed
+[2026-05-11 21:24:03] deleting 8: return 0;
+[2026-05-11 21:24:03] Actually deleting 8: return 0;
+[2026-05-11 21:24:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01026 failed
+[2026-05-11 21:24:03] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:24:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01027 failed
+[2026-05-11 21:24:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01028 failed
+[2026-05-11 21:24:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01029 failed
+[2026-05-11 21:24:03] ---H_GLOBAL_REDUCER start---
+[2026-05-11 21:24:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01030 failed
+[2026-05-11 21:24:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01031 failed
+[2026-05-11 21:24:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01032 failed
+[2026-05-11 21:24:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01033 failed
+[2026-05-11 21:24:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01034 failed
+[2026-05-11 21:24:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01035 failed
+[2026-05-11 21:24:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01036 failed
+[2026-05-11 21:24:06] deleting 3: int g_27[3][1], g_53 = 0x702BL, g_427[3], g_504[10][8][3] = {1UL}, g_897[2][3], g_1328, g_2729[3][7] ;
+[2026-05-11 21:24:06] Actually deleting 18: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:24:06] Actually deleting 3: int g_27[3][1], g_53 = 0x702BL, g_427[3], g_504[10][8][3] = {1UL}, g_897[2][3], g_1328, g_2729[3][7] ;
+[2026-05-11 21:24:06] Actually deleting 16: if (0xBEL >= g_427[2] <= 0 <= 0)
+17:             return 0;
+[2026-05-11 21:24:06] Actually deleting 13: for (; g_53; 0)
+19:         }
+[2026-05-11 21:24:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01037 failed
+[2026-05-11 21:24:06] deleting 1: long __undefined;
+[2026-05-11 21:24:06] Actually deleting 1: long __undefined;
+[2026-05-11 21:24:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01038 failed
+[2026-05-11 21:24:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01038 timeout
+[2026-05-11 21:24:08] deleting 2: static int g_5, g_503 = 0x06D7L ;
+[2026-05-11 21:24:08] Actually deleting 18: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:24:08] Actually deleting 2: static int g_5, g_503 = 0x06D7L ;
+[2026-05-11 21:24:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01039 failed
+[2026-05-11 21:24:09] deleting 10: char func_17(int p_18, char p_19, int p_20, char p_21)
+21: }
+[2026-05-11 21:24:09] Actually deleting 10: char func_17(int p_18, char p_19, int p_20, char p_21)
+21: }
+[2026-05-11 21:24:09] Actually deleting 25: (((func_10(func_17(0, 0, 0, 0) != 0, 0) , 255UL)));
+[2026-05-11 21:24:09] Actually deleting 5: char func_10(int p_11, char p_12), func_17(int p_18, char p_19, int p_20, char p_21);
+[2026-05-11 21:24:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01040 failed
+[2026-05-11 21:24:09] deleting 22: int main ()
+26: }
+[2026-05-11 21:24:09] Actually deleting 22: int main ()
+26: }
+[2026-05-11 21:24:09] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01041 failed
+[2026-05-11 21:24:09] deleting 4: char g_34[10], g_35, g_419, g_1669, g_3903 ;
+[2026-05-11 21:24:09] Actually deleting 4: char g_34[10], g_35, g_419, g_1669, g_3903 ;
+[2026-05-11 21:24:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01042 succeed
+[2026-05-11 21:24:10] deleting 21: int main ()
+25: }
+[2026-05-11 21:24:10] Actually deleting 21: int main ()
+25: }
+[2026-05-11 21:24:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01043 failed
+[2026-05-11 21:24:10] deleting 5: char func_10(int p_11, char p_12)
+8: }
+[2026-05-11 21:24:10] Actually deleting 24: (((func_10(func_17(0, 0, 0, 0) != 0, 0) , 255UL)));
+[2026-05-11 21:24:10] Actually deleting 4: char func_10(int p_11, char p_12), func_17(int p_18, char p_19, int p_20, char p_21);
+[2026-05-11 21:24:10] Actually deleting 5: char func_10(int p_11, char p_12)
+8: }
+[2026-05-11 21:24:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01044 failed
+[2026-05-11 21:24:11] ---EXPRESSION_REDUCER start---
+[2026-05-11 21:24:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01045 failed
+[2026-05-11 21:24:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01046 failed
+[2026-05-11 21:24:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01047 succeed
+[2026-05-11 21:24:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01048 failed
+[2026-05-11 21:24:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01049 succeed
+[2026-05-11 21:24:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01050 failed
+[2026-05-11 21:24:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01051 failed
+[2026-05-11 21:24:14] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01052 succeed
+[2026-05-11 21:24:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01053 succeed
+[2026-05-11 21:24:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01054 failed
+[2026-05-11 21:24:15] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01055 failed
+[2026-05-11 21:24:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01056 failed
+[2026-05-11 21:24:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01057 failed
+[2026-05-11 21:24:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01058 succeed
+[2026-05-11 21:24:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01059 failed
+[2026-05-11 21:24:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01060 failed
+[2026-05-11 21:24:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01061 failed
+[2026-05-11 21:24:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01062 failed
+[2026-05-11 21:24:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01063 succeed
+[2026-05-11 21:24:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01064 failed
+[2026-05-11 21:24:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01065 failed
+[2026-05-11 21:24:19] ---INLINE_REDUCER start---
+[2026-05-11 21:24:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01066 failed
+[2026-05-11 21:24:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01067 failed
+[2026-05-11 21:24:20] ---COVERAGE_REDUCER start---
+[2026-05-11 21:24:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01069 failed
+[2026-05-11 21:24:20] initial coverage size is 3
+[2026-05-11 21:24:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01071 failed
+[2026-05-11 21:24:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01072 failed
+[2026-05-11 21:24:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01073 failed
+[2026-05-11 21:24:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01074 failed
+[2026-05-11 21:24:21] ---CALL_TRACE_REDUCER start---
+[2026-05-11 21:24:21] Working in function main
+[2026-05-11 21:24:21] deleting 21: int main ()
+25: }
+[2026-05-11 21:24:21] Actually deleting 21: int main ()
+25: }
+[2026-05-11 21:24:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01076 failed
+[2026-05-11 21:24:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01077 failed
+[2026-05-11 21:24:22] deleting 23: int l_4310__func_1;
+[2026-05-11 21:24:22] Actually deleting 23: int l_4310__func_1;
+[2026-05-11 21:24:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01078 failed
+[2026-05-11 21:24:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01078 timeout
+[2026-05-11 21:24:24] deleting 24: (((func_10(func_17(0, 0, 0, 0) != 0, 0) , 255UL)));
+[2026-05-11 21:24:24] Actually deleting 24: (((func_10(func_17(0, 0, 0, 0) != 0, 0) , 255UL)));
+[2026-05-11 21:24:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01079 failed
+[2026-05-11 21:24:24] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:24:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01080 succeed
+[2026-05-11 21:24:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01081 failed
+[2026-05-11 21:24:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01081 timeout
+[2026-05-11 21:24:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01082 failed
+[2026-05-11 21:24:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01082 timeout
+[2026-05-11 21:24:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01083 failed
+[2026-05-11 21:24:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01083 timeout
+[2026-05-11 21:24:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01084 failed
+[2026-05-11 21:24:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01085 failed
+[2026-05-11 21:24:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01086 failed
+[2026-05-11 21:24:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01087 failed
+[2026-05-11 21:24:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01088 failed
+[2026-05-11 21:24:33] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01088 timeout
+[2026-05-11 21:24:34] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01089 failed
+[2026-05-11 21:24:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01090 succeed
+[2026-05-11 21:24:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01091 failed
+[2026-05-11 21:24:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01092 failed
+[2026-05-11 21:24:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01093 failed
+[2026-05-11 21:24:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01094 failed
+[2026-05-11 21:24:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01095 failed
+[2026-05-11 21:24:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01096 failed
+[2026-05-11 21:24:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01097 failed
+[2026-05-11 21:24:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01098 failed
+[2026-05-11 21:24:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01099 failed
+[2026-05-11 21:24:38] Working in function func_17
+[2026-05-11 21:24:38] deleting 9: char func_17(int p_18, char p_19, int p_20, char p_21)
+20: }
+[2026-05-11 21:24:38] Actually deleting 4: char func_17(int p_18, char p_19, int p_20, char p_21);
+[2026-05-11 21:24:38] Actually deleting 9: char func_17(int p_18, char p_19, int p_20, char p_21)
+20: }
+[2026-05-11 21:24:38] Actually deleting 24: ((func_10(func_17(0, 0, 0, 0), 0) , 255UL));
+[2026-05-11 21:24:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01100 failed
+[2026-05-11 21:24:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01101 failed
+[2026-05-11 21:24:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01102 failed
+[2026-05-11 21:24:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01103 failed
+[2026-05-11 21:24:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01104 failed
+[2026-05-11 21:24:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01105 failed
+[2026-05-11 21:24:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01106 failed
+[2026-05-11 21:24:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01107 failed
+[2026-05-11 21:24:41] deleting 11: int l_3187 ;
+[2026-05-11 21:24:41] Actually deleting 11: int l_3187 ;
+[2026-05-11 21:24:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01108 succeed
+[2026-05-11 21:24:42] deleting 11: for (; g_53; 0)
+17:         }
+[2026-05-11 21:24:42] Actually deleting 11: for (; g_53; 0)
+17:         }
+[2026-05-11 21:24:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01109 failed
+[2026-05-11 21:24:42] deleting 11: ;
+[2026-05-11 21:24:42] Actually deleting 11: ;
+[2026-05-11 21:24:42] deleting 13: int l_3593[5][9][5] ;
+[2026-05-11 21:24:42] Actually deleting 13: int l_3593[5][9][5] ;
+[2026-05-11 21:24:42] Actually deleting 16: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:24:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01111 failed
+[2026-05-11 21:24:43] deleting 14: if (0xBEL >= g_427[2] <= 0 <= 0)
+15:             return 0;
+[2026-05-11 21:24:43] Actually deleting 14: if (0xBEL >= g_427[2] <= 0 <= 0)
+15:             return 0;
+[2026-05-11 21:24:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01112 failed
+[2026-05-11 21:24:44] deleting 15: return 0;
+[2026-05-11 21:24:44] Actually deleting 15: return 0;
+[2026-05-11 21:24:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01113 failed
+[2026-05-11 21:24:44] deleting 16: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:24:44] Actually deleting 16: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:24:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01114 failed
+[2026-05-11 21:24:44] deleting 18: return 0;
+[2026-05-11 21:24:44] Actually deleting 18: return 0;
+[2026-05-11 21:24:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01115 failed
+[2026-05-11 21:24:44] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:24:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01116 failed
+[2026-05-11 21:24:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01117 failed
+[2026-05-11 21:24:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01118 failed
+[2026-05-11 21:24:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01119 failed
+[2026-05-11 21:24:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01120 failed
+[2026-05-11 21:24:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01121 failed
+[2026-05-11 21:24:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01122 failed
+[2026-05-11 21:24:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01123 failed
+[2026-05-11 21:24:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01124 failed
+[2026-05-11 21:24:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01125 failed
+[2026-05-11 21:24:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01126 failed
+[2026-05-11 21:24:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01127 failed
+[2026-05-11 21:24:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01128 failed
+[2026-05-11 21:24:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01129 failed
+[2026-05-11 21:24:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01130 failed
+[2026-05-11 21:24:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01131 failed
+[2026-05-11 21:24:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01132 failed
+[2026-05-11 21:24:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01133 failed
+[2026-05-11 21:24:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01134 failed
+[2026-05-11 21:24:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01135 failed
+[2026-05-11 21:24:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01136 failed
+[2026-05-11 21:24:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01137 failed
+[2026-05-11 21:24:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01138 failed
+[2026-05-11 21:24:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01139 failed
+[2026-05-11 21:24:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01140 failed
+[2026-05-11 21:24:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01141 failed
+[2026-05-11 21:24:51] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01142 failed
+[2026-05-11 21:24:51] Working in function func_10
+[2026-05-11 21:24:51] deleting 5: char func_10(int p_11, char p_12)
+8: }
+[2026-05-11 21:24:51] Actually deleting 5: char func_10(int p_11, char p_12)
+8: }
+[2026-05-11 21:24:51] Actually deleting 23: ((func_10(func_17(0, 0, 0, 0), 0) , 255UL));
+[2026-05-11 21:24:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01143 failed
+[2026-05-11 21:24:52] deleting 7: return 0;
+[2026-05-11 21:24:52] Actually deleting 7: return 0;
+[2026-05-11 21:24:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01144 failed
+[2026-05-11 21:24:52] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:24:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01145 failed
+[2026-05-11 21:24:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01146 failed
+[2026-05-11 21:24:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01147 succeed
+[2026-05-11 21:24:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01148 failed
+[2026-05-11 21:24:55] ---H_GLOBAL_REDUCER start---
+[2026-05-11 21:24:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01149 failed
+[2026-05-11 21:24:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01150 failed
+[2026-05-11 21:24:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01151 failed
+[2026-05-11 21:24:56] deleting 2: static int g_503 = 0x06D7L ;
+[2026-05-11 21:24:56] Actually deleting 16: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:24:56] Actually deleting 2: static int g_503 = 0x06D7L ;
+[2026-05-11 21:24:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01152 failed
+[2026-05-11 21:24:56] deleting 9: char func_17(int p_18, char p_19, int p_20, char p_21)
+19: }
+[2026-05-11 21:24:56] Actually deleting 9: char func_17(int p_18, char p_19, int p_20, char p_21)
+19: }
+[2026-05-11 21:24:56] Actually deleting 4: char func_17(int p_18, char p_19, int p_20, char p_21);
+[2026-05-11 21:24:56] Actually deleting 23: ((func_10(func_17(0, 0, 0, 0)) , 255UL));
+[2026-05-11 21:24:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01153 failed
+[2026-05-11 21:24:57] deleting 1: long __undefined;
+[2026-05-11 21:24:57] Actually deleting 1: long __undefined;
+[2026-05-11 21:24:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01154 succeed
+[2026-05-11 21:24:58] deleting 19: int main ()
+23: }
+[2026-05-11 21:24:58] Actually deleting 19: int main ()
+23: }
+[2026-05-11 21:24:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01155 failed
+[2026-05-11 21:24:58] deleting 2: int g_53 = 0x702BL, g_427[3], g_2729[3][7] ;
+[2026-05-11 21:24:58] Actually deleting 13: if (0xBEL >= g_427[2] <= 0 <= 0)
+14:             return 0;
+[2026-05-11 21:24:58] Actually deleting 2: int g_53 = 0x702BL, g_427[3], g_2729[3][7] ;
+[2026-05-11 21:24:58] Actually deleting 10: for (; g_53; 0)
+16:         }
+[2026-05-11 21:24:58] Actually deleting 15: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:24:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01156 failed
+[2026-05-11 21:24:59] deleting 3: char func_17(int p_18, char p_19, int p_20, char p_21);
+[2026-05-11 21:24:59] Actually deleting 3: char func_17(int p_18, char p_19, int p_20, char p_21);
+[2026-05-11 21:25:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01157 succeed
+[2026-05-11 21:25:00] deleting 7: char func_17(int p_18, char p_19, int p_20, char p_21)
+17: }
+[2026-05-11 21:25:00] Actually deleting 21: ((func_10(func_17(0, 0, 0, 0)) , 255UL));
+[2026-05-11 21:25:00] Actually deleting 7: char func_17(int p_18, char p_19, int p_20, char p_21)
+17: }
+[2026-05-11 21:25:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01158 failed
+[2026-05-11 21:25:00] deleting 18: int main ()
+22: }
+[2026-05-11 21:25:00] Actually deleting 18: int main ()
+22: }
+[2026-05-11 21:25:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01159 failed
+[2026-05-11 21:25:01] ---EXPRESSION_REDUCER start---
+[2026-05-11 21:25:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01160 failed
+[2026-05-11 21:25:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01161 failed
+[2026-05-11 21:25:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01162 failed
+[2026-05-11 21:25:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01163 failed
+[2026-05-11 21:25:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01164 failed
+[2026-05-11 21:25:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01165 failed
+[2026-05-11 21:25:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01166 failed
+[2026-05-11 21:25:02] ---INLINE_REDUCER start---
+[2026-05-11 21:25:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01167 failed
+[2026-05-11 21:25:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01168 failed
+[2026-05-11 21:25:03] ---COVERAGE_REDUCER start---
+[2026-05-11 21:25:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01170 failed
+[2026-05-11 21:25:03] initial coverage size is 3
+[2026-05-11 21:25:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01172 failed
+[2026-05-11 21:25:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01173 failed
+[2026-05-11 21:25:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01174 failed
+[2026-05-11 21:25:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01175 failed
+[2026-05-11 21:25:04] ---CALL_TRACE_REDUCER start---
+[2026-05-11 21:25:04] Working in function main
+[2026-05-11 21:25:04] deleting 18: int main ()
+22: }
+[2026-05-11 21:25:04] Actually deleting 18: int main ()
+22: }
+[2026-05-11 21:25:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01177 failed
+[2026-05-11 21:25:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01178 failed
+[2026-05-11 21:25:04] deleting 20: int l_4310__func_1;
+[2026-05-11 21:25:04] Actually deleting 20: int l_4310__func_1;
+[2026-05-11 21:25:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01179 succeed
+[2026-05-11 21:25:05] deleting 20: ((func_10(func_17(0, 0, 0, 0)) , 255UL));
+[2026-05-11 21:25:05] Actually deleting 20: ((func_10(func_17(0, 0, 0, 0)) , 255UL));
+[2026-05-11 21:25:06] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01180 failed
+[2026-05-11 21:25:06] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:25:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01181 succeed
+[2026-05-11 21:25:07] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01182 failed
+[2026-05-11 21:25:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01183 succeed
+[2026-05-11 21:25:08] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01184 failed
+[2026-05-11 21:25:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01185 succeed
+[2026-05-11 21:25:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01186 failed
+[2026-05-11 21:25:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01187 failed
+[2026-05-11 21:25:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01188 failed
+[2026-05-11 21:25:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01189 failed
+[2026-05-11 21:25:10] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01190 failed
+[2026-05-11 21:25:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01191 failed
+[2026-05-11 21:25:11] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01192 failed
+[2026-05-11 21:25:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01193 failed
+[2026-05-11 21:25:12] Working in function func_17
+[2026-05-11 21:25:12] deleting 7: char func_17(int p_18, char p_19, int p_20, char p_21)
+17: }
+[2026-05-11 21:25:12] Actually deleting 7: char func_17(int p_18, char p_19, int p_20, char p_21)
+17: }
+[2026-05-11 21:25:12] Actually deleting 20: (func_17(0, 0, 0, 0));
+[2026-05-11 21:25:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01194 failed
+[2026-05-11 21:25:12] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01195 failed
+[2026-05-11 21:25:13] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01196 failed
+[2026-05-11 21:25:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01197 failed
+[2026-05-11 21:25:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01197 timeout
+[2026-05-11 21:25:16] deleting 16: return 0;
+[2026-05-11 21:25:16] Actually deleting 16: return 0;
+[2026-05-11 21:25:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01198 failed
+[2026-05-11 21:25:16] deleting 9: for (; g_53; 0)
+15:         }
+[2026-05-11 21:25:16] Actually deleting 9: for (; g_53; 0)
+15:         }
+[2026-05-11 21:25:16] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01199 failed
+[2026-05-11 21:25:16] deleting 9: ;
+[2026-05-11 21:25:16] Actually deleting 9: ;
+[2026-05-11 21:25:16] deleting 11: int l_3593[5][9][5] ;
+[2026-05-11 21:25:16] Actually deleting 11: int l_3593[5][9][5] ;
+[2026-05-11 21:25:16] Actually deleting 14: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01201 failed
+[2026-05-11 21:25:17] deleting 12: if (0xBEL >= g_427[2] <= 0 <= 0)
+13:             return 0;
+[2026-05-11 21:25:17] Actually deleting 12: if (0xBEL >= g_427[2] <= 0 <= 0)
+13:             return 0;
+[2026-05-11 21:25:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01202 failed
+[2026-05-11 21:25:17] deleting 13: return 0;
+[2026-05-11 21:25:17] Actually deleting 13: return 0;
+[2026-05-11 21:25:17] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01203 failed
+[2026-05-11 21:25:17] deleting 14: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:17] Actually deleting 14: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01204 failed
+[2026-05-11 21:25:18] deleting 16: return 0;
+[2026-05-11 21:25:18] Actually deleting 16: return 0;
+[2026-05-11 21:25:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01205 failed
+[2026-05-11 21:25:18] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:25:18] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01206 succeed
+[2026-05-11 21:25:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01207 failed
+[2026-05-11 21:25:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01208 failed
+[2026-05-11 21:25:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01209 failed
+[2026-05-11 21:25:19] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01210 failed
+[2026-05-11 21:25:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01211 failed
+[2026-05-11 21:25:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01212 failed
+[2026-05-11 21:25:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01213 failed
+[2026-05-11 21:25:20] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01214 failed
+[2026-05-11 21:25:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01215 failed
+[2026-05-11 21:25:21] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01216 failed
+[2026-05-11 21:25:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01217 failed
+[2026-05-11 21:25:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01218 failed
+[2026-05-11 21:25:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01219 failed
+[2026-05-11 21:25:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01220 failed
+[2026-05-11 21:25:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01221 failed
+[2026-05-11 21:25:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01222 failed
+[2026-05-11 21:25:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01223 failed
+[2026-05-11 21:25:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01224 failed
+[2026-05-11 21:25:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01225 failed
+[2026-05-11 21:25:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01226 failed
+[2026-05-11 21:25:22] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01227 failed
+[2026-05-11 21:25:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01228 failed
+[2026-05-11 21:25:23] Working in function func_10
+[2026-05-11 21:25:23] deleting 3: char func_10(int p_11)
+6: }
+[2026-05-11 21:25:23] Actually deleting 3: char func_10(int p_11)
+6: }
+[2026-05-11 21:25:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01229 failed
+[2026-05-11 21:25:23] deleting 5: return 0;
+[2026-05-11 21:25:23] Actually deleting 5: return 0;
+[2026-05-11 21:25:23] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01230 failed
+[2026-05-11 21:25:23] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:25:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01231 failed
+[2026-05-11 21:25:24] ---H_GLOBAL_REDUCER start---
+[2026-05-11 21:25:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01232 failed
+[2026-05-11 21:25:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01233 failed
+[2026-05-11 21:25:24] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01234 failed
+[2026-05-11 21:25:24] deleting 7: char func_17()
+17: }
+[2026-05-11 21:25:24] Actually deleting 20: (func_17());
+[2026-05-11 21:25:24] Actually deleting 7: char func_17()
+17: }
+[2026-05-11 21:25:25] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01235 failed
+[2026-05-11 21:25:25] deleting 3: char func_10(int p_11)
+6: }
+[2026-05-11 21:25:25] Actually deleting 3: char func_10(int p_11)
+6: }
+[2026-05-11 21:25:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01236 succeed
+[2026-05-11 21:25:26] deleting 1: static int g_503 = 0x06D7L ;
+[2026-05-11 21:25:26] Actually deleting 1: static int g_503 = 0x06D7L ;
+[2026-05-11 21:25:26] Actually deleting 10: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:26] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01237 failed
+[2026-05-11 21:25:26] deleting 3: char func_17()
+13: }
+[2026-05-11 21:25:26] Actually deleting 3: char func_17()
+13: }
+[2026-05-11 21:25:26] Actually deleting 16: (func_17());
+[2026-05-11 21:25:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01238 failed
+[2026-05-11 21:25:27] deleting 14: int main ()
+17: }
+[2026-05-11 21:25:27] Actually deleting 14: int main ()
+17: }
+[2026-05-11 21:25:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01239 failed
+[2026-05-11 21:25:27] deleting 2: int g_53 = 0x702BL, g_427[3], g_2729[3][7] ;
+[2026-05-11 21:25:27] Actually deleting 10: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:27] Actually deleting 8: if (0xBEL >= g_427[2] <= 0 <= 0)
+9:             return 0;
+[2026-05-11 21:25:27] Actually deleting 5: for (; g_53; 0)
+11:         }
+[2026-05-11 21:25:27] Actually deleting 2: int g_53 = 0x702BL, g_427[3], g_2729[3][7] ;
+[2026-05-11 21:25:27] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01240 failed
+[2026-05-11 21:25:27] ---EXPRESSION_REDUCER start---
+[2026-05-11 21:25:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01241 failed
+[2026-05-11 21:25:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01242 failed
+[2026-05-11 21:25:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01243 failed
+[2026-05-11 21:25:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01244 failed
+[2026-05-11 21:25:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01245 failed
+[2026-05-11 21:25:28] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01246 failed
+[2026-05-11 21:25:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01247 failed
+[2026-05-11 21:25:29] ---INLINE_REDUCER start---
+[2026-05-11 21:25:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01248 failed
+[2026-05-11 21:25:29] ---COVERAGE_REDUCER start---
+[2026-05-11 21:25:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01250 failed
+[2026-05-11 21:25:29] initial coverage size is 3
+[2026-05-11 21:25:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01252 failed
+[2026-05-11 21:25:29] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01253 failed
+[2026-05-11 21:25:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01254 failed
+[2026-05-11 21:25:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01255 failed
+[2026-05-11 21:25:30] ---CALL_TRACE_REDUCER start---
+[2026-05-11 21:25:30] Working in function main
+[2026-05-11 21:25:30] deleting 14: int main ()
+17: }
+[2026-05-11 21:25:30] Actually deleting 14: int main ()
+17: }
+[2026-05-11 21:25:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01257 failed
+[2026-05-11 21:25:30] deleting 16: (func_17());
+[2026-05-11 21:25:30] Actually deleting 16: (func_17());
+[2026-05-11 21:25:30] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01258 failed
+[2026-05-11 21:25:30] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:25:31] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01259 succeed
+[2026-05-11 21:25:31] Working in function func_17
+[2026-05-11 21:25:31] deleting 3: char func_17()
+13: }
+[2026-05-11 21:25:31] Actually deleting 3: char func_17()
+13: }
+[2026-05-11 21:25:31] Actually deleting 16: func_17();
+[2026-05-11 21:25:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01260 failed
+[2026-05-11 21:25:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01261 failed
+[2026-05-11 21:25:32] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01262 failed
+[2026-05-11 21:25:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01263 failed
+[2026-05-11 21:25:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01263 timeout
+[2026-05-11 21:25:35] deleting 12: return 0;
+[2026-05-11 21:25:35] Actually deleting 12: return 0;
+[2026-05-11 21:25:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01264 failed
+[2026-05-11 21:25:35] deleting 5: for (; g_53; 0)
+11:         }
+[2026-05-11 21:25:35] Actually deleting 5: for (; g_53; 0)
+11:         }
+[2026-05-11 21:25:35] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01265 failed
+[2026-05-11 21:25:35] deleting 5: ;
+[2026-05-11 21:25:35] Actually deleting 5: ;
+[2026-05-11 21:25:35] deleting 7: int l_3593[5][9][5] ;
+[2026-05-11 21:25:35] Actually deleting 7: int l_3593[5][9][5] ;
+[2026-05-11 21:25:35] Actually deleting 10: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01267 failed
+[2026-05-11 21:25:36] deleting 8: if (0xBEL >= g_427[2] <= 0 <= 0)
+9:             return 0;
+[2026-05-11 21:25:36] Actually deleting 8: if (0xBEL >= g_427[2] <= 0 <= 0)
+9:             return 0;
+[2026-05-11 21:25:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01268 failed
+[2026-05-11 21:25:36] deleting 9: return 0;
+[2026-05-11 21:25:36] Actually deleting 9: return 0;
+[2026-05-11 21:25:36] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01269 failed
+[2026-05-11 21:25:36] deleting 10: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:36] Actually deleting 10: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01270 failed
+[2026-05-11 21:25:37] deleting 12: return 0;
+[2026-05-11 21:25:37] Actually deleting 12: return 0;
+[2026-05-11 21:25:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01271 failed
+[2026-05-11 21:25:37] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:25:37] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01272 failed
+[2026-05-11 21:25:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01273 failed
+[2026-05-11 21:25:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01274 failed
+[2026-05-11 21:25:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01275 failed
+[2026-05-11 21:25:38] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01276 failed
+[2026-05-11 21:25:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01277 failed
+[2026-05-11 21:25:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01278 failed
+[2026-05-11 21:25:39] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01279 failed
+[2026-05-11 21:25:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01280 failed
+[2026-05-11 21:25:40] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01281 failed
+[2026-05-11 21:25:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01282 failed
+[2026-05-11 21:25:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01283 failed
+[2026-05-11 21:25:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01284 failed
+[2026-05-11 21:25:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01285 failed
+[2026-05-11 21:25:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01286 failed
+[2026-05-11 21:25:41] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01287 failed
+[2026-05-11 21:25:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01288 failed
+[2026-05-11 21:25:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01289 failed
+[2026-05-11 21:25:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01290 failed
+[2026-05-11 21:25:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01291 failed
+[2026-05-11 21:25:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01292 failed
+[2026-05-11 21:25:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01293 failed
+[2026-05-11 21:25:42] ---H_GLOBAL_REDUCER start---
+[2026-05-11 21:25:42] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01294 failed
+[2026-05-11 21:25:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01295 failed
+[2026-05-11 21:25:43] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01296 failed
+[2026-05-11 21:25:43] deleting 2: int g_53 = 0x702BL, g_427[3], g_2729[3][7] ;
+[2026-05-11 21:25:43] Actually deleting 10: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:43] Actually deleting 2: int g_53 = 0x702BL, g_427[3], g_2729[3][7] ;
+[2026-05-11 21:25:43] Actually deleting 8: if (0xBEL >= g_427[2] <= 0 <= 0)
+9:             return 0;
+[2026-05-11 21:25:43] Actually deleting 5: for (; g_53; 0)
+11:         }
+[2026-05-11 21:25:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01297 failed
+[2026-05-11 21:25:44] deleting 3: char func_17()
+13: }
+[2026-05-11 21:25:44] Actually deleting 16: func_17();
+[2026-05-11 21:25:44] Actually deleting 3: char func_17()
+13: }
+[2026-05-11 21:25:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01298 failed
+[2026-05-11 21:25:44] deleting 14: int main ()
+17: }
+[2026-05-11 21:25:44] Actually deleting 14: int main ()
+17: }
+[2026-05-11 21:25:44] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01299 failed
+[2026-05-11 21:25:44] deleting 1: static int g_503 = 0x06D7L ;
+[2026-05-11 21:25:44] Actually deleting 10: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:44] Actually deleting 1: static int g_503 = 0x06D7L ;
+[2026-05-11 21:25:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01300 failed
+[2026-05-11 21:25:45] ---EXPRESSION_REDUCER start---
+[2026-05-11 21:25:45] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01301 failed
+[2026-05-11 21:25:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01302 failed
+[2026-05-11 21:25:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01303 failed
+[2026-05-11 21:25:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01304 failed
+[2026-05-11 21:25:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01305 failed
+[2026-05-11 21:25:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01306 failed
+[2026-05-11 21:25:46] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01307 failed
+[2026-05-11 21:25:46] ---INLINE_REDUCER start---
+[2026-05-11 21:25:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01308 failed
+[2026-05-11 21:25:47] ---COVERAGE_REDUCER start---
+[2026-05-11 21:25:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01310 failed
+[2026-05-11 21:25:47] initial coverage size is 3
+[2026-05-11 21:25:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01312 failed
+[2026-05-11 21:25:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01313 failed
+[2026-05-11 21:25:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01314 failed
+[2026-05-11 21:25:47] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01315 failed
+[2026-05-11 21:25:47] ---CALL_TRACE_REDUCER start---
+[2026-05-11 21:25:48] Working in function main
+[2026-05-11 21:25:48] deleting 14: int main ()
+17: }
+[2026-05-11 21:25:48] Actually deleting 14: int main ()
+17: }
+[2026-05-11 21:25:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01317 failed
+[2026-05-11 21:25:48] deleting 16: func_17();
+[2026-05-11 21:25:48] Actually deleting 16: func_17();
+[2026-05-11 21:25:48] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01318 failed
+[2026-05-11 21:25:48] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:25:48] Working in function func_17
+[2026-05-11 21:25:48] deleting 3: char func_17()
+13: }
+[2026-05-11 21:25:48] Actually deleting 3: char func_17()
+13: }
+[2026-05-11 21:25:48] Actually deleting 16: func_17();
+[2026-05-11 21:25:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01319 failed
+[2026-05-11 21:25:49] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01320 failed
+[2026-05-11 21:25:50] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01321 failed
+[2026-05-11 21:25:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01322 failed
+[2026-05-11 21:25:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01322 timeout
+[2026-05-11 21:25:52] deleting 12: return 0;
+[2026-05-11 21:25:52] Actually deleting 12: return 0;
+[2026-05-11 21:25:52] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01323 failed
+[2026-05-11 21:25:52] deleting 5: for (; g_53; 0)
+11:         }
+[2026-05-11 21:25:52] Actually deleting 5: for (; g_53; 0)
+11:         }
+[2026-05-11 21:25:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01324 failed
+[2026-05-11 21:25:53] deleting 5: ;
+[2026-05-11 21:25:53] Actually deleting 5: ;
+[2026-05-11 21:25:53] deleting 7: int l_3593[5][9][5] ;
+[2026-05-11 21:25:53] Actually deleting 7: int l_3593[5][9][5] ;
+[2026-05-11 21:25:53] Actually deleting 10: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:53] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01326 failed
+[2026-05-11 21:25:53] deleting 8: if (0xBEL >= g_427[2] <= 0 <= 0)
+9:             return 0;
+[2026-05-11 21:25:53] Actually deleting 8: if (0xBEL >= g_427[2] <= 0 <= 0)
+9:             return 0;
+[2026-05-11 21:25:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01327 failed
+[2026-05-11 21:25:54] deleting 9: return 0;
+[2026-05-11 21:25:54] Actually deleting 9: return 0;
+[2026-05-11 21:25:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01328 failed
+[2026-05-11 21:25:54] deleting 10: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:54] Actually deleting 10: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:25:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01329 failed
+[2026-05-11 21:25:54] deleting 12: return 0;
+[2026-05-11 21:25:54] Actually deleting 12: return 0;
+[2026-05-11 21:25:54] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01330 failed
+[2026-05-11 21:25:54] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-11 21:25:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01331 failed
+[2026-05-11 21:25:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01332 failed
+[2026-05-11 21:25:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01333 failed
+[2026-05-11 21:25:55] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01334 failed
+[2026-05-11 21:25:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01335 failed
+[2026-05-11 21:25:56] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01336 failed
+[2026-05-11 21:25:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01337 failed
+[2026-05-11 21:25:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01338 failed
+[2026-05-11 21:25:57] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01339 failed
+[2026-05-11 21:25:58] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01340 failed
+[2026-05-11 21:25:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01341 failed
+[2026-05-11 21:25:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01342 failed
+[2026-05-11 21:25:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01343 failed
+[2026-05-11 21:25:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01344 failed
+[2026-05-11 21:25:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01345 failed
+[2026-05-11 21:25:59] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01346 failed
+[2026-05-11 21:26:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01347 failed
+[2026-05-11 21:26:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01348 failed
+[2026-05-11 21:26:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01349 failed
+[2026-05-11 21:26:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01350 failed
+[2026-05-11 21:26:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01351 failed
+[2026-05-11 21:26:00] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01352 failed
+[2026-05-11 21:26:00] ---H_GLOBAL_REDUCER start---
+[2026-05-11 21:26:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01353 failed
+[2026-05-11 21:26:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01354 failed
+[2026-05-11 21:26:01] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01355 failed
+[2026-05-11 21:26:01] deleting 2: int g_53 = 0x702BL, g_427[3], g_2729[3][7] ;
+[2026-05-11 21:26:01] Actually deleting 2: int g_53 = 0x702BL, g_427[3], g_2729[3][7] ;
+[2026-05-11 21:26:01] Actually deleting 8: if (0xBEL >= g_427[2] <= 0 <= 0)
+9:             return 0;
+[2026-05-11 21:26:01] Actually deleting 5: for (; g_53; 0)
+11:         }
+[2026-05-11 21:26:01] Actually deleting 10: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:26:02] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01356 failed
+[2026-05-11 21:26:02] deleting 1: static int g_503 = 0x06D7L ;
+[2026-05-11 21:26:02] Actually deleting 1: static int g_503 = 0x06D7L ;
+[2026-05-11 21:26:02] Actually deleting 10: g_2729[2][0] = l_3593[0][0][g_503];
+[2026-05-11 21:26:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01357 failed
+[2026-05-11 21:26:03] deleting 3: char func_17()
+13: }
+[2026-05-11 21:26:03] Actually deleting 3: char func_17()
+13: }
+[2026-05-11 21:26:03] Actually deleting 16: func_17();
+[2026-05-11 21:26:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01358 failed
+[2026-05-11 21:26:03] deleting 14: int main ()
+17: }
+[2026-05-11 21:26:03] Actually deleting 14: int main ()
+17: }
+[2026-05-11 21:26:03] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01359 failed
+[2026-05-11 21:26:03] ---EXPRESSION_REDUCER start---
+[2026-05-11 21:26:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01360 failed
+[2026-05-11 21:26:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01361 failed
+[2026-05-11 21:26:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01362 failed
+[2026-05-11 21:26:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01363 failed
+[2026-05-11 21:26:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01364 failed
+[2026-05-11 21:26:04] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01365 failed
+[2026-05-11 21:26:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01366 failed
+[2026-05-11 21:26:05] ---INLINE_REDUCER start---
+[2026-05-11 21:26:05] /tmp/tmp.rQtC0qJQtO/DR_test_57501/temp01367 failed

@@ -1,0 +1,28 @@
+
+
+
+
+package compiler.runtime;
+
+import checksum.check_sum;
+
+public class StackOverflowBug
+{
+    public static int my_check_sum = 0;
+    
+    public static void main(final String[] array) {
+        run();
+        System.out.println(StackOverflowBug.my_check_sum);
+    }
+    
+    public static int run() {
+        final short n2 = 1;
+        StackOverflowBug.my_check_sum = check_sum.run(StackOverflowBug.my_check_sum, n2);
+		try {
+            return run();
+        }
+        catch (final Throwable t) {
+            return 42;
+        }
+    }
+}

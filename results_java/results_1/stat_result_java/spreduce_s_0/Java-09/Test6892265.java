@@ -1,0 +1,33 @@
+
+
+
+
+package compiler.runtime;
+
+import checksum.check_sum;
+
+public class Test6892265
+{
+    public static int[] src2 = null;
+    public static int[] dst2 = null;
+    public static int my_check_sum = 0;
+    
+    static {
+        Test6892265.src2 = new int[1];
+    }
+    
+    public static void main(final String[] array) {
+        Test6892265.dst2 = new int[536870913];
+		for (int i = 0; i < 11000; ++i) {
+            test();
+        }
+        System.out.println(Test6892265.my_check_sum);
+    }
+    
+    public static void test() {
+        final int[] dst2;
+        final int n2 = 536870912;
+        System.arraycopy(Test6892265.dst2, n2, Test6892265.src2, 0, 1);
+        Test6892265.my_check_sum = check_sum.run(Test6892265.my_check_sum, n2);
+    }
+}

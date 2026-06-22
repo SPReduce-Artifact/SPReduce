@@ -1,0 +1,11 @@
+{
+    "Subject": "c_benchmarks/clang-26760",
+    "Reducer": "spreduce_s",
+    "Environment": null,
+    "Origin token count": 209577,
+    "Iteration": 0,
+    "Query": 1131,
+    "Time": 2042,
+    "Token_remaining": 59,
+    "Ret_code": 0
+}

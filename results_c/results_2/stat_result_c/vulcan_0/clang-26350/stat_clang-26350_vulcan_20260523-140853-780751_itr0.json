@@ -1,0 +1,11 @@
+{
+    "Subject": "c_benchmarks/clang-26350",
+    "Reducer": "vulcan",
+    "Environment": null,
+    "Origin token count": 123811,
+    "Iteration": 0,
+    "Query": 15917,
+    "Time": 8511,
+    "Token_remaining": 165,
+    "Ret_code": 0
+}

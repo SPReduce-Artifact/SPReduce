@@ -1,0 +1,11 @@
+{
+    "Subject": "c_benchmarks/gcc-65383",
+    "Reducer": "spreduce_s",
+    "Environment": null,
+    "Origin token count": 43942,
+    "Iteration": 0,
+    "Query": 1437,
+    "Time": 1337,
+    "Token_remaining": 99,
+    "Ret_code": 0
+}

@@ -1,0 +1,1096 @@
+[2026-05-12 06:27:22] ---TOTAL start---
+[2026-05-12 06:27:22] ---COVERAGE_REDUCER start---
+[2026-05-12 06:27:23] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00002 succeed
+[2026-05-12 06:27:23] initial coverage size is 124
+[2026-05-12 06:27:23] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00004 succeed
+[2026-05-12 06:27:24] ---CALL_TRACE_REDUCER start---
+[2026-05-12 06:27:24] Working in function main
+[2026-05-12 06:27:24] deleting 506: int main() {
+539: }
+[2026-05-12 06:27:24] Actually deleting 506: int main() {
+539: }
+[2026-05-12 06:27:24] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00007 failed
+[2026-05-12 06:27:24] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00008 succeed
+[2026-05-12 06:27:24] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-12 06:27:24] Working in function test3char64
+[2026-05-12 06:27:24] deleting 16: void test3char64(void) {
+21: }
+[2026-05-12 06:27:24] Actually deleting 16: void test3char64(void) {
+21: }
+[2026-05-12 06:27:25] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00009 succeed
+[2026-05-12 06:27:25] Working in function test1char64
+[2026-05-12 06:27:25] deleting 3: __attribute__((noinline, noclone)) vchar64 test1char64(char c) {
+8: }
+[2026-05-12 06:27:25] Actually deleting 4: vchar64 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c,
+6:                c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:25] Actually deleting 7: return v;
+[2026-05-12 06:27:25] Actually deleting 3: __attribute__((noinline, noclone)) vchar64 test1char64(char c) {
+8: }
+[2026-05-12 06:27:25] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00010 succeed
+[2026-05-12 06:27:25] Working in function test2char64
+[2026-05-12 06:27:25] deleting 3: __attribute__((noinline, noclone)) vchar64 test2char64(char *p) {
+9: }
+[2026-05-12 06:27:25] Actually deleting 8: return v;
+[2026-05-12 06:27:25] Actually deleting 3: __attribute__((noinline, noclone)) vchar64 test2char64(char *p) {
+9: }
+[2026-05-12 06:27:25] Actually deleting 4: char c = *p;
+[2026-05-12 06:27:25] Actually deleting 5: vchar64 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c,
+7:                c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:25] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00011 succeed
+[2026-05-12 06:27:25] Working in function test3char32
+[2026-05-12 06:27:25] deleting 15: void test3char32(void) {
+20: }
+[2026-05-12 06:27:25] Actually deleting 15: void test3char32(void) {
+20: }
+[2026-05-12 06:27:26] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00012 succeed
+[2026-05-12 06:27:26] Working in function test1char32
+[2026-05-12 06:27:26] deleting 4: __attribute__((noinline, noclone)) vchar32 test1char32(char c) {
+8: }
+[2026-05-12 06:27:26] Actually deleting 4: __attribute__((noinline, noclone)) vchar32 test1char32(char c) {
+8: }
+[2026-05-12 06:27:26] Actually deleting 7: return v;
+[2026-05-12 06:27:26] Actually deleting 5: vchar32 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c,
+6:                c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:26] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00013 succeed
+[2026-05-12 06:27:26] Working in function test2char32
+[2026-05-12 06:27:26] deleting 4: __attribute__((noinline, noclone)) vchar32 test2char32(char *p) {
+9: }
+[2026-05-12 06:27:26] Actually deleting 4: __attribute__((noinline, noclone)) vchar32 test2char32(char *p) {
+9: }
+[2026-05-12 06:27:26] Actually deleting 5: char c = *p;
+[2026-05-12 06:27:26] Actually deleting 8: return v;
+[2026-05-12 06:27:26] Actually deleting 6: vchar32 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c,
+7:                c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:26] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00014 succeed
+[2026-05-12 06:27:26] Working in function test3char16
+[2026-05-12 06:27:26] deleting 14: void test3char16(void) {
+19: }
+[2026-05-12 06:27:26] Actually deleting 14: void test3char16(void) {
+19: }
+[2026-05-12 06:27:27] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00015 succeed
+[2026-05-12 06:27:27] Working in function test1char16
+[2026-05-12 06:27:27] deleting 5: __attribute__((noinline, noclone)) vchar16 test1char16(char c) {
+8: }
+[2026-05-12 06:27:27] Actually deleting 6: vchar16 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:27] Actually deleting 5: __attribute__((noinline, noclone)) vchar16 test1char16(char c) {
+8: }
+[2026-05-12 06:27:27] Actually deleting 7: return v;
+[2026-05-12 06:27:27] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00016 succeed
+[2026-05-12 06:27:27] Working in function test2char16
+[2026-05-12 06:27:27] deleting 5: __attribute__((noinline, noclone)) vchar16 test2char16(char *p) {
+9: }
+[2026-05-12 06:27:27] Actually deleting 6: char c = *p;
+[2026-05-12 06:27:27] Actually deleting 5: __attribute__((noinline, noclone)) vchar16 test2char16(char *p) {
+9: }
+[2026-05-12 06:27:27] Actually deleting 7: vchar16 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:27] Actually deleting 8: return v;
+[2026-05-12 06:27:27] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00017 succeed
+[2026-05-12 06:27:28] Working in function test3char8
+[2026-05-12 06:27:28] deleting 15: void test3char8(void) {
+20: }
+[2026-05-12 06:27:28] Actually deleting 15: void test3char8(void) {
+20: }
+[2026-05-12 06:27:28] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00018 succeed
+[2026-05-12 06:27:28] Working in function test1char8
+[2026-05-12 06:27:28] deleting 6: __attribute__((noinline, noclone)) vchar8 test1char8(char c) {
+9: }
+[2026-05-12 06:27:28] Actually deleting 377: return v;
+[2026-05-12 06:27:28] Actually deleting 375: llong c = *test1char8;
+[2026-05-12 06:27:28] Actually deleting 376: vllong1 v = {c};
+[2026-05-12 06:27:28] Actually deleting 6: __attribute__((noinline, noclone)) vchar8 test1char8(char c) {
+9: }
+[2026-05-12 06:27:28] Actually deleting 7: vchar8 v = {c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:28] Actually deleting 8: return v;
+[2026-05-12 06:27:28] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00019 failed
+[2026-05-12 06:27:29] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00020 succeed
+[2026-05-12 06:27:29] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-12 06:27:29] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00021 failed
+[2026-05-12 06:27:29] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00022 failed
+[2026-05-12 06:27:29] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00023 succeed
+[2026-05-12 06:27:29] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00024 failed
+[2026-05-12 06:27:29] Working in function test2char8
+[2026-05-12 06:27:29] deleting 8: __attribute__((noinline, noclone)) vchar8 test2char8(char *p) {
+12: }
+[2026-05-12 06:27:29] Actually deleting 9: char c = *p;
+[2026-05-12 06:27:29] Actually deleting 10: vchar8 v = {c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:29] Actually deleting 8: __attribute__((noinline, noclone)) vchar8 test2char8(char *p) {
+12: }
+[2026-05-12 06:27:29] Actually deleting 11: return v;
+[2026-05-12 06:27:30] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00025 succeed
+[2026-05-12 06:27:30] Working in function test3char4
+[2026-05-12 06:27:30] deleting 18: void test3char4(void) {
+23: }
+[2026-05-12 06:27:30] Actually deleting 18: void test3char4(void) {
+23: }
+[2026-05-12 06:27:30] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00026 succeed
+[2026-05-12 06:27:30] Working in function test1char4
+[2026-05-12 06:27:30] deleting 9: __attribute__((noinline, noclone)) vchar4 test1char4(char c) {
+12: }
+[2026-05-12 06:27:30] Actually deleting 11: return v;
+[2026-05-12 06:27:30] Actually deleting 10: vchar4 v = {c, c, c, c};
+[2026-05-12 06:27:30] Actually deleting 9: __attribute__((noinline, noclone)) vchar4 test1char4(char c) {
+12: }
+[2026-05-12 06:27:30] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00027 succeed
+[2026-05-12 06:27:30] Working in function test2char4
+[2026-05-12 06:27:30] deleting 9: __attribute__((noinline, noclone)) vchar4 test2char4(char *p) {
+13: }
+[2026-05-12 06:27:30] Actually deleting 12: return v;
+[2026-05-12 06:27:30] Actually deleting 9: __attribute__((noinline, noclone)) vchar4 test2char4(char *p) {
+13: }
+[2026-05-12 06:27:30] Actually deleting 11: vchar4 v = {c, c, c, c};
+[2026-05-12 06:27:30] Actually deleting 10: char c = *p;
+[2026-05-12 06:27:31] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00028 succeed
+[2026-05-12 06:27:31] Working in function test3char2
+[2026-05-12 06:27:31] deleting 19: void test3char2(void) {
+24: }
+[2026-05-12 06:27:31] Actually deleting 19: void test3char2(void) {
+24: }
+[2026-05-12 06:27:31] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00029 succeed
+[2026-05-12 06:27:31] Working in function test1char2
+[2026-05-12 06:27:31] deleting 10: __attribute__((noinline, noclone)) vchar2 test1char2(char c) {
+13: }
+[2026-05-12 06:27:31] Actually deleting 10: __attribute__((noinline, noclone)) vchar2 test1char2(char c) {
+13: }
+[2026-05-12 06:27:31] Actually deleting 11: vchar2 v = {c, c};
+[2026-05-12 06:27:31] Actually deleting 12: return v;
+[2026-05-12 06:27:31] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00030 succeed
+[2026-05-12 06:27:31] Working in function test2char2
+[2026-05-12 06:27:31] deleting 10: __attribute__((noinline, noclone)) vchar2 test2char2(char *p) {
+14: }
+[2026-05-12 06:27:31] Actually deleting 11: char c = *p;
+[2026-05-12 06:27:31] Actually deleting 12: vchar2 v = {c, c};
+[2026-05-12 06:27:31] Actually deleting 13: return v;
+[2026-05-12 06:27:31] Actually deleting 10: __attribute__((noinline, noclone)) vchar2 test2char2(char *p) {
+14: }
+[2026-05-12 06:27:32] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00031 succeed
+[2026-05-12 06:27:32] Working in function test3char1
+[2026-05-12 06:27:32] deleting 20: void test3char1(void) {
+25: }
+[2026-05-12 06:27:32] Actually deleting 20: void test3char1(void) {
+25: }
+[2026-05-12 06:27:32] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00032 succeed
+[2026-05-12 06:27:32] Working in function test1char1
+[2026-05-12 06:27:32] deleting 11: __attribute__((noinline, noclone)) vchar1 test1char1(char c) {
+14: }
+[2026-05-12 06:27:32] Actually deleting 12: vchar1 v = {c};
+[2026-05-12 06:27:32] Actually deleting 11: __attribute__((noinline, noclone)) vchar1 test1char1(char c) {
+14: }
+[2026-05-12 06:27:32] Actually deleting 13: return v;
+[2026-05-12 06:27:32] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00033 succeed
+[2026-05-12 06:27:32] Working in function test2char1
+[2026-05-12 06:27:32] deleting 11: __attribute__((noinline, noclone)) vchar1 test2char1(char *p) {
+15: }
+[2026-05-12 06:27:32] Actually deleting 14: return v;
+[2026-05-12 06:27:32] Actually deleting 12: char c = *p;
+[2026-05-12 06:27:32] Actually deleting 13: vchar1 v = {c};
+[2026-05-12 06:27:32] Actually deleting 11: __attribute__((noinline, noclone)) vchar1 test2char1(char *p) {
+15: }
+[2026-05-12 06:27:32] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00034 succeed
+[2026-05-12 06:27:32] Working in function test3short32
+[2026-05-12 06:27:32] deleting 23: void test3short32(void) {
+28: }
+[2026-05-12 06:27:32] Actually deleting 23: void test3short32(void) {
+28: }
+[2026-05-12 06:27:33] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00035 succeed
+[2026-05-12 06:27:33] Working in function test1short32
+[2026-05-12 06:27:33] deleting 12: __attribute__((noinline, noclone)) vshort32 test1short32(short c) {
+16: }
+[2026-05-12 06:27:33] Actually deleting 12: __attribute__((noinline, noclone)) vshort32 test1short32(short c) {
+16: }
+[2026-05-12 06:27:33] Actually deleting 15: return v;
+[2026-05-12 06:27:33] Actually deleting 13: vshort32 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c,
+14:                 c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:33] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00036 succeed
+[2026-05-12 06:27:33] Working in function test2short32
+[2026-05-12 06:27:33] deleting 12: __attribute__((noinline, noclone)) vshort32 test2short32(short *p) {
+17: }
+[2026-05-12 06:27:33] Actually deleting 14: vshort32 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c,
+15:                 c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:33] Actually deleting 12: __attribute__((noinline, noclone)) vshort32 test2short32(short *p) {
+17: }
+[2026-05-12 06:27:33] Actually deleting 13: short c = *p;
+[2026-05-12 06:27:33] Actually deleting 16: return v;
+[2026-05-12 06:27:33] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00037 succeed
+[2026-05-12 06:27:33] Working in function test3short16
+[2026-05-12 06:27:33] deleting 22: void test3short16(void) {
+27: }
+[2026-05-12 06:27:33] Actually deleting 22: void test3short16(void) {
+27: }
+[2026-05-12 06:27:34] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00038 succeed
+[2026-05-12 06:27:34] Working in function test1short16
+[2026-05-12 06:27:34] deleting 13: __attribute__((noinline, noclone)) vshort16 test1short16(short c) {
+16: }
+[2026-05-12 06:27:34] Actually deleting 14: vshort16 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:34] Actually deleting 15: return v;
+[2026-05-12 06:27:34] Actually deleting 13: __attribute__((noinline, noclone)) vshort16 test1short16(short c) {
+16: }
+[2026-05-12 06:27:34] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00039 succeed
+[2026-05-12 06:27:34] Working in function test2short16
+[2026-05-12 06:27:34] deleting 13: __attribute__((noinline, noclone)) vshort16 test2short16(short *p) {
+17: }
+[2026-05-12 06:27:34] Actually deleting 16: return v;
+[2026-05-12 06:27:34] Actually deleting 13: __attribute__((noinline, noclone)) vshort16 test2short16(short *p) {
+17: }
+[2026-05-12 06:27:34] Actually deleting 15: vshort16 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:34] Actually deleting 14: short c = *p;
+[2026-05-12 06:27:34] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00040 succeed
+[2026-05-12 06:27:34] Working in function test3short8
+[2026-05-12 06:27:34] deleting 23: void test3short8(void) {
+28: }
+[2026-05-12 06:27:34] Actually deleting 23: void test3short8(void) {
+28: }
+[2026-05-12 06:27:35] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00041 succeed
+[2026-05-12 06:27:35] Working in function test1short8
+[2026-05-12 06:27:35] deleting 14: __attribute__((noinline, noclone)) vshort8 test1short8(short c) {
+17: }
+[2026-05-12 06:27:35] Actually deleting 14: __attribute__((noinline, noclone)) vshort8 test1short8(short c) {
+17: }
+[2026-05-12 06:27:35] Actually deleting 16: return v;
+[2026-05-12 06:27:35] Actually deleting 15: vshort8 v = {c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:35] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00042 succeed
+[2026-05-12 06:27:35] Working in function test2short8
+[2026-05-12 06:27:35] deleting 14: __attribute__((noinline, noclone)) vshort8 test2short8(short *p) {
+18: }
+[2026-05-12 06:27:35] Actually deleting 15: short c = *p;
+[2026-05-12 06:27:35] Actually deleting 14: __attribute__((noinline, noclone)) vshort8 test2short8(short *p) {
+18: }
+[2026-05-12 06:27:35] Actually deleting 16: vshort8 v = {c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:35] Actually deleting 17: return v;
+[2026-05-12 06:27:35] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00043 succeed
+[2026-05-12 06:27:35] Working in function test3short4
+[2026-05-12 06:27:35] deleting 24: void test3short4(void) {
+29: }
+[2026-05-12 06:27:35] Actually deleting 24: void test3short4(void) {
+29: }
+[2026-05-12 06:27:36] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00044 succeed
+[2026-05-12 06:27:36] Working in function test1short4
+[2026-05-12 06:27:36] deleting 15: __attribute__((noinline, noclone)) vshort4 test1short4(short c) {
+18: }
+[2026-05-12 06:27:36] Actually deleting 15: __attribute__((noinline, noclone)) vshort4 test1short4(short c) {
+18: }
+[2026-05-12 06:27:36] Actually deleting 16: vshort4 v = {c, c, c, c};
+[2026-05-12 06:27:36] Actually deleting 17: return v;
+[2026-05-12 06:27:36] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00045 succeed
+[2026-05-12 06:27:36] Working in function test2short4
+[2026-05-12 06:27:36] deleting 15: __attribute__((noinline, noclone)) vshort4 test2short4(short *p) {
+19: }
+[2026-05-12 06:27:36] Actually deleting 18: return v;
+[2026-05-12 06:27:36] Actually deleting 15: __attribute__((noinline, noclone)) vshort4 test2short4(short *p) {
+19: }
+[2026-05-12 06:27:36] Actually deleting 16: short c = *p;
+[2026-05-12 06:27:36] Actually deleting 17: vshort4 v = {c, c, c, c};
+[2026-05-12 06:27:36] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00046 succeed
+[2026-05-12 06:27:36] Working in function test3short2
+[2026-05-12 06:27:36] deleting 25: void test3short2(void) {
+30: }
+[2026-05-12 06:27:36] Actually deleting 25: void test3short2(void) {
+30: }
+[2026-05-12 06:27:37] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00047 succeed
+[2026-05-12 06:27:37] Working in function test1short2
+[2026-05-12 06:27:37] deleting 16: __attribute__((noinline, noclone)) vshort2 test1short2(short c) {
+19: }
+[2026-05-12 06:27:37] Actually deleting 16: __attribute__((noinline, noclone)) vshort2 test1short2(short c) {
+19: }
+[2026-05-12 06:27:37] Actually deleting 17: vshort2 v = {c, c};
+[2026-05-12 06:27:37] Actually deleting 18: return v;
+[2026-05-12 06:27:37] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00048 succeed
+[2026-05-12 06:27:37] Working in function test2short2
+[2026-05-12 06:27:37] deleting 16: __attribute__((noinline, noclone)) vshort2 test2short2(short *p) {
+20: }
+[2026-05-12 06:27:37] Actually deleting 17: short c = *p;
+[2026-05-12 06:27:37] Actually deleting 16: __attribute__((noinline, noclone)) vshort2 test2short2(short *p) {
+20: }
+[2026-05-12 06:27:37] Actually deleting 19: return v;
+[2026-05-12 06:27:37] Actually deleting 18: vshort2 v = {c, c};
+[2026-05-12 06:27:37] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00049 succeed
+[2026-05-12 06:27:37] Working in function test3short1
+[2026-05-12 06:27:37] deleting 26: void test3short1(void) {
+31: }
+[2026-05-12 06:27:37] Actually deleting 26: void test3short1(void) {
+31: }
+[2026-05-12 06:27:37] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00050 succeed
+[2026-05-12 06:27:37] Working in function test1short1
+[2026-05-12 06:27:37] deleting 17: __attribute__((noinline, noclone)) vshort1 test1short1(short c) {
+20: }
+[2026-05-12 06:27:37] Actually deleting 17: __attribute__((noinline, noclone)) vshort1 test1short1(short c) {
+20: }
+[2026-05-12 06:27:37] Actually deleting 18: vshort1 v = {c};
+[2026-05-12 06:27:37] Actually deleting 19: return v;
+[2026-05-12 06:27:38] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00051 succeed
+[2026-05-12 06:27:38] Working in function test2short1
+[2026-05-12 06:27:38] deleting 17: __attribute__((noinline, noclone)) vshort1 test2short1(short *p) {
+21: }
+[2026-05-12 06:27:38] Actually deleting 17: __attribute__((noinline, noclone)) vshort1 test2short1(short *p) {
+21: }
+[2026-05-12 06:27:38] Actually deleting 20: return v;
+[2026-05-12 06:27:38] Actually deleting 19: vshort1 v = {c};
+[2026-05-12 06:27:38] Actually deleting 18: short c = *p;
+[2026-05-12 06:27:38] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00052 succeed
+[2026-05-12 06:27:38] Working in function test3int16
+[2026-05-12 06:27:38] deleting 27: void test3int16(void) {
+32: }
+[2026-05-12 06:27:38] Actually deleting 27: void test3int16(void) {
+32: }
+[2026-05-12 06:27:38] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00053 succeed
+[2026-05-12 06:27:38] Working in function test1int16
+[2026-05-12 06:27:38] deleting 18: __attribute__((noinline, noclone)) vint16 test1int16(int c) {
+21: }
+[2026-05-12 06:27:38] Actually deleting 19: vint16 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:38] Actually deleting 18: __attribute__((noinline, noclone)) vint16 test1int16(int c) {
+21: }
+[2026-05-12 06:27:38] Actually deleting 20: return v;
+[2026-05-12 06:27:39] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00054 succeed
+[2026-05-12 06:27:39] Working in function test2int16
+[2026-05-12 06:27:39] deleting 18: __attribute__((noinline, noclone)) vint16 test2int16(int *p) {
+22: }
+[2026-05-12 06:27:39] Actually deleting 21: return v;
+[2026-05-12 06:27:39] Actually deleting 18: __attribute__((noinline, noclone)) vint16 test2int16(int *p) {
+22: }
+[2026-05-12 06:27:39] Actually deleting 20: vint16 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:39] Actually deleting 19: int c = *p;
+[2026-05-12 06:27:39] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00055 succeed
+[2026-05-12 06:27:39] Working in function test3int8
+[2026-05-12 06:27:39] deleting 28: void test3int8(void) {
+33: }
+[2026-05-12 06:27:39] Actually deleting 28: void test3int8(void) {
+33: }
+[2026-05-12 06:27:39] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00056 succeed
+[2026-05-12 06:27:39] Working in function test1int8
+[2026-05-12 06:27:39] deleting 19: __attribute__((noinline, noclone)) vint8 test1int8(int c) {
+22: }
+[2026-05-12 06:27:39] Actually deleting 19: __attribute__((noinline, noclone)) vint8 test1int8(int c) {
+22: }
+[2026-05-12 06:27:39] Actually deleting 21: return v;
+[2026-05-12 06:27:39] Actually deleting 20: vint8 v = {c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:40] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00057 succeed
+[2026-05-12 06:27:40] Working in function test2int8
+[2026-05-12 06:27:40] deleting 19: __attribute__((noinline, noclone)) vint8 test2int8(int *p) {
+23: }
+[2026-05-12 06:27:40] Actually deleting 21: vint8 v = {c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:40] Actually deleting 19: __attribute__((noinline, noclone)) vint8 test2int8(int *p) {
+23: }
+[2026-05-12 06:27:40] Actually deleting 20: int c = *p;
+[2026-05-12 06:27:40] Actually deleting 22: return v;
+[2026-05-12 06:27:40] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00058 succeed
+[2026-05-12 06:27:40] Working in function test3int4
+[2026-05-12 06:27:40] deleting 29: void test3int4(void) {
+34: }
+[2026-05-12 06:27:40] Actually deleting 29: void test3int4(void) {
+34: }
+[2026-05-12 06:27:40] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00059 succeed
+[2026-05-12 06:27:40] Working in function test1int4
+[2026-05-12 06:27:40] deleting 20: __attribute__((noinline, noclone)) vint4 test1int4(int c) {
+23: }
+[2026-05-12 06:27:40] Actually deleting 20: __attribute__((noinline, noclone)) vint4 test1int4(int c) {
+23: }
+[2026-05-12 06:27:40] Actually deleting 22: return v;
+[2026-05-12 06:27:40] Actually deleting 21: vint4 v = {c, c, c, c};
+[2026-05-12 06:27:41] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00060 succeed
+[2026-05-12 06:27:41] Working in function test2int4
+[2026-05-12 06:27:41] deleting 20: __attribute__((noinline, noclone)) vint4 test2int4(int *p) {
+24: }
+[2026-05-12 06:27:41] Actually deleting 20: __attribute__((noinline, noclone)) vint4 test2int4(int *p) {
+24: }
+[2026-05-12 06:27:41] Actually deleting 22: vint4 v = {c, c, c, c};
+[2026-05-12 06:27:41] Actually deleting 21: int c = *p;
+[2026-05-12 06:27:41] Actually deleting 23: return v;
+[2026-05-12 06:27:41] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00061 succeed
+[2026-05-12 06:27:41] Working in function test3int2
+[2026-05-12 06:27:41] deleting 30: void test3int2(void) {
+35: }
+[2026-05-12 06:27:41] Actually deleting 30: void test3int2(void) {
+35: }
+[2026-05-12 06:27:41] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00062 succeed
+[2026-05-12 06:27:41] Working in function test1int2
+[2026-05-12 06:27:41] deleting 21: __attribute__((noinline, noclone)) vint2 test1int2(int c) {
+24: }
+[2026-05-12 06:27:41] Actually deleting 23: return v;
+[2026-05-12 06:27:41] Actually deleting 22: vint2 v = {c, c};
+[2026-05-12 06:27:41] Actually deleting 21: __attribute__((noinline, noclone)) vint2 test1int2(int c) {
+24: }
+[2026-05-12 06:27:41] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00063 succeed
+[2026-05-12 06:27:41] Working in function test2int2
+[2026-05-12 06:27:41] deleting 21: __attribute__((noinline, noclone)) vint2 test2int2(int *p) {
+25: }
+[2026-05-12 06:27:41] Actually deleting 22: int c = *p;
+[2026-05-12 06:27:41] Actually deleting 24: return v;
+[2026-05-12 06:27:41] Actually deleting 21: __attribute__((noinline, noclone)) vint2 test2int2(int *p) {
+25: }
+[2026-05-12 06:27:41] Actually deleting 23: vint2 v = {c, c};
+[2026-05-12 06:27:42] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00064 succeed
+[2026-05-12 06:27:42] Working in function test3int1
+[2026-05-12 06:27:42] deleting 31: void test3int1(void) {
+36: }
+[2026-05-12 06:27:42] Actually deleting 31: void test3int1(void) {
+36: }
+[2026-05-12 06:27:42] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00065 succeed
+[2026-05-12 06:27:42] Working in function test1int1
+[2026-05-12 06:27:42] deleting 22: __attribute__((noinline, noclone)) vint1 test1int1(int c) {
+25: }
+[2026-05-12 06:27:42] Actually deleting 22: __attribute__((noinline, noclone)) vint1 test1int1(int c) {
+25: }
+[2026-05-12 06:27:42] Actually deleting 24: return v;
+[2026-05-12 06:27:42] Actually deleting 23: vint1 v = {c};
+[2026-05-12 06:27:42] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00066 succeed
+[2026-05-12 06:27:42] Working in function test2int1
+[2026-05-12 06:27:42] deleting 22: __attribute__((noinline, noclone)) vint1 test2int1(int *p) {
+26: }
+[2026-05-12 06:27:42] Actually deleting 24: vint1 v = {c};
+[2026-05-12 06:27:42] Actually deleting 25: return v;
+[2026-05-12 06:27:42] Actually deleting 23: int c = *p;
+[2026-05-12 06:27:42] Actually deleting 22: __attribute__((noinline, noclone)) vint1 test2int1(int *p) {
+26: }
+[2026-05-12 06:27:42] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00067 succeed
+[2026-05-12 06:27:42] Working in function test3float16
+[2026-05-12 06:27:42] deleting 32: void test3float16(void) {
+37: }
+[2026-05-12 06:27:42] Actually deleting 32: void test3float16(void) {
+37: }
+[2026-05-12 06:27:43] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00068 succeed
+[2026-05-12 06:27:43] Working in function test1float16
+[2026-05-12 06:27:43] deleting 23: __attribute__((noinline, noclone)) vfloat16 test1float16(float c) {
+26: }
+[2026-05-12 06:27:43] Actually deleting 25: return v;
+[2026-05-12 06:27:43] Actually deleting 23: __attribute__((noinline, noclone)) vfloat16 test1float16(float c) {
+26: }
+[2026-05-12 06:27:43] Actually deleting 24: vfloat16 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:43] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00069 succeed
+[2026-05-12 06:27:43] Working in function test2float16
+[2026-05-12 06:27:43] deleting 23: __attribute__((noinline, noclone)) vfloat16 test2float16(float *p) {
+27: }
+[2026-05-12 06:27:43] Actually deleting 23: __attribute__((noinline, noclone)) vfloat16 test2float16(float *p) {
+27: }
+[2026-05-12 06:27:43] Actually deleting 26: return v;
+[2026-05-12 06:27:43] Actually deleting 24: float c = *p;
+[2026-05-12 06:27:43] Actually deleting 25: vfloat16 v = {c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:43] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00070 succeed
+[2026-05-12 06:27:43] Working in function test3float8
+[2026-05-12 06:27:43] deleting 33: void test3float8(void) {
+38: }
+[2026-05-12 06:27:43] Actually deleting 33: void test3float8(void) {
+38: }
+[2026-05-12 06:27:43] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00071 succeed
+[2026-05-12 06:27:43] Working in function test1float8
+[2026-05-12 06:27:43] deleting 24: __attribute__((noinline, noclone)) vfloat8 test1float8(float c) {
+27: }
+[2026-05-12 06:27:43] Actually deleting 24: __attribute__((noinline, noclone)) vfloat8 test1float8(float c) {
+27: }
+[2026-05-12 06:27:43] Actually deleting 25: vfloat8 v = {c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:43] Actually deleting 26: return v;
+[2026-05-12 06:27:44] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00072 succeed
+[2026-05-12 06:27:44] Working in function test2float8
+[2026-05-12 06:27:44] deleting 24: __attribute__((noinline, noclone)) vfloat8 test2float8(float *p) {
+28: }
+[2026-05-12 06:27:44] Actually deleting 24: __attribute__((noinline, noclone)) vfloat8 test2float8(float *p) {
+28: }
+[2026-05-12 06:27:44] Actually deleting 26: vfloat8 v = {c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:44] Actually deleting 25: float c = *p;
+[2026-05-12 06:27:44] Actually deleting 27: return v;
+[2026-05-12 06:27:44] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00073 succeed
+[2026-05-12 06:27:44] Working in function test3float4
+[2026-05-12 06:27:44] deleting 34: void test3float4(void) {
+39: }
+[2026-05-12 06:27:44] Actually deleting 34: void test3float4(void) {
+39: }
+[2026-05-12 06:27:44] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00074 succeed
+[2026-05-12 06:27:44] Working in function test1float4
+[2026-05-12 06:27:44] deleting 25: __attribute__((noinline, noclone)) vfloat4 test1float4(float c) {
+28: }
+[2026-05-12 06:27:44] Actually deleting 26: vfloat4 v = {c, c, c, c};
+[2026-05-12 06:27:44] Actually deleting 25: __attribute__((noinline, noclone)) vfloat4 test1float4(float c) {
+28: }
+[2026-05-12 06:27:44] Actually deleting 27: return v;
+[2026-05-12 06:27:44] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00075 succeed
+[2026-05-12 06:27:44] Working in function test2float4
+[2026-05-12 06:27:45] deleting 25: __attribute__((noinline, noclone)) vfloat4 test2float4(float *p) {
+29: }
+[2026-05-12 06:27:45] Actually deleting 27: vfloat4 v = {c, c, c, c};
+[2026-05-12 06:27:45] Actually deleting 26: float c = *p;
+[2026-05-12 06:27:45] Actually deleting 25: __attribute__((noinline, noclone)) vfloat4 test2float4(float *p) {
+29: }
+[2026-05-12 06:27:45] Actually deleting 28: return v;
+[2026-05-12 06:27:45] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00076 succeed
+[2026-05-12 06:27:45] Working in function test3float2
+[2026-05-12 06:27:45] deleting 35: void test3float2(void) {
+40: }
+[2026-05-12 06:27:45] Actually deleting 35: void test3float2(void) {
+40: }
+[2026-05-12 06:27:45] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00077 succeed
+[2026-05-12 06:27:45] Working in function test1float2
+[2026-05-12 06:27:45] deleting 26: __attribute__((noinline, noclone)) vfloat2 test1float2(float c) {
+29: }
+[2026-05-12 06:27:45] Actually deleting 28: return v;
+[2026-05-12 06:27:45] Actually deleting 26: __attribute__((noinline, noclone)) vfloat2 test1float2(float c) {
+29: }
+[2026-05-12 06:27:45] Actually deleting 27: vfloat2 v = {c, c};
+[2026-05-12 06:27:45] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00078 succeed
+[2026-05-12 06:27:45] Working in function test2float2
+[2026-05-12 06:27:45] deleting 26: __attribute__((noinline, noclone)) vfloat2 test2float2(float *p) {
+30: }
+[2026-05-12 06:27:45] Actually deleting 27: float c = *p;
+[2026-05-12 06:27:45] Actually deleting 28: vfloat2 v = {c, c};
+[2026-05-12 06:27:45] Actually deleting 26: __attribute__((noinline, noclone)) vfloat2 test2float2(float *p) {
+30: }
+[2026-05-12 06:27:45] Actually deleting 29: return v;
+[2026-05-12 06:27:45] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00079 succeed
+[2026-05-12 06:27:45] Working in function test3float1
+[2026-05-12 06:27:45] deleting 36: void test3float1(void) {
+41: }
+[2026-05-12 06:27:45] Actually deleting 36: void test3float1(void) {
+41: }
+[2026-05-12 06:27:46] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00080 succeed
+[2026-05-12 06:27:46] Working in function test1float1
+[2026-05-12 06:27:46] deleting 27: __attribute__((noinline, noclone)) vfloat1 test1float1(float c) {
+30: }
+[2026-05-12 06:27:46] Actually deleting 28: vfloat1 v = {c};
+[2026-05-12 06:27:46] Actually deleting 27: __attribute__((noinline, noclone)) vfloat1 test1float1(float c) {
+30: }
+[2026-05-12 06:27:46] Actually deleting 29: return v;
+[2026-05-12 06:27:46] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00081 succeed
+[2026-05-12 06:27:46] Working in function test2float1
+[2026-05-12 06:27:46] deleting 27: __attribute__((noinline, noclone)) vfloat1 test2float1(float *p) {
+31: }
+[2026-05-12 06:27:46] Actually deleting 29: vfloat1 v = {c};
+[2026-05-12 06:27:46] Actually deleting 30: return v;
+[2026-05-12 06:27:46] Actually deleting 27: __attribute__((noinline, noclone)) vfloat1 test2float1(float *p) {
+31: }
+[2026-05-12 06:27:46] Actually deleting 28: float c = *p;
+[2026-05-12 06:27:46] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00082 succeed
+[2026-05-12 06:27:46] Working in function test3llong8
+[2026-05-12 06:27:46] deleting 37: void test3llong8(void) {
+42: }
+[2026-05-12 06:27:46] Actually deleting 37: void test3llong8(void) {
+42: }
+[2026-05-12 06:27:46] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00083 succeed
+[2026-05-12 06:27:46] Working in function test1llong8
+[2026-05-12 06:27:46] deleting 28: __attribute__((noinline, noclone)) vllong8 test1llong8(llong c) {
+31: }
+[2026-05-12 06:27:46] Actually deleting 29: vllong8 v = {c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:46] Actually deleting 30: return v;
+[2026-05-12 06:27:46] Actually deleting 28: __attribute__((noinline, noclone)) vllong8 test1llong8(llong c) {
+31: }
+[2026-05-12 06:27:47] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00084 succeed
+[2026-05-12 06:27:47] Working in function test2llong8
+[2026-05-12 06:27:47] deleting 28: __attribute__((noinline, noclone)) vllong8 test2llong8(llong *p) {
+32: }
+[2026-05-12 06:27:47] Actually deleting 28: __attribute__((noinline, noclone)) vllong8 test2llong8(llong *p) {
+32: }
+[2026-05-12 06:27:47] Actually deleting 30: vllong8 v = {c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:47] Actually deleting 29: llong c = *p;
+[2026-05-12 06:27:47] Actually deleting 31: return v;
+[2026-05-12 06:27:47] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00085 succeed
+[2026-05-12 06:27:47] Working in function test3llong4
+[2026-05-12 06:27:47] deleting 38: void test3llong4(void) {
+43: }
+[2026-05-12 06:27:47] Actually deleting 38: void test3llong4(void) {
+43: }
+[2026-05-12 06:27:47] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00086 succeed
+[2026-05-12 06:27:47] Working in function test1llong4
+[2026-05-12 06:27:47] deleting 29: __attribute__((noinline, noclone)) vllong4 test1llong4(llong c) {
+32: }
+[2026-05-12 06:27:47] Actually deleting 31: return v;
+[2026-05-12 06:27:47] Actually deleting 30: vllong4 v = {c, c, c, c};
+[2026-05-12 06:27:47] Actually deleting 29: __attribute__((noinline, noclone)) vllong4 test1llong4(llong c) {
+32: }
+[2026-05-12 06:27:47] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00087 succeed
+[2026-05-12 06:27:47] Working in function test2llong4
+[2026-05-12 06:27:47] deleting 29: __attribute__((noinline, noclone)) vllong4 test2llong4(llong *p) {
+33: }
+[2026-05-12 06:27:47] Actually deleting 29: __attribute__((noinline, noclone)) vllong4 test2llong4(llong *p) {
+33: }
+[2026-05-12 06:27:47] Actually deleting 32: return v;
+[2026-05-12 06:27:47] Actually deleting 30: llong c = *p;
+[2026-05-12 06:27:47] Actually deleting 31: vllong4 v = {c, c, c, c};
+[2026-05-12 06:27:48] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00088 succeed
+[2026-05-12 06:27:48] Working in function test3llong2
+[2026-05-12 06:27:48] deleting 39: void test3llong2(void) {
+44: }
+[2026-05-12 06:27:48] Actually deleting 39: void test3llong2(void) {
+44: }
+[2026-05-12 06:27:48] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00089 succeed
+[2026-05-12 06:27:48] Working in function test1llong2
+[2026-05-12 06:27:48] deleting 30: __attribute__((noinline, noclone)) vllong2 test1llong2(llong c) {
+33: }
+[2026-05-12 06:27:48] Actually deleting 30: __attribute__((noinline, noclone)) vllong2 test1llong2(llong c) {
+33: }
+[2026-05-12 06:27:48] Actually deleting 31: vllong2 v = {c, c};
+[2026-05-12 06:27:48] Actually deleting 32: return v;
+[2026-05-12 06:27:48] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00090 succeed
+[2026-05-12 06:27:48] Working in function test2llong2
+[2026-05-12 06:27:48] deleting 30: __attribute__((noinline, noclone)) vllong2 test2llong2(llong *p) {
+34: }
+[2026-05-12 06:27:48] Actually deleting 30: __attribute__((noinline, noclone)) vllong2 test2llong2(llong *p) {
+34: }
+[2026-05-12 06:27:48] Actually deleting 31: llong c = *p;
+[2026-05-12 06:27:48] Actually deleting 32: vllong2 v = {c, c};
+[2026-05-12 06:27:48] Actually deleting 33: return v;
+[2026-05-12 06:27:48] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00091 succeed
+[2026-05-12 06:27:48] Working in function test3llong1
+[2026-05-12 06:27:48] deleting 40: void test3llong1(void) {
+45: }
+[2026-05-12 06:27:48] Actually deleting 40: void test3llong1(void) {
+45: }
+[2026-05-12 06:27:49] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00092 succeed
+[2026-05-12 06:27:49] Working in function test1llong1
+[2026-05-12 06:27:49] deleting 31: __attribute__((noinline, noclone)) vllong1 test1llong1(llong c) {
+34: }
+[2026-05-12 06:27:49] Actually deleting 33: return v;
+[2026-05-12 06:27:49] Actually deleting 31: __attribute__((noinline, noclone)) vllong1 test1llong1(llong c) {
+34: }
+[2026-05-12 06:27:49] Actually deleting 32: vllong1 v = {c};
+[2026-05-12 06:27:49] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00093 succeed
+[2026-05-12 06:27:49] Working in function test2llong1
+[2026-05-12 06:27:49] deleting 31: __attribute__((noinline, noclone)) vllong1 test2llong1(llong *p) {
+35: }
+[2026-05-12 06:27:49] Actually deleting 31: __attribute__((noinline, noclone)) vllong1 test2llong1(llong *p) {
+35: }
+[2026-05-12 06:27:49] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00094 failed
+[2026-05-12 06:27:49] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00095 failed
+[2026-05-12 06:27:49] deleting 32: llong c = *test1char8;
+[2026-05-12 06:27:49] Actually deleting 34: return v;
+[2026-05-12 06:27:49] Actually deleting 33: vllong1 v = {c};
+[2026-05-12 06:27:49] Actually deleting 32: llong c = *test1char8;
+[2026-05-12 06:27:49] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00096 failed
+[2026-05-12 06:27:49] deleting 33: vllong1 v = {c};
+[2026-05-12 06:27:49] Actually deleting 34: return v;
+[2026-05-12 06:27:49] Actually deleting 33: vllong1 v = {c};
+[2026-05-12 06:27:50] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00097 failed
+[2026-05-12 06:27:50] deleting 34: return v;
+[2026-05-12 06:27:50] Actually deleting 34: return v;
+[2026-05-12 06:27:50] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00098 failed
+[2026-05-12 06:27:50] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-12 06:27:50] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00099 failed
+[2026-05-12 06:27:50] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00100 failed
+[2026-05-12 06:27:50] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00101 succeed
+[2026-05-12 06:27:50] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00102 failed
+[2026-05-12 06:27:50] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00103 succeed
+[2026-05-12 06:27:51] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00104 failed
+[2026-05-12 06:27:51] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00105 failed
+[2026-05-12 06:27:51] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00106 failed
+[2026-05-12 06:27:51] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00108 failed
+[2026-05-12 06:27:51] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00109 failed
+[2026-05-12 06:27:51] Working in function test3double8
+[2026-05-12 06:27:51] deleting 46: void test3double8(void) {
+51: }
+[2026-05-12 06:27:51] Actually deleting 46: void test3double8(void) {
+51: }
+[2026-05-12 06:27:51] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00110 succeed
+[2026-05-12 06:27:51] Working in function test1double8
+[2026-05-12 06:27:51] deleting 37: __attribute__((noinline, noclone)) vdouble8 test1double8(double c) {
+40: }
+[2026-05-12 06:27:51] Actually deleting 39: return v;
+[2026-05-12 06:27:51] Actually deleting 38: vdouble8 v = {c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:51] Actually deleting 37: __attribute__((noinline, noclone)) vdouble8 test1double8(double c) {
+40: }
+[2026-05-12 06:27:51] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00111 succeed
+[2026-05-12 06:27:51] Working in function test2double8
+[2026-05-12 06:27:51] deleting 37: __attribute__((noinline, noclone)) vdouble8 test2double8(double *p) {
+41: }
+[2026-05-12 06:27:51] Actually deleting 38: double c = *p;
+[2026-05-12 06:27:51] Actually deleting 39: vdouble8 v = {c, c, c, c, c, c, c, c};
+[2026-05-12 06:27:51] Actually deleting 37: __attribute__((noinline, noclone)) vdouble8 test2double8(double *p) {
+41: }
+[2026-05-12 06:27:51] Actually deleting 40: return v;
+[2026-05-12 06:27:52] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00112 succeed
+[2026-05-12 06:27:52] Working in function test3double4
+[2026-05-12 06:27:52] deleting 47: void test3double4(void) {
+52: }
+[2026-05-12 06:27:52] Actually deleting 47: void test3double4(void) {
+52: }
+[2026-05-12 06:27:52] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00113 succeed
+[2026-05-12 06:27:52] Working in function test1double4
+[2026-05-12 06:27:52] deleting 38: __attribute__((noinline, noclone)) vdouble4 test1double4(double c) {
+41: }
+[2026-05-12 06:27:52] Actually deleting 38: __attribute__((noinline, noclone)) vdouble4 test1double4(double c) {
+41: }
+[2026-05-12 06:27:52] Actually deleting 40: return v;
+[2026-05-12 06:27:52] Actually deleting 39: vdouble4 v = {c, c, c, c};
+[2026-05-12 06:27:52] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00114 succeed
+[2026-05-12 06:27:52] Working in function test2double4
+[2026-05-12 06:27:52] deleting 38: __attribute__((noinline, noclone)) vdouble4 test2double4(double *p) {
+42: }
+[2026-05-12 06:27:52] Actually deleting 40: vdouble4 v = {c, c, c, c};
+[2026-05-12 06:27:52] Actually deleting 38: __attribute__((noinline, noclone)) vdouble4 test2double4(double *p) {
+42: }
+[2026-05-12 06:27:52] Actually deleting 39: double c = *p;
+[2026-05-12 06:27:52] Actually deleting 41: return v;
+[2026-05-12 06:27:52] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00115 succeed
+[2026-05-12 06:27:52] Working in function test3double2
+[2026-05-12 06:27:52] deleting 48: void test3double2(void) {
+53: }
+[2026-05-12 06:27:52] Actually deleting 48: void test3double2(void) {
+53: }
+[2026-05-12 06:27:52] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00116 succeed
+[2026-05-12 06:27:52] Working in function test1double2
+[2026-05-12 06:27:52] deleting 39: __attribute__((noinline, noclone)) vdouble2 test1double2(double c) {
+42: }
+[2026-05-12 06:27:52] Actually deleting 41: return v;
+[2026-05-12 06:27:52] Actually deleting 40: vdouble2 v = {c, c};
+[2026-05-12 06:27:52] Actually deleting 39: __attribute__((noinline, noclone)) vdouble2 test1double2(double c) {
+42: }
+[2026-05-12 06:27:53] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00117 succeed
+[2026-05-12 06:27:53] Working in function test2double2
+[2026-05-12 06:27:53] deleting 39: __attribute__((noinline, noclone)) vdouble2 test2double2(double *p) {
+43: }
+[2026-05-12 06:27:53] Actually deleting 39: __attribute__((noinline, noclone)) vdouble2 test2double2(double *p) {
+43: }
+[2026-05-12 06:27:53] Actually deleting 41: vdouble2 v = {c, c};
+[2026-05-12 06:27:53] Actually deleting 42: return v;
+[2026-05-12 06:27:53] Actually deleting 40: double c = *p;
+[2026-05-12 06:27:53] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00118 succeed
+[2026-05-12 06:27:53] Working in function test3double1
+[2026-05-12 06:27:53] deleting 49: void test3double1(void) {
+54: }
+[2026-05-12 06:27:53] Actually deleting 49: void test3double1(void) {
+54: }
+[2026-05-12 06:27:53] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00119 succeed
+[2026-05-12 06:27:53] Working in function test1double1
+[2026-05-12 06:27:53] deleting 40: __attribute__((noinline, noclone)) vdouble1 test1double1(double c) {
+43: }
+[2026-05-12 06:27:53] Actually deleting 40: __attribute__((noinline, noclone)) vdouble1 test1double1(double c) {
+43: }
+[2026-05-12 06:27:53] Actually deleting 41: vdouble1 v = {c};
+[2026-05-12 06:27:53] Actually deleting 42: return v;
+[2026-05-12 06:27:53] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00120 succeed
+[2026-05-12 06:27:53] Working in function test2double1
+[2026-05-12 06:27:53] deleting 40: __attribute__((noinline, noclone)) vdouble1 test2double1(double *p) {
+44: }
+[2026-05-12 06:27:53] Actually deleting 40: __attribute__((noinline, noclone)) vdouble1 test2double1(double *p) {
+44: }
+[2026-05-12 06:27:53] Actually deleting 42: vdouble1 v = {c};
+[2026-05-12 06:27:53] Actually deleting 43: return v;
+[2026-05-12 06:27:53] Actually deleting 41: double c = *p;
+[2026-05-12 06:27:54] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00121 succeed
+[2026-05-12 06:27:54] ---H_GLOBAL_REDUCER start---
+[2026-05-12 06:27:54] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00122 failed
+[2026-05-12 06:27:54] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00123 failed
+[2026-05-12 06:27:54] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00124 failed
+[2026-05-12 06:27:54] deleting 9: typedef char vchar2 __attribute__((__vector_size__(2 * sizeof(char))));
+[2026-05-12 06:27:54] Actually deleting 9: typedef char vchar2 __attribute__((__vector_size__(2 * sizeof(char))));
+[2026-05-12 06:27:54] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00125 succeed
+[2026-05-12 06:27:55] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00126 failed
+[2026-05-12 06:27:55] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00127 failed
+[2026-05-12 06:27:55] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00128 failed
+[2026-05-12 06:27:55] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00129 failed
+[2026-05-12 06:27:55] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00130 failed
+[2026-05-12 06:27:55] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00131 succeed
+[2026-05-12 06:27:55] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00132 failed
+[2026-05-12 06:27:56] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00133 succeed
+[2026-05-12 06:27:56] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00134 failed
+[2026-05-12 06:27:56] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00135 failed
+[2026-05-12 06:27:56] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00136 failed
+[2026-05-12 06:27:56] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00137 failed
+[2026-05-12 06:27:56] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00138 failed
+[2026-05-12 06:27:56] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00139 succeed
+[2026-05-12 06:27:57] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00140 succeed
+[2026-05-12 06:27:57] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00141 failed
+[2026-05-12 06:27:57] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00142 failed
+[2026-05-12 06:27:57] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00143 succeed
+[2026-05-12 06:27:57] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00144 failed
+[2026-05-12 06:27:57] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00145 succeed
+[2026-05-12 06:27:58] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00146 succeed
+[2026-05-12 06:27:58] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00147 failed
+[2026-05-12 06:27:58] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00148 failed
+[2026-05-12 06:27:58] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00149 failed
+[2026-05-12 06:27:58] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00150 failed
+[2026-05-12 06:27:58] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00151 failed
+[2026-05-12 06:27:58] deleting 6: typedef char vchar4 __attribute__((__vector_size__(4 * sizeof(char))));
+[2026-05-12 06:27:58] Actually deleting 6: typedef char vchar4 __attribute__((__vector_size__(4 * sizeof(char))));
+[2026-05-12 06:27:58] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00152 succeed
+[2026-05-12 06:27:58] deleting 18: int main() {
+19: }
+[2026-05-12 06:27:58] Actually deleting 18: int main() {
+19: }
+[2026-05-12 06:27:59] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00153 failed
+[2026-05-12 06:27:59] deleting 17: typedef double vdouble1 __attribute__((__vector_size__(1 * sizeof(double))));
+[2026-05-12 06:27:59] Actually deleting 17: typedef double vdouble1 __attribute__((__vector_size__(1 * sizeof(double))));
+[2026-05-12 06:27:59] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00154 succeed
+[2026-05-12 06:27:59] deleting 7: typedef int vint1 __attribute__((__vector_size__(1 * sizeof(int))));
+[2026-05-12 06:27:59] Actually deleting 7: typedef int vint1 __attribute__((__vector_size__(1 * sizeof(int))));
+[2026-05-12 06:27:59] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00155 succeed
+[2026-05-12 06:27:59] deleting 9: typedef float vfloat1 __attribute__((__vector_size__(1 * sizeof(float))));
+[2026-05-12 06:27:59] Actually deleting 9: typedef float vfloat1 __attribute__((__vector_size__(1 * sizeof(float))));
+[2026-05-12 06:27:59] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00156 succeed
+[2026-05-12 06:27:59] deleting 9: typedef llong vllong1 __attribute__((__vector_size__(1 * sizeof(llong))));
+[2026-05-12 06:27:59] Actually deleting 9: typedef llong vllong1 __attribute__((__vector_size__(1 * sizeof(llong))));
+[2026-05-12 06:27:59] Actually deleting 13: return v;
+[2026-05-12 06:27:59] Actually deleting 12: vllong1 v = {c};
+[2026-05-12 06:27:59] Actually deleting 10: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+14: }
+[2026-05-12 06:27:59] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00157 failed
+[2026-05-12 06:27:59] deleting 15: int main() {
+16: }
+[2026-05-12 06:27:59] Actually deleting 15: int main() {
+16: }
+[2026-05-12 06:27:59] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00158 failed
+[2026-05-12 06:27:59] deleting 6: typedef int vint16 __attribute__((__vector_size__(16 * sizeof(int))));
+[2026-05-12 06:27:59] Actually deleting 6: typedef int vint16 __attribute__((__vector_size__(16 * sizeof(int))));
+[2026-05-12 06:28:00] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00159 succeed
+[2026-05-12 06:28:00] deleting 1: typedef long long llong;
+[2026-05-12 06:28:00] Actually deleting 9: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+13: }
+[2026-05-12 06:28:00] Actually deleting 11: vllong1 v = {c};
+[2026-05-12 06:28:00] Actually deleting 1: typedef long long llong;
+[2026-05-12 06:28:00] Actually deleting 12: return v;
+[2026-05-12 06:28:00] Actually deleting 10: llong c = test1char8;
+[2026-05-12 06:28:00] Actually deleting 8: typedef llong vllong1 __attribute__((__vector_size__(1 * sizeof(llong))));
+[2026-05-12 06:28:00] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00160 failed
+[2026-05-12 06:28:00] deleting 3: typedef char vchar8 __attribute__((__vector_size__(8 * sizeof(char))));
+[2026-05-12 06:28:00] Actually deleting 4: __attribute__((noinline, noclone)) vchar8 test1char8() {
+5: }
+[2026-05-12 06:28:00] Actually deleting 11: vllong1 v = {c};
+[2026-05-12 06:28:00] Actually deleting 12: return v;
+[2026-05-12 06:28:00] Actually deleting 3: typedef char vchar8 __attribute__((__vector_size__(8 * sizeof(char))));
+[2026-05-12 06:28:00] Actually deleting 10: llong c = test1char8;
+[2026-05-12 06:28:00] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00161 failed
+[2026-05-12 06:28:00] deleting 2: typedef char vchar64 __attribute__((__vector_size__(64 * sizeof(char))));
+[2026-05-12 06:28:00] Actually deleting 2: typedef char vchar64 __attribute__((__vector_size__(64 * sizeof(char))));
+[2026-05-12 06:28:00] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00162 succeed
+[2026-05-12 06:28:00] deleting 6: typedef float vfloat4 __attribute__((__vector_size__(4 * sizeof(float))));
+[2026-05-12 06:28:00] Actually deleting 6: typedef float vfloat4 __attribute__((__vector_size__(4 * sizeof(float))));
+[2026-05-12 06:28:00] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00163 succeed
+[2026-05-12 06:28:00] deleting 7: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+11: }
+[2026-05-12 06:28:00] Actually deleting 7: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+11: }
+[2026-05-12 06:28:01] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00164 failed
+[2026-05-12 06:28:01] deleting 1: typedef long long llong;
+[2026-05-12 06:28:01] Actually deleting 6: typedef llong vllong1 __attribute__((__vector_size__(1 * sizeof(llong))));
+[2026-05-12 06:28:01] Actually deleting 9: vllong1 v = {c};
+[2026-05-12 06:28:01] Actually deleting 8: llong c = test1char8;
+[2026-05-12 06:28:01] Actually deleting 7: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+11: }
+[2026-05-12 06:28:01] Actually deleting 10: return v;
+[2026-05-12 06:28:01] Actually deleting 1: typedef long long llong;
+[2026-05-12 06:28:01] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00165 failed
+[2026-05-12 06:28:01] ---EXPRESSION_REDUCER start---
+[2026-05-12 06:28:01] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00166 failed
+[2026-05-12 06:28:01] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00167 succeed
+[2026-05-12 06:28:01] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00168 failed
+[2026-05-12 06:28:01] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00169 succeed
+[2026-05-12 06:28:01] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00170 failed
+[2026-05-12 06:28:01] ---INLINE_REDUCER start---
+[2026-05-12 06:28:02] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00171 succeed
+[2026-05-12 06:28:02] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00172 succeed
+[2026-05-12 06:28:02] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00173 failed
+[2026-05-12 06:28:02] ---COVERAGE_REDUCER start---
+[2026-05-12 06:28:02] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00175 failed
+[2026-05-12 06:28:02] initial coverage size is 12
+[2026-05-12 06:28:02] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00177 failed
+[2026-05-12 06:28:02] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00178 failed
+[2026-05-12 06:28:02] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00179 failed
+[2026-05-12 06:28:03] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00180 failed
+[2026-05-12 06:28:03] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00181 failed
+[2026-05-12 06:28:03] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00182 failed
+[2026-05-12 06:28:03] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00183 failed
+[2026-05-12 06:28:03] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00184 failed
+[2026-05-12 06:28:03] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00185 failed
+[2026-05-12 06:28:03] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00186 failed
+[2026-05-12 06:28:03] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00187 failed
+[2026-05-12 06:28:03] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00188 failed
+[2026-05-12 06:28:04] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00189 failed
+[2026-05-12 06:28:04] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00190 failed
+[2026-05-12 06:28:04] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00191 failed
+[2026-05-12 06:28:04] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00192 failed
+[2026-05-12 06:28:04] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00193 failed
+[2026-05-12 06:28:04] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00194 failed
+[2026-05-12 06:28:04] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00195 failed
+[2026-05-12 06:28:04] ---CALL_TRACE_REDUCER start---
+[2026-05-12 06:28:04] Working in function main
+[2026-05-12 06:28:04] deleting 10: int main() {
+11: }
+[2026-05-12 06:28:04] Actually deleting 10: int main() {
+11: }
+[2026-05-12 06:28:04] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00197 failed
+[2026-05-12 06:28:04] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-12 06:28:04] Working in function test1char8
+[2026-05-12 06:28:04] deleting 1: __attribute__((noinline, noclone)) char test1char8() {
+2: }
+[2026-05-12 06:28:04] Actually deleting 6: long int c = test1char8;
+[2026-05-12 06:28:04] Actually deleting 8: return v;
+[2026-05-12 06:28:04] Actually deleting 1: __attribute__((noinline, noclone)) char test1char8() {
+2: }
+[2026-05-12 06:28:04] Actually deleting 7: vllong1 v = {c};
+[2026-05-12 06:28:04] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00198 failed
+[2026-05-12 06:28:04] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-12 06:28:05] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00199 failed
+[2026-05-12 06:28:05] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00200 failed
+[2026-05-12 06:28:05] Working in function test2llong1
+[2026-05-12 06:28:05] deleting 5: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+9: }
+[2026-05-12 06:28:05] Actually deleting 5: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+9: }
+[2026-05-12 06:28:05] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00201 failed
+[2026-05-12 06:28:05] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00202 failed
+[2026-05-12 06:28:05] deleting 6: long int c = test1char8;
+[2026-05-12 06:28:05] Actually deleting 7: vllong1 v = {c};
+[2026-05-12 06:28:05] Actually deleting 6: long int c = test1char8;
+[2026-05-12 06:28:05] Actually deleting 8: return v;
+[2026-05-12 06:28:05] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00203 failed
+[2026-05-12 06:28:05] deleting 7: vllong1 v = {c};
+[2026-05-12 06:28:05] Actually deleting 7: vllong1 v = {c};
+[2026-05-12 06:28:05] Actually deleting 8: return v;
+[2026-05-12 06:28:05] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00204 failed
+[2026-05-12 06:28:05] deleting 8: return v;
+[2026-05-12 06:28:05] Actually deleting 8: return v;
+[2026-05-12 06:28:05] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00205 failed
+[2026-05-12 06:28:05] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-12 06:28:05] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00206 failed
+[2026-05-12 06:28:05] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00207 failed
+[2026-05-12 06:28:06] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00208 failed
+[2026-05-12 06:28:06] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00209 failed
+[2026-05-12 06:28:06] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00210 failed
+[2026-05-12 06:28:06] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00211 failed
+[2026-05-12 06:28:06] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00212 failed
+[2026-05-12 06:28:06] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00214 failed
+[2026-05-12 06:28:06] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00215 failed
+[2026-05-12 06:28:06] ---H_GLOBAL_REDUCER start---
+[2026-05-12 06:28:06] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00216 failed
+[2026-05-12 06:28:06] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00217 failed
+[2026-05-12 06:28:07] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00218 failed
+[2026-05-12 06:28:07] deleting 1: __attribute__((noinline, noclone)) char test1char8() {
+2: }
+[2026-05-12 06:28:07] Actually deleting 7: vllong1 v = {c};
+[2026-05-12 06:28:07] Actually deleting 6: long int c = test1char8;
+[2026-05-12 06:28:07] Actually deleting 8: return v;
+[2026-05-12 06:28:07] Actually deleting 1: __attribute__((noinline, noclone)) char test1char8() {
+2: }
+[2026-05-12 06:28:07] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00219 failed
+[2026-05-12 06:28:07] deleting 10: int main() {
+11: }
+[2026-05-12 06:28:07] Actually deleting 10: int main() {
+11: }
+[2026-05-12 06:28:07] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00220 failed
+[2026-05-12 06:28:07] deleting 3: float vfloat16 __attribute__((__vector_size__(16 * sizeof(float))));
+[2026-05-12 06:28:07] Actually deleting 3: float vfloat16 __attribute__((__vector_size__(16 * sizeof(float))));
+[2026-05-12 06:28:07] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00221 succeed
+[2026-05-12 06:28:07] deleting 9: int main() {
+10: }
+[2026-05-12 06:28:07] Actually deleting 9: int main() {
+10: }
+[2026-05-12 06:28:07] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00222 failed
+[2026-05-12 06:28:07] deleting 1: __attribute__((noinline, noclone)) char test1char8() {
+2: }
+[2026-05-12 06:28:07] Actually deleting 7: return v;
+[2026-05-12 06:28:07] Actually deleting 1: __attribute__((noinline, noclone)) char test1char8() {
+2: }
+[2026-05-12 06:28:07] Actually deleting 6: vllong1 v = {c};
+[2026-05-12 06:28:07] Actually deleting 5: long int c = test1char8;
+[2026-05-12 06:28:07] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00223 failed
+[2026-05-12 06:28:07] deleting 3: typedef long int vllong1 __attribute__((__vector_size__(1 * sizeof(long int))));
+[2026-05-12 06:28:07] Actually deleting 4: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+8: }
+[2026-05-12 06:28:07] Actually deleting 7: return v;
+[2026-05-12 06:28:07] Actually deleting 6: vllong1 v = {c};
+[2026-05-12 06:28:07] Actually deleting 3: typedef long int vllong1 __attribute__((__vector_size__(1 * sizeof(long int))));
+[2026-05-12 06:28:07] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00224 failed
+[2026-05-12 06:28:07] ---EXPRESSION_REDUCER start---
+[2026-05-12 06:28:07] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00225 failed
+[2026-05-12 06:28:08] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00226 failed
+[2026-05-12 06:28:08] ---INLINE_REDUCER start---
+[2026-05-12 06:28:08] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00227 failed
+[2026-05-12 06:28:08] ---COVERAGE_REDUCER start---
+[2026-05-12 06:28:08] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00229 failed
+[2026-05-12 06:28:08] initial coverage size is 12
+[2026-05-12 06:28:08] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00231 failed
+[2026-05-12 06:28:08] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00232 failed
+[2026-05-12 06:28:08] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00233 failed
+[2026-05-12 06:28:08] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00234 failed
+[2026-05-12 06:28:08] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00235 failed
+[2026-05-12 06:28:09] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00236 failed
+[2026-05-12 06:28:09] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00237 failed
+[2026-05-12 06:28:09] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00238 failed
+[2026-05-12 06:28:09] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00239 failed
+[2026-05-12 06:28:09] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00240 failed
+[2026-05-12 06:28:09] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00241 failed
+[2026-05-12 06:28:09] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00242 failed
+[2026-05-12 06:28:09] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00243 failed
+[2026-05-12 06:28:09] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00244 failed
+[2026-05-12 06:28:10] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00245 failed
+[2026-05-12 06:28:10] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00246 failed
+[2026-05-12 06:28:10] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00247 failed
+[2026-05-12 06:28:10] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00248 failed
+[2026-05-12 06:28:10] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00249 failed
+[2026-05-12 06:28:10] ---CALL_TRACE_REDUCER start---
+[2026-05-12 06:28:10] Working in function main
+[2026-05-12 06:28:10] deleting 9: int main() {
+10: }
+[2026-05-12 06:28:10] Actually deleting 9: int main() {
+10: }
+[2026-05-12 06:28:10] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00251 failed
+[2026-05-12 06:28:10] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-12 06:28:10] Working in function test1char8
+[2026-05-12 06:28:10] deleting 1: __attribute__((noinline, noclone)) char test1char8() {
+2: }
+[2026-05-12 06:28:10] Actually deleting 1: __attribute__((noinline, noclone)) char test1char8() {
+2: }
+[2026-05-12 06:28:10] Actually deleting 6: vllong1 v = {c};
+[2026-05-12 06:28:10] Actually deleting 7: return v;
+[2026-05-12 06:28:10] Actually deleting 5: long int c = test1char8;
+[2026-05-12 06:28:10] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00252 failed
+[2026-05-12 06:28:10] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-12 06:28:10] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00253 failed
+[2026-05-12 06:28:10] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00254 failed
+[2026-05-12 06:28:10] Working in function test2llong1
+[2026-05-12 06:28:10] deleting 4: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+8: }
+[2026-05-12 06:28:10] Actually deleting 4: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+8: }
+[2026-05-12 06:28:11] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00255 failed
+[2026-05-12 06:28:11] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00256 failed
+[2026-05-12 06:28:11] deleting 5: long int c = test1char8;
+[2026-05-12 06:28:11] Actually deleting 5: long int c = test1char8;
+[2026-05-12 06:28:11] Actually deleting 6: vllong1 v = {c};
+[2026-05-12 06:28:11] Actually deleting 7: return v;
+[2026-05-12 06:28:11] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00257 failed
+[2026-05-12 06:28:11] deleting 6: vllong1 v = {c};
+[2026-05-12 06:28:11] Actually deleting 6: vllong1 v = {c};
+[2026-05-12 06:28:11] Actually deleting 7: return v;
+[2026-05-12 06:28:11] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00258 failed
+[2026-05-12 06:28:11] deleting 7: return v;
+[2026-05-12 06:28:11] Actually deleting 7: return v;
+[2026-05-12 06:28:11] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00259 failed
+[2026-05-12 06:28:11] ---LOCAL_EXPRESSION_REDUCER start---
+[2026-05-12 06:28:11] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00260 failed
+[2026-05-12 06:28:11] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00261 failed
+[2026-05-12 06:28:11] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00262 failed
+[2026-05-12 06:28:12] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00263 failed
+[2026-05-12 06:28:12] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00264 failed
+[2026-05-12 06:28:12] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00265 failed
+[2026-05-12 06:28:12] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00266 failed
+[2026-05-12 06:28:12] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00268 failed
+[2026-05-12 06:28:12] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00269 failed
+[2026-05-12 06:28:12] ---H_GLOBAL_REDUCER start---
+[2026-05-12 06:28:12] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00270 failed
+[2026-05-12 06:28:12] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00271 failed
+[2026-05-12 06:28:12] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00272 failed
+[2026-05-12 06:28:12] deleting 1: __attribute__((noinline, noclone)) char test1char8() {
+2: }
+[2026-05-12 06:28:12] Actually deleting 1: __attribute__((noinline, noclone)) char test1char8() {
+2: }
+[2026-05-12 06:28:12] Actually deleting 7: return v;
+[2026-05-12 06:28:12] Actually deleting 5: long int c = test1char8;
+[2026-05-12 06:28:12] Actually deleting 6: vllong1 v = {c};
+[2026-05-12 06:28:13] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00273 failed
+[2026-05-12 06:28:13] deleting 4: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+8: }
+[2026-05-12 06:28:13] Actually deleting 4: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+8: }
+[2026-05-12 06:28:13] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00274 failed
+[2026-05-12 06:28:13] deleting 3: typedef long int vllong1 __attribute__((__vector_size__(1 * sizeof(long int))));
+[2026-05-12 06:28:13] Actually deleting 4: __attribute__((noinline, noclone)) vllong1 test2llong1() {
+8: }
+[2026-05-12 06:28:13] Actually deleting 7: return v;
+[2026-05-12 06:28:13] Actually deleting 3: typedef long int vllong1 __attribute__((__vector_size__(1 * sizeof(long int))));
+[2026-05-12 06:28:13] Actually deleting 6: vllong1 v = {c};
+[2026-05-12 06:28:13] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00275 failed
+[2026-05-12 06:28:13] deleting 9: int main() {
+10: }
+[2026-05-12 06:28:13] Actually deleting 9: int main() {
+10: }
+[2026-05-12 06:28:13] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00276 failed
+[2026-05-12 06:28:13] ---EXPRESSION_REDUCER start---
+[2026-05-12 06:28:13] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00277 failed
+[2026-05-12 06:28:13] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00278 failed
+[2026-05-12 06:28:13] ---INLINE_REDUCER start---
+[2026-05-12 06:28:13] /tmp/tmp.pLOPwVvk99/DR_test_77253/temp00279 failed

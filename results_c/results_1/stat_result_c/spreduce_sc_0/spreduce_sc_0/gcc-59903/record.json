@@ -1,0 +1,65 @@
+{
+  "TOTAL" : {
+    "TimeoutCount" : 12,
+    "TotalTime" : 1939.844,
+    "BashTime" : 1904.77,
+    "BashRunCount" : 2528,
+    "SuccessCount" : 634
+  },
+  "effectRecord2" : {
+    "Time" : 15.35
+  },
+  "CALL_TRACE_REDUCER" : {
+    "TimeoutCount" : 5,
+    "TotalTime" : 1141.56,
+    "BashTime" : 1130.258,
+    "BashRunCount" : 1561,
+    "SuccessCount" : 435
+  },
+  "LOCAL_EXPRESSION_REDUCER" : {
+    "TimeoutCount" : 5,
+    "TotalTime" : 771.419,
+    "BashTime" : 764.367,
+    "BashRunCount" : 1087,
+    "SuccessCount" : 338
+  },
+  "INLINE_REDUCER" : {
+    "TimeoutCount" : 0,
+    "TotalTime" : 35.701,
+    "BashTime" : 35.417,
+    "BashRunCount" : 51,
+    "SuccessCount" : 40
+  },
+  "COVERAGE_REDUCER" : {
+    "TimeoutCount" : 0,
+    "TotalTime" : 606.452,
+    "BashTime" : 585.097,
+    "BashRunCount" : 563,
+    "SuccessCount" : 70
+  },
+  "EXPRESSION_REDUCER" : {
+    "TimeoutCount" : 6,
+    "TotalTime" : 51.351,
+    "BashTime" : 50.934,
+    "BashRunCount" : 142,
+    "SuccessCount" : 43
+  },
+  "H_GLOBAL_REDUCER" : {
+    "TimeoutCount" : 1,
+    "TotalTime" : 103.927,
+    "BashTime" : 103.062,
+    "BashRunCount" : 211,
+    "SuccessCount" : 46
+  },
+  "CACHE" : {
+    "TotalTime" : 0.0,
+    "QueryCount" : 0,
+    "WorkCount" : 0
+  },
+  "effectRecord1" : {
+    "Time" : 0.0
+  },
+  "effectRecord0" : {
+    "Time" : 0.371
+  }
+}
